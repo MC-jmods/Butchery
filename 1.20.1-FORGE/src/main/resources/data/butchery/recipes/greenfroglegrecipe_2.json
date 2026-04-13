@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "group": "frog",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "butchery:raw_green_frog_leg"
+  },
+  "result": "butchery:cooked_green_frog_leg"
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "butchery:drained_drowned_corpse",
+    "butchery:drained_villager",
+    "butchery:drained_husk_corpse",
+    "butchery:drained_zombie_corpse"
+  ]
+}

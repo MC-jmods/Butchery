@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "group": "pork",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "butchery:raw_blood_sausage"
+  },
+  "result": "butchery:cooked_blood_sausage"
+}

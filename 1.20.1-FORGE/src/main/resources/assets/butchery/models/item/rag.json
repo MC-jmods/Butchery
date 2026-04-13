@@ -1,0 +1,38 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "butchery:item/rag"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "butchery:rag_wetness": 1
+      },
+      "model": "butchery:item/rag_0"
+    },
+    {
+      "predicate": {
+        "butchery:rag_wetness": 2
+      },
+      "model": "butchery:item/rag_1"
+    },
+    {
+      "predicate": {
+        "butchery:rag_wetness": 3
+      },
+      "model": "butchery:item/rag_2"
+    },
+    {
+      "predicate": {
+        "butchery:rag_wetness": 4
+      },
+      "model": "butchery:item/rag_3"
+    },
+    {
+      "predicate": {
+        "butchery:rag_wetness": 5
+      },
+      "model": "butchery:item/rag_4"
+    }
+  ]
+}

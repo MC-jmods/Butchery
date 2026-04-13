@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "butchery:zombie_corpse",
+    "butchery:drained_zombie_corpse"
+  ]
+}

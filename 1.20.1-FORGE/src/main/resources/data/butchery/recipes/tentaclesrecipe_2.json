@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "group": "squid",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "butchery:tentacles"
+  },
+  "result": "butchery:calamari"
+}

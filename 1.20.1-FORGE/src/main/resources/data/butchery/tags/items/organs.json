@@ -1,0 +1,28 @@
+{
+  "replace": false,
+  "values": [
+    "butchery:stomach",
+    "butchery:lungs",
+    "butchery:enderman_intestines",
+    "butchery:rotten_intestines",
+    "butchery:enderman_heart",
+    "butchery:enderman_stomach",
+    "butchery:rotten_lungs",
+    "butchery:enderman_kidney",
+    "butchery:cooked_enderman_stomach",
+    "butchery:heart",
+    "butchery:intestines",
+    "butchery:cooked_enderman_intestines",
+    "butchery:cooked_enderman_kidney",
+    "butchery:cooked_enderman_liver",
+    "butchery:rotten_kidney",
+    "butchery:rotten_stomach",
+    "butchery:cooked_enderman_lungs",
+    "butchery:enderman_liver",
+    "butchery:enderman_lungs",
+    "butchery:rotten_heart",
+    "butchery:liver",
+    "butchery:rotten_liver",
+    "butchery:kidney"
+  ]
+}

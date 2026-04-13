@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "tag": "butchery:raw_mutton"
+    }
+  },
+  "result": {
+    "item": "minecraft:mutton",
+    "count": 1
+  }
+}

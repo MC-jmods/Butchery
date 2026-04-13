@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "butchers_table",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcb",
+    "b b"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:stripped_dark_oak_wood"
+    },
+    "b": {
+      "item": "minecraft:dark_oak_planks"
+    },
+    "c": {
+      "item": "minecraft:dark_oak_slab"
+    }
+  },
+  "result": {
+    "item": "butchery:dark_oak_butchers_table",
+    "count": 1
+  }
+}

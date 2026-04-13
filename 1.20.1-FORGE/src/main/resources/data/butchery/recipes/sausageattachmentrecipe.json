@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "sausage_attachment",
+  "category": "misc",
+  "pattern": [
+    "ab ",
+    "a c",
+    "ab "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "minecraft:iron_nugget"
+    },
+    "c": {
+      "item": "minecraft:iron_bars"
+    }
+  },
+  "result": {
+    "item": "butchery:sausage_attachment",
+    "count": 1
+  }
+}

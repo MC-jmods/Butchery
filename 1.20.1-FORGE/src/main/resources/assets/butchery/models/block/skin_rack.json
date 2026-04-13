@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/skin_rack",
+  "textures": {
+    "all": "butchery:block/skin_rack",
+    "particle": "butchery:block/skin_rack",
+    "skin_rack": "butchery:block/skin_rack"
+  },
+  "render_type": "cutout"
+}

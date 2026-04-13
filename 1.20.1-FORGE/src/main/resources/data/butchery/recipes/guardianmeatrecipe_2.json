@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "group": "guardian",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "butchery:raw_guardian_meat"
+  },
+  "result": "butchery:cooked_guardian_meat"
+}

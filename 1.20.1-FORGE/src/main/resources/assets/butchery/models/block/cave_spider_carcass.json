@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/cave_spider_carcass",
+  "textures": {
+    "all": "butchery:block/cave_spider",
+    "particle": "butchery:block/spider_blood",
+    "0": "butchery:block/cave_spider"
+  },
+  "render_type": "cutout"
+}

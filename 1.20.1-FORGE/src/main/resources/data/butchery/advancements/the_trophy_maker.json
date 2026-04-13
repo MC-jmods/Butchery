@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "butchery:taxidermy_table"
+    },
+    "title": {
+      "translate": "advancements.the_trophy_maker.title"
+    },
+    "description": {
+      "translate": "advancements.the_trophy_maker.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "the_trophy_maker_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "butchery:butcher"
+}

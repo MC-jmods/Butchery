@@ -1,0 +1,20 @@
+{
+      "name": "Butchers Papers",
+    "icon": "butchery:butchers_papers",
+    "category": "butchery:items",
+    "read_by_default": true,
+    "sortnum": 8,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:butchers_papers",
+            "link_recipe": true,
+            "title" : "Butchers Papers",
+            "text": "The butchers papers are a tool used to change the type of $(l:butchery:blocks/blood_grate)Blood Grate$(). Right click the grate whilst holding the papers to cycle through the different types."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:butcherspapersrecipe"
+        }
+    ]
+}

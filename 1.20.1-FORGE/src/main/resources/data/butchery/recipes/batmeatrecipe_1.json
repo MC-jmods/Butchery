@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "group": "bat",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 175,
+  "ingredient": {
+    "item": "butchery:raw_bat_meat"
+  },
+  "result": "butchery:cooked_bat_meat"
+}

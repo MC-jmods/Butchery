@@ -1,0 +1,14 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "butchery:item/slime_cubes"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "butchery:slime_chunks_multiple": 1
+      },
+      "model": "butchery:item/slime_chunks_0"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:skeleton_wall_skull",
+    "butchery:skeleton_horse_head",
+    "minecraft:skeleton_skull"
+  ]
+}

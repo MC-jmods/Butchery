@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/cod_barrel",
+  "textures": {
+    "all": "butchery:block/cod_barrel",
+    "particle": "butchery:block/cod_barrel",
+    "0": "butchery:block/cod_barrel"
+  },
+  "render_type": "cutout"
+}

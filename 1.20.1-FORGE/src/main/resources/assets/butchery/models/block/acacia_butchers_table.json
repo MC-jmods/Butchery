@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/wooden_butchers_table_acacia",
+  "textures": {
+    "all": "butchery:block/wooden_butchers_table_acacia",
+    "particle": "butchery:block/wooden_butchers_table_acacia",
+    "0": "butchery:block/wooden_butchers_table_acacia"
+  },
+  "render_type": "cutout"
+}

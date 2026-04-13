@@ -1,0 +1,20 @@
+{
+      "name": "Meat Grinder",
+    "icon": "butchery:meat_grinder",
+    "category": "butchery:blocks",
+    "read_by_default": true,
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:meat_grinder",
+            "link_recipe": true,
+            "title" : "Meat Grinder",
+            "text": "The meat grinder can be used to create multiple different food items. Firstly is can mince beef or lamb into mince meat which can be used for further recipes or simply cooked and eaten. Another food is sausages, these require a few more items such as: sausage filler attachment, intestines and if making blood sausages blood! The meat grinder can also be used to grind up spare carcasses and heads into scrap meat."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:meatgrinderrecipe"
+        }
+    ]
+}

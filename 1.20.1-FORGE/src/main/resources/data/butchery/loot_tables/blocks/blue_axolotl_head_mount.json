@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "butchery:blocks/blue_axolotl_head_mount",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "butchery:blue_axolotl_head_mount"
+        }
+      ]
+    }
+  ]
+}

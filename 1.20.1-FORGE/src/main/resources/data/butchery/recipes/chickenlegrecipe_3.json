@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "group": "chicken",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 150,
+  "ingredient": {
+    "item": "butchery:raw_chicken_leg"
+  },
+  "result": "butchery:cooked_chicken_leg"
+}

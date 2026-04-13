@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "group": "lamb",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "butchery:raw_lamb_rib"
+  },
+  "result": "butchery:cooked_lamb_rib"
+}

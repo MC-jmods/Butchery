@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "butchery:block/elder_guardian_carcass"
+    },
+    "facing=east": {
+      "model": "butchery:block/elder_guardian_carcass",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "butchery:block/elder_guardian_carcass",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "butchery:block/elder_guardian_carcass",
+      "y": 270
+    }
+  }
+}

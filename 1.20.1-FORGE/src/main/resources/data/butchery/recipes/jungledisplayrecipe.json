@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca",
+    "ddd"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "minecraft:glass_pane"
+    },
+    "c": {
+      "tag": "butchery:raw_meat"
+    },
+    "d": {
+      "item": "minecraft:jungle_planks"
+    }
+  },
+  "result": {
+    "item": "butchery:jungle_butcher_display",
+    "count": 1
+  }
+}

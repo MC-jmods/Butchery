@@ -1,0 +1,265 @@
+{
+  "format_version": "1.9.0",
+  "credit": "Made with Blockbench",
+  "texture_size": [
+    64,
+    64
+  ],
+  "elements": [
+    {
+      "name": "body",
+      "from": [
+        5.5,
+        0.05,
+        3
+      ],
+      "to": [
+        10.5,
+        3.05,
+        12
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "z",
+        "origin": [
+          8,
+          1.675,
+          10.75
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            2.25,
+            5,
+            3.5,
+            4.25
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            0,
+            5,
+            2.25,
+            4.25
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            5.75,
+            5,
+            7,
+            4.25
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            3.5,
+            5,
+            5.75,
+            4.25
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            4.75,
+            4.25,
+            3.5,
+            2
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            3.5,
+            2,
+            2.25,
+            4.25
+          ],
+          "texture": "#0"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        -14.25,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        6.25,
+        -2.75
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        -14.25,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        6.25,
+        -2.75
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        -90,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        -0.75
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        -90,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        -0.75
+      ]
+    },
+    "ground": {
+      "translation": [
+        0,
+        5.5,
+        0
+      ]
+    },
+    "gui": {
+      "rotation": [
+        30,
+        -135,
+        0
+      ],
+      "translation": [
+        -0.25,
+        1.5,
+        0
+      ],
+      "scale": [
+        0.625,
+        0.625,
+        0.625
+      ]
+    },
+    "head": {
+      "translation": [
+        0,
+        14.5,
+        0
+      ]
+    }
+  },
+  "groups": [
+    {
+      "name": "group",
+      "origin": [
+        7.5,
+        5,
+        8
+      ],
+      "color": 0,
+      "children": [
+        {
+          "name": "body",
+          "origin": [
+            7.5,
+            5,
+            8
+          ],
+          "color": 0,
+          "children": [
+            0
+          ]
+        },
+        {
+          "name": "head",
+          "origin": [
+            7.5,
+            3.75,
+            0
+          ],
+          "color": 0,
+          "children": []
+        },
+        {
+          "name": "left_wing",
+          "origin": [
+            5.5,
+            7,
+            0
+          ],
+          "color": 0,
+          "children": []
+        },
+        {
+          "name": "left_wing_tip",
+          "origin": [
+            -0.5,
+            7,
+            0
+          ],
+          "color": 0,
+          "children": []
+        },
+        {
+          "name": "right_wing",
+          "origin": [
+            10.5,
+            7,
+            0
+          ],
+          "color": 0,
+          "children": []
+        },
+        {
+          "name": "right_wing_tip",
+          "origin": [
+            16.5,
+            7,
+            0
+          ],
+          "color": 0,
+          "children": []
+        },
+        {
+          "name": "tail",
+          "origin": [
+            7.5,
+            7,
+            9
+          ],
+          "color": 0,
+          "children": [
+            {
+              "name": "tail2",
+              "origin": [
+                7.5,
+                6.5,
+                15
+              ],
+              "color": 0,
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

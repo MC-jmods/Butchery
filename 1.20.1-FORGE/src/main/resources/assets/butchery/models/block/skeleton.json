@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/villager_skeleton",
+  "textures": {
+    "all": "butchery:block/villager_skeleton",
+    "particle": "butchery:block/villager_skeleton",
+    "0": "butchery:block/villager_skeleton"
+  },
+  "render_type": "cutout"
+}

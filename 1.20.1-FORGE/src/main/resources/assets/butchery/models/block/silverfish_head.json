@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/silverfish_head",
+  "textures": {
+    "all": "butchery:block/silverfish",
+    "particle": "butchery:block/silverfish",
+    "0": "butchery:block/silverfish"
+  },
+  "render_type": "cutout"
+}

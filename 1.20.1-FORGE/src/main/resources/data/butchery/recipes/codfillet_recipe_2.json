@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "group": "fish",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "butchery:raw_cod_fillet"
+  },
+  "result": "butchery:cooked_cod_fillet"
+}

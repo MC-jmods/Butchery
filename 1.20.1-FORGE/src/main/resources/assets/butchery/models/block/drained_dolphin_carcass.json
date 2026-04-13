@@ -1,0 +1,10 @@
+{
+  "parent": "butchery:custom/dolphin_drained_carcass",
+  "textures": {
+    "all": "butchery:block/dolphin",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/dolphin",
+    "1": "butchery:block/dolphin_skeleton"
+  },
+  "render_type": "cutout"
+}

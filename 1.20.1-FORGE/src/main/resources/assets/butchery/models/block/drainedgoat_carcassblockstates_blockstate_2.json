@@ -1,0 +1,10 @@
+{
+  "parent": "butchery:custom/goat_carcass_headless_skinned_hanging",
+  "textures": {
+    "all": "butchery:block/goat_skinned",
+    "particle": "minecraft:block/nether_wart_block",
+    "default": "butchery:block/goat_skinned",
+    "bones": "butchery:block/goat_bones"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "butchery:custom/zombie_villager_head_mount",
+  "textures": {
+    "all": "butchery:block/zombie_villager",
+    "particle": "butchery:block/zombie_villager",
+    "0": "minecraft:block/spruce_planks",
+    "1": "minecraft:block/dark_oak_planks",
+    "2": "minecraft:block/gold_block",
+    "3": "butchery:block/zombie_villager"
+  },
+  "render_type": "cutout"
+}

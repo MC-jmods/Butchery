@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/blood_splatter_8",
+  "textures": {
+    "all": "butchery:block/blood_splatter_8",
+    "particle": "butchery:block/blood_splatter_1",
+    "0": "butchery:block/blood_splatter_8"
+  },
+  "render_type": "cutout_mipped"
+}

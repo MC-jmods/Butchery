@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "butchery:pig_carcass"
+    },
+    "title": {
+      "translate": "advancements.firstcarcass.title"
+    },
+    "description": {
+      "translate": "advancements.firstcarcass.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "firstcarcass_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 3
+  },
+  "parent": "butchery:butcher"
+}

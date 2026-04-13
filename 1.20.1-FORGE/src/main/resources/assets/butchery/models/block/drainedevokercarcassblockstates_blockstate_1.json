@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/evoker_corpse_headless_hanging",
+  "textures": {
+    "all": "butchery:block/evoker_drained",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/evoker_drained"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/evoker_corpse_cut_1",
+  "textures": {
+    "all": "butchery:block/placed_armorless_evoker",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/placed_armorless_evoker"
+  },
+  "render_type": "cutout"
+}

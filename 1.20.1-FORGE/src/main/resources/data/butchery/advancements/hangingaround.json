@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "butchery:hook"
+    },
+    "title": {
+      "translate": "advancements.hangingaround.title"
+    },
+    "description": {
+      "translate": "advancements.hangingaround.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "hangingaround_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 5
+  },
+  "parent": "butchery:firstcarcass"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/oak_display",
+  "textures": {
+    "all": "butchery:block/oak_display",
+    "particle": "butchery:block/oak_display",
+    "0": "butchery:block/oak_display"
+  },
+  "render_type": "cutout"
+}

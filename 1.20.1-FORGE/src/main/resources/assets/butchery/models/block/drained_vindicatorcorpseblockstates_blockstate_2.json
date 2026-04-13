@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/vindicator_corpse_armorless_hanging",
+  "textures": {
+    "all": "butchery:block/hanging_armorless_vindicator",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/hanging_armorless_vindicator"
+  },
+  "render_type": "cutout"
+}

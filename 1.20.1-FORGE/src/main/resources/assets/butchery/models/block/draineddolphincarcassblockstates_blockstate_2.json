@@ -1,0 +1,10 @@
+{
+  "parent": "butchery:custom/dolphin_carcass_headless_skinned_hanging",
+  "textures": {
+    "all": "butchery:block/dolphin_skinned",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/dolphin_skinned",
+    "1": "butchery:block/dolphin_skeleton"
+  },
+  "render_type": "cutout"
+}

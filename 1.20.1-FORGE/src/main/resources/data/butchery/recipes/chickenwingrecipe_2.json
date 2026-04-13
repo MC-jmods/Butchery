@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "group": "chicken",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 75,
+  "ingredient": {
+    "item": "butchery:raw_chicken_wing"
+  },
+  "result": "butchery:cooked_chicken_wing"
+}

@@ -1,0 +1,114 @@
+{
+  "format_version": "1.9.0",
+  "credit": "Made with Blockbench",
+  "ambientocclusion": false,
+  "texture_size": [
+    128,
+    128
+  ],
+  "elements": [
+    {
+      "name": "head",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        16,
+        21,
+        16
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          -13,
+          24
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            2,
+            2,
+            4,
+            4.625
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            0,
+            2,
+            2,
+            4.625
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            6,
+            2,
+            8,
+            4.625
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            4,
+            2,
+            6,
+            4.625
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            4,
+            2,
+            2,
+            0
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            6,
+            0,
+            4,
+            2
+          ],
+          "texture": "#0"
+        }
+      }
+    }
+  ],
+  "groups": [
+    {
+      "name": "bone",
+      "origin": [
+        8.83333,
+        5.41667,
+        5.83333
+      ],
+      "color": 0,
+      "children": [
+        {
+          "name": "head",
+          "origin": [
+            9.66667,
+            9.33333,
+            3.66667
+          ],
+          "color": 0,
+          "children": [
+            0
+          ]
+        }
+      ]
+    }
+  ]
+}

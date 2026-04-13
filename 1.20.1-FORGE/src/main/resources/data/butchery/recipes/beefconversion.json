@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "tag": "butchery:raw_beef"
+    }
+  },
+  "result": {
+    "item": "minecraft:beef",
+    "count": 1
+  }
+}

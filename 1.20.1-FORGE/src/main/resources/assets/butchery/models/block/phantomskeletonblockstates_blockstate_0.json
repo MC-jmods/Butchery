@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/phantom_skeleton_hanging",
+  "textures": {
+    "all": "butchery:block/phantom_skeleton",
+    "particle": "butchery:block/phantom_skeleton",
+    "0": "butchery:block/phantom_skeleton"
+  },
+  "render_type": "cutout"
+}

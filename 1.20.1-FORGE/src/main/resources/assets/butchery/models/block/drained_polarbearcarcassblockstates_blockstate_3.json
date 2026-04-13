@@ -1,0 +1,10 @@
+{
+  "parent": "butchery:custom/polarbear_carcass_cut_1_hanging",
+  "textures": {
+    "all": "butchery:block/polarbear_skinned",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/polarbear_skinned",
+    "skeleton": "butchery:block/polarbear_skeleton"
+  },
+  "render_type": "cutout"
+}

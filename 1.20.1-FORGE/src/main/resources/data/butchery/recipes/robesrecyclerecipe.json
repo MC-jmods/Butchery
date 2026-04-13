@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab"
+  ],
+  "key": {
+    "a": {
+      "tag": "butchery:robes"
+    },
+    "b": {
+      "tag": "butchery:knives"
+    }
+  },
+  "result": {
+    "item": "minecraft:string",
+    "count": 2
+  }
+}

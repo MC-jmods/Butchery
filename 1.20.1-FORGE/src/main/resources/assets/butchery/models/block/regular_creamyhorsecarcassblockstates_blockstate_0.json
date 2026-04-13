@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/regular_creamy_horse_carcass_hanging",
+  "textures": {
+    "all": "butchery:block/horse_creamy",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/horse_creamy"
+  },
+  "render_type": "cutout"
+}

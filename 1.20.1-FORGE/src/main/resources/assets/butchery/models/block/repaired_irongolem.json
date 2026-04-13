@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/repaired_iron_golem",
+  "textures": {
+    "all": "butchery:block/repaired_iron_golem",
+    "particle": "butchery:block/repaired_iron_golem",
+    "0": "butchery:block/repaired_iron_golem"
+  },
+  "render_type": "cutout"
+}

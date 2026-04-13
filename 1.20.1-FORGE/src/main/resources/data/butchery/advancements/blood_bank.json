@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "butchery:blood_grate"
+    },
+    "title": {
+      "translate": "advancements.blood_bank.title"
+    },
+    "description": {
+      "translate": "advancements.blood_bank.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "blood_bank_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 5
+  },
+  "parent": "butchery:first_blood"
+}

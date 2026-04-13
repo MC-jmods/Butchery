@@ -1,0 +1,11 @@
+{
+    "name": "Butchers Guide",
+    "landing_text": "Welcome $(#f92020)$(playername)$() to the Butchers Guide! $(br)$(br)Butchery is a mod that adds realistic animal processing mechanics, requiring players to harvest and process animal carcasses for extra resources.",
+    "version": 1,
+    "show_progress": false,
+    "show_toasts": false,
+    "creative_tab": "butchery:butchery_items",
+    "model": "butchery:bguide",
+    "book_texture": "butchery:textures/screens/book_butchery.png",
+    "use_resource_pack": true
+}

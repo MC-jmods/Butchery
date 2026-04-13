@@ -1,0 +1,8 @@
+{
+  "parent": "butchery:custom/orange_frog_balloon",
+  "textures": {
+    "0": "butchery:block/default_orange_frog",
+    "1": "butchery:block/string",
+    "particle": "butchery:item/orange_frog"
+  }
+}

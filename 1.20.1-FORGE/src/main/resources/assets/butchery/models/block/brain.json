@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/brain",
+  "textures": {
+    "all": "butchery:block/brain",
+    "particle": "butchery:block/brain",
+    "3": "butchery:block/brain"
+  },
+  "render_type": "cutout_mipped"
+}

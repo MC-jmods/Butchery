@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/sniffer_head",
+  "textures": {
+    "all": "butchery:block/sniffer",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/sniffer"
+  },
+  "render_type": "cutout_mipped"
+}

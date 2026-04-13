@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "butchery:raw_tbone_steak"
+    },
+    "title": {
+      "translate": "advancements.every_part_counts.title"
+    },
+    "description": {
+      "translate": "advancements.every_part_counts.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "every_part_counts_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 5
+  },
+  "parent": "butchery:skininthe_game"
+}

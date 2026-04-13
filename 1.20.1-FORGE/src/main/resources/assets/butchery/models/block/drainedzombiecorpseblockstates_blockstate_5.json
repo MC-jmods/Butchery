@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/zombie_corpse_cut_1",
+  "textures": {
+    "all": "butchery:block/zombie_drained",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/zombie_drained"
+  },
+  "render_type": "cutout"
+}

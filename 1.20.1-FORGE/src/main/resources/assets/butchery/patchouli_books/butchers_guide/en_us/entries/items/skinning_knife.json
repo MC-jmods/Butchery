@@ -1,0 +1,30 @@
+{
+      "name": "Skinning Knives",
+    "icon": "butchery:iron_skinning_knife",
+    "category": "butchery:items",
+    "read_by_default": true,
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:iron_skinning_knife",
+            "link_recipe": true,
+            "title" : "Skinning Knives",
+            "text": "The skinning knives are used for skinning mobs and obtaining the fur/skin. To skin a carcass it must be fully drained first, then right clicking on the carcass whilst holding the skinning knife. Like the cleavers the skinning knives come in 5 materials, all do the same again with the exception of Netherite which is strong enough to skin boss carcasses."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:boneskinningkniferecipe",
+            "recipe2": "butchery:ironskinningkniferecipe"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:goldskinningkniferecipe",
+            "recipe2": "butchery:diamondskinningkniferecipe"
+        },
+        {
+            "type": "patchouli:smithing",
+            "recipe": "butchery:netheriteskinningkniferecipe"
+        }
+    ]
+}

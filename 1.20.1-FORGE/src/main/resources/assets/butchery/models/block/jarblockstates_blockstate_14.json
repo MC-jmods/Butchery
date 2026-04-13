@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/end_kidney_jar",
+  "textures": {
+    "all": "butchery:block/end_organ_jar",
+    "particle": "minecraft:block/glass",
+    "0": "butchery:block/end_organ_jar"
+  },
+  "render_type": "translucent"
+}

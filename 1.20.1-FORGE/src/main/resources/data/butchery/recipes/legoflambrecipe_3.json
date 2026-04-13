@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "group": "lamb",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "butchery:raw_leg_of_lamb"
+  },
+  "result": "butchery:cooked_leg_of_lamb"
+}

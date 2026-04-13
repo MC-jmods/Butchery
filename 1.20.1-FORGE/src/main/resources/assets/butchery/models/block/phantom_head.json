@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/phantom_head",
+  "textures": {
+    "all": "butchery:block/phantom_carcass",
+    "particle": "minecraft:block/cherry_log",
+    "0": "butchery:block/phantom_carcass"
+  },
+  "render_type": "cutout"
+}

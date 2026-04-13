@@ -1,0 +1,24 @@
+{
+  "type": "butchery:meatgrinderjei",
+  "ingredients": [
+    {
+      "tag": "butchery:raw_mutton"
+    },
+    {
+      "tag": "butchery:jei_empty_tag"
+    },
+    {
+      "tag": "butchery:jei_empty_tag"
+    },
+    {
+      "tag": "butchery:jei_empty_tag"
+    },
+    {
+      "tag": "butchery:jei_empty_tag"
+    }
+  ],
+  "output": {
+    "item": "butchery:raw_lamb_mince",
+    "count": 1
+  }
+}

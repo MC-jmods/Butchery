@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/blood_grate_hexrei",
+  "textures": {
+    "all": "butchery:block/tank_hexerei",
+    "particle": "butchery:block/tank",
+    "1": "butchery:block/tank_hexerei"
+  },
+  "render_type": "cutout"
+}

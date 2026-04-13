@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/salmon_corpse",
+  "textures": {
+    "all": "butchery:block/salmon",
+    "particle": "minecraft:block/nether_wart_block",
+    "3": "butchery:block/salmon"
+  },
+  "render_type": "cutout"
+}

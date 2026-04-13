@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/player_corpse_cut_open_hanging",
+  "textures": {
+    "all": "butchery:block/player_body_open_chest",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/player_body_open_chest"
+  },
+  "render_type": "cutout"
+}

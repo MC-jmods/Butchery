@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/piglin_brute_headless",
+  "textures": {
+    "all": "butchery:block/piglin_brute_drained",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/piglin_brute_drained"
+  },
+  "render_type": "cutout"
+}

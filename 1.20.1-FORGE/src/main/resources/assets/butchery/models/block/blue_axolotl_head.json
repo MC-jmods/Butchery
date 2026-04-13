@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/blue_axolotl_head",
+  "textures": {
+    "all": "butchery:block/blue_axolotl",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/blue_axolotl"
+  },
+  "render_type": "cutout"
+}

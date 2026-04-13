@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/black_cat_head",
+  "textures": {
+    "all": "butchery:block/black",
+    "particle": "butchery:block/black",
+    "0": "butchery:block/black"
+  },
+  "render_type": "cutout"
+}

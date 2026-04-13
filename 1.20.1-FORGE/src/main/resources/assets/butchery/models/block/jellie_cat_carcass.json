@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/jellie_cat_carcass",
+  "textures": {
+    "all": "butchery:block/jellie",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/jellie"
+  },
+  "render_type": "cutout_mipped"
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "group": "pork",
+  "category": "misc",
+  "experience": 0.5,
+  "cookingtime": 205,
+  "ingredient": {
+    "item": "butchery:raw_pork_loin"
+  },
+  "result": "butchery:cooked_pork_loin"
+}

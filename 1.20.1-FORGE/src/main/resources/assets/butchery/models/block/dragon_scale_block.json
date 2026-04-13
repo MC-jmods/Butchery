@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "butchery:block/black_dragon_scales_block",
+    "up": "butchery:block/black_dragon_scales_block",
+    "north": "butchery:block/black_dragon_scales_block",
+    "east": "butchery:block/black_dragon_scales_block",
+    "south": "butchery:block/black_dragon_scales_block",
+    "west": "butchery:block/black_dragon_scales_block",
+    "particle": "butchery:block/black_dragon_scales_block"
+  },
+  "render_type": "solid"
+}

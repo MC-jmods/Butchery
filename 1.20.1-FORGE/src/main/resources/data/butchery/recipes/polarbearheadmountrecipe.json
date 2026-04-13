@@ -1,0 +1,18 @@
+{
+  "type": "butchery:taxidermy",
+  "ingredients": [
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "butchery:polar_bear_head"
+    },
+    {
+      "item": "butchery:empty_head_mount"
+    }
+  ],
+  "output": {
+    "item": "butchery:polarbear_head_mount",
+    "count": 1
+  }
+}

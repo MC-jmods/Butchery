@@ -1,0 +1,12 @@
+{
+  "parent": "butchery:custom/ender_dragon_regular_head_mount",
+  "textures": {
+    "all": "butchery:block/head_dragon_head",
+    "particle": "butchery:block/head_dragon_head",
+    "gold": "minecraft:block/gold_block",
+    "dark oak": "minecraft:block/dark_oak_planks",
+    "mob": "butchery:block/head_dragon_head",
+    "spruce": "minecraft:block/spruce_planks"
+  },
+  "render_type": "cutout"
+}

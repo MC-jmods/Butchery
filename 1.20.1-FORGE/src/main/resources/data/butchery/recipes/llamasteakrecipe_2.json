@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "group": "llama",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "butchery:raw_llama_steak"
+  },
+  "result": "butchery:cooked_llama_steak"
+}

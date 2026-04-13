@@ -1,0 +1,10 @@
+{
+  "parent": "butchery:custom/pink_axolotl_carcass_drained",
+  "textures": {
+    "all": "butchery:block/pink_axolotl_drained",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/pink_axolotl_drained",
+    "1": "butchery:block/inner_blood"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/warden_head",
+  "textures": {
+    "all": "butchery:block/warden",
+    "particle": "butchery:block/warden",
+    "0": "butchery:block/warden"
+  },
+  "render_type": "cutout_mipped"
+}

@@ -1,0 +1,63 @@
+package net.mcreator.butchery.procedures;
+
+import net.minecraftforge.fml.common.Mod;
+import net.minecraftforge.eventbus.api.SubscribeEvent;
+import net.minecraftforge.eventbus.api.Event;
+import net.minecraftforge.event.entity.living.LivingDeathEvent;
+
+import net.minecraft.world.item.ItemStack;
+import net.minecraft.world.entity.monster.Monster;
+import net.minecraft.world.entity.animal.Animal;
+import net.minecraft.world.entity.LivingEntity;
+import net.minecraft.world.entity.Entity;
+import net.minecraft.server.level.ServerPlayer;
+import net.minecraft.server.level.ServerLevel;
+import net.minecraft.resources.ResourceLocation;
+import net.minecraft.advancements.AdvancementProgress;
+import net.minecraft.advancements.Advancement;
+
+import net.mcreator.butchery.init.ButcheryModItems;
+
+import javax.annotation.Nullable;
+
+@Mod.EventBusSubscriber
+public class FirstcarcassadvancementProcedure {
+	@SubscribeEvent
+	public static void onEntityDeath(LivingDeathEvent event) {
+		if (event != null && event.getEntity() != null) {
+			execute(event, event.getEntity(), event.getSource().getEntity());
+		}
+	}
+
+	public static void execute(Entity entity, Entity sourceentity) {
+		execute(null, entity, sourceentity);
+	}
+
+	private static void execute(@Nullable Event event, Entity entity, Entity sourceentity) {
+		if (entity == null || sourceentity == null)
+			return;
+		ItemStack dropped_carcass = ItemStack.EMPTY;
+		if (entity instanceof Animal || entity instanceof Monster) {
+			if ((sourceentity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY).getItem() == ButcheryModItems.BONE_CLEAVER.get()
+					|| (sourceentity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY).getItem() == ButcheryModItems.IRON_CLEAVER.get()
+					|| (sourceentity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY).getItem() == ButcheryModItems.GOLD_CLEAVER.get()
+					|| (sourceentity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY).getItem() == ButcheryModItems.DIAMOND_CLEAVER.get()
+					|| (sourceentity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY).getItem() == ButcheryModItems.NETHERITE_CLEAVER.get()) {
+				if ((sourceentity instanceof ServerPlayer _plr12 && _plr12.level() instanceof ServerLevel
+						&& _plr12.getAdvancements().getOrStartProgress(_plr12.server.getAdvancements().getAdvancement(ResourceLocation.parse("butchery:butcher"))).isDone()) == true) {
+					if ((sourceentity instanceof ServerPlayer _plr13 && _plr13.level() instanceof ServerLevel
+							&& _plr13.getAdvancements().getOrStartProgress(_plr13.server.getAdvancements().getAdvancement(ResourceLocation.parse("butchery:firstcarcass"))).isDone()) == false) {
+						if (sourceentity instanceof ServerPlayer _player) {
+							Advancement _adv = _player.server.getAdvancements().getAdvancement(ResourceLocation.parse("butchery:firstcarcass"));
+							AdvancementProgress _ap = _player.getAdvancements().getOrStartProgress(_adv);
+							if (!_ap.isDone()) {
+								for (String criteria : _ap.getRemainingCriteria())
+									_player.getAdvancements().award(_adv, criteria);
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}

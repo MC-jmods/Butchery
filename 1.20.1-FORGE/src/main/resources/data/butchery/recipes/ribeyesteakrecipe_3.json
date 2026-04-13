@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "group": "beef",
+  "category": "misc",
+  "experience": 0.55,
+  "cookingtime": 245,
+  "ingredient": {
+    "item": "butchery:raw_ribeye_steak"
+  },
+  "result": "butchery:cooked_ribeye_steak"
+}

@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "butchery:raw_blood_sausage"
+    },
+    "title": {
+      "translate": "advancements.the_dark_sausage.title"
+    },
+    "description": {
+      "translate": "advancements.the_dark_sausage.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "the_dark_sausage_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "butchery:the_missing_link"
+}

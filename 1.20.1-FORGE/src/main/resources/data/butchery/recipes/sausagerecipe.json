@@ -1,0 +1,24 @@
+{
+  "type": "butchery:meatgrinderjei",
+  "ingredients": [
+    {
+      "tag": "butchery:raw_pork"
+    },
+    {
+      "item": "butchery:intestines"
+    },
+    {
+      "item": "butchery:sausage_attachment"
+    },
+    {
+      "tag": "butchery:jei_empty_tag"
+    },
+    {
+      "tag": "butchery:jei_empty_tag"
+    }
+  ],
+  "output": {
+    "item": "butchery:raw_sausage",
+    "count": 1
+  }
+}

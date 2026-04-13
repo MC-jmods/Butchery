@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/taxidermy_table",
+  "textures": {
+    "all": "minecraft:block/oak_planks",
+    "particle": "minecraft:block/oak_planks",
+    "0": "butchery:block/taxidermy_table"
+  },
+  "render_type": "cutout"
+}

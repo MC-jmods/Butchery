@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "butchery:block/salt_block",
+    "up": "butchery:block/salt_block",
+    "north": "butchery:block/salt_block",
+    "east": "butchery:block/salt_block",
+    "south": "butchery:block/salt_block",
+    "west": "butchery:block/salt_block",
+    "particle": "butchery:block/salt_block"
+  },
+  "render_type": "solid"
+}

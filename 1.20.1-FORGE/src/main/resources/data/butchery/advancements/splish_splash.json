@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "butchery:sponge"
+    },
+    "title": {
+      "translate": "advancements.splish_splash.title"
+    },
+    "description": {
+      "translate": "advancements.splish_splash.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "splish_splash_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 5
+  },
+  "parent": "butchery:seasonedtoperfection"
+}

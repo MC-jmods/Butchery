@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/pig_skeleton",
+  "textures": {
+    "all": "butchery:block/pig_skeleton",
+    "particle": "butchery:block/pig_skeleton",
+    "0": "butchery:block/pig_skeleton"
+  },
+  "render_type": "cutout"
+}

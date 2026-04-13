@@ -1,0 +1,18 @@
+{
+  "type": "butchery:taxidermy",
+  "ingredients": [
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "butchery:husk_head"
+    },
+    {
+      "item": "butchery:empty_head_mount"
+    }
+  ],
+  "output": {
+    "item": "butchery:husk_head_mount",
+    "count": 1
+  }
+}

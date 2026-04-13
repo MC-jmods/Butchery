@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "experience": 1.2,
+  "cookingtime": 450,
+  "ingredient": {
+    "item": "butchery:raw_elder_guardian_meat"
+  },
+  "result": "butchery:cooked_elder_guardian_meat"
+}

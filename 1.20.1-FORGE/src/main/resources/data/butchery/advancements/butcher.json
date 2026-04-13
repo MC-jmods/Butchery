@@ -1,0 +1,26 @@
+{
+  "display": {
+    "background": "butchery:textures/screens/inner_blood.png",
+    "icon": {
+      "item": "butchery:iron_cleaver"
+    },
+    "title": {
+      "translate": "advancements.butcher.title"
+    },
+    "description": {
+      "translate": "advancements.butcher.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "butcher_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 5
+  }
+}

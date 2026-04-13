@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/piglin_skeleton_hanging",
+  "textures": {
+    "all": "butchery:block/piglin_skeleton",
+    "particle": "butchery:block/piglin_skeleton",
+    "0": "butchery:block/piglin_skeleton"
+  },
+  "render_type": "cutout"
+}

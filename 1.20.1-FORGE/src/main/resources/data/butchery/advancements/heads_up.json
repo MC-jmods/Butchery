@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "butchery:pig_head_mount"
+    },
+    "title": {
+      "translate": "advancements.heads_up.title"
+    },
+    "description": {
+      "translate": "advancements.heads_up.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "heads_up_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "butchery:the_trophy_maker"
+}

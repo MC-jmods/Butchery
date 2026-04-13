@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/butchers_table",
+  "textures": {
+    "all": "butchery:block/butchers_table",
+    "particle": "butchery:block/butchers_table",
+    "0": "butchery:block/butchers_table"
+  },
+  "render_type": "cutout"
+}

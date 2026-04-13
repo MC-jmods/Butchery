@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/endermite_head",
+  "textures": {
+    "all": "butchery:block/endermite",
+    "particle": "butchery:block/endermite",
+    "0": "butchery:block/endermite"
+  },
+  "render_type": "cutout"
+}

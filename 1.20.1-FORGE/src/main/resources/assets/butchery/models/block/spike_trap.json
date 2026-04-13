@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/spike_trap",
+  "textures": {
+    "all": "butchery:block/spike_trap",
+    "particle": "butchery:block/spike_trap",
+    "0": "butchery:block/spike_trap"
+  },
+  "render_type": "cutout"
+}

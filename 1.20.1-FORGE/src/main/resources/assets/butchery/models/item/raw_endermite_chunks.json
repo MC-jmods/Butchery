@@ -1,0 +1,14 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "butchery:item/raw_endermite_chunk"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "butchery:raw_endermite_chunks_multiple": 1
+      },
+      "model": "butchery:item/raw_endermite_chunks_0"
+    }
+  ]
+}

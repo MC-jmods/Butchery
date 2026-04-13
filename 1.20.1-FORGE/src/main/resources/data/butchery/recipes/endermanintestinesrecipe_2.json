@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smoking",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "butchery:enderman_intestines"
+  },
+  "result": "butchery:cooked_enderman_intestines"
+}

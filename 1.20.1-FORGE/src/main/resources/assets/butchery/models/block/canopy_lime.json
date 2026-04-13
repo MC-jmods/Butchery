@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/canopy_lime",
+  "textures": {
+    "all": "butchery:block/canopy_lime",
+    "particle": "butchery:block/canopy_lime",
+    "0": "butchery:block/canopy_lime"
+  },
+  "render_type": "cutout"
+}

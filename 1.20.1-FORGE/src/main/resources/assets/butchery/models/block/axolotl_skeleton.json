@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/axolotl_skeleton",
+  "textures": {
+    "all": "butchery:block/axolotl_skeleton",
+    "particle": "butchery:block/axolotl_skeleton",
+    "0": "butchery:block/axolotl_skeleton"
+  },
+  "render_type": "cutout"
+}

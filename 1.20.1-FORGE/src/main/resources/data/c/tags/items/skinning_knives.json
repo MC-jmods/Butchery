@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "butchery:iron_skinning_knife",
+    "butchery:netherite_skinning_knife",
+    "butchery:gold_skinning_knife",
+    "butchery:copper_skinning_knife",
+    "butchery:bone_skinning_knife",
+    "butchery:diamond_skinning_knife"
+  ]
+}

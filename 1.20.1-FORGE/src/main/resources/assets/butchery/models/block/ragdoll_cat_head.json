@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/ragdoll_cat_head",
+  "textures": {
+    "all": "butchery:block/ragdoll",
+    "particle": "butchery:block/ragdoll",
+    "0": "butchery:block/ragdoll"
+  },
+  "render_type": "cutout"
+}

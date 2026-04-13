@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/ravager_head",
+  "textures": {
+    "all": "butchery:block/ravager",
+    "particle": "butchery:block/ravager",
+    "0": "butchery:block/ravager"
+  },
+  "render_type": "cutout_mipped"
+}

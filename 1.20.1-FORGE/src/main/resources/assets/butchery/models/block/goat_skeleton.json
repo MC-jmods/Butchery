@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/goat_skeleton",
+  "textures": {
+    "all": "butchery:block/goat_skeleton",
+    "particle": "butchery:block/goat_skeleton",
+    "default": "butchery:block/goat_skeleton"
+  },
+  "render_type": "cutout"
+}

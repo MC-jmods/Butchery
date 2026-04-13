@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/cod",
+  "textures": {
+    "all": "butchery:block/cod",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/cod"
+  },
+  "render_type": "cutout"
+}

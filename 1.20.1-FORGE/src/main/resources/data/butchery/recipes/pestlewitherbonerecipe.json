@@ -1,0 +1,12 @@
+{
+  "type": "butchery:pestleandmortarrecipetype",
+  "ingredients": [
+    {
+      "item": "butchery:wither_bone"
+    }
+  ],
+  "output": {
+    "item": "butchery:wither_bone_meal",
+    "count": 2
+  }
+}

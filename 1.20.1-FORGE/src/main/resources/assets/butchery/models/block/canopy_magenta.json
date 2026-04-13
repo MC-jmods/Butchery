@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/canopy_magenta",
+  "textures": {
+    "all": "butchery:block/canopy_magenta",
+    "particle": "butchery:block/canopy_magenta",
+    "0": "butchery:block/canopy_magenta"
+  },
+  "render_type": "cutout"
+}

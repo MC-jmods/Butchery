@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "group": "fox",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "butchery:raw_fox_meat"
+  },
+  "result": "butchery:cooked_fox_meat"
+}

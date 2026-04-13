@@ -1,0 +1,417 @@
+{
+  "format_version": "1.9.0",
+  "credit": "Made with Blockbench",
+  "texture_size": [
+    64,
+    64
+  ],
+  "elements": [
+    {
+      "name": "torso",
+      "from": [
+        4.5,
+        0,
+        6
+      ],
+      "to": [
+        11.5,
+        7,
+        10
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          4.75,
+          6.25
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            2.5,
+            2.5,
+            4.25,
+            4.25
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            1.5,
+            2.5,
+            2.5,
+            4.25
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            8.5,
+            2.5,
+            10.25,
+            4.25
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            4.25,
+            2.5,
+            5.25,
+            4.25
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            4.25,
+            2.5,
+            2.5,
+            1.5
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            6,
+            1.5,
+            4.25,
+            2.25
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "left_antenna",
+      "from": [
+        5.5,
+        5,
+        3
+      ],
+      "to": [
+        6.5,
+        7,
+        6
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          4.75,
+          6.25
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            1.25,
+            0.75,
+            1.5,
+            1.25
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            0.5,
+            0.75,
+            1.25,
+            1.25
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            2.25,
+            0.75,
+            2.5,
+            1.25
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            1.5,
+            1.5,
+            2.25,
+            2
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            1.5,
+            0.75,
+            1.25,
+            0
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            1.75,
+            0,
+            1.5,
+            0.75
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "right_antenna",
+      "from": [
+        9.5,
+        5,
+        3
+      ],
+      "to": [
+        10.5,
+        7,
+        6
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          4.75,
+          6.25
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            1.25,
+            1.5,
+            1.5,
+            2
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            0.5,
+            0.75,
+            1.25,
+            1.25
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            2.25,
+            1.5,
+            2.5,
+            2
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            1.5,
+            1.5,
+            2.25,
+            2
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            1.5,
+            1.5,
+            1.25,
+            0.75
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            1.75,
+            0.75,
+            1.5,
+            1.5
+          ],
+          "texture": "#0"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "translation": [
+        0,
+        8,
+        0
+      ]
+    },
+    "thirdperson_lefthand": {
+      "translation": [
+        0,
+        8,
+        0
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        -180,
+        0,
+        -180
+      ],
+      "translation": [
+        0,
+        4.25,
+        0
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        0,
+        -1,
+        0
+      ],
+      "translation": [
+        0,
+        4.25,
+        0
+      ]
+    },
+    "ground": {
+      "translation": [
+        0,
+        5,
+        0
+      ]
+    },
+    "gui": {
+      "rotation": [
+        30,
+        -135,
+        0
+      ],
+      "translation": [
+        0.25,
+        2.75,
+        0
+      ],
+      "scale": [
+        0.8,
+        0.8,
+        0.8
+      ]
+    }
+  },
+  "groups": [
+    {
+      "name": "bone",
+      "origin": [
+        8,
+        0,
+        8
+      ],
+      "color": 0,
+      "children": [
+        {
+          "name": "torso",
+          "origin": [
+            8,
+            3.5,
+            8
+          ],
+          "color": 0,
+          "children": [
+            0
+          ]
+        },
+        {
+          "name": "left_antenna",
+          "origin": [
+            6,
+            6,
+            1.5
+          ],
+          "color": 0,
+          "children": [
+            1
+          ]
+        },
+        {
+          "name": "right_antenna",
+          "origin": [
+            10,
+            6,
+            1.5
+          ],
+          "color": 0,
+          "children": [
+            2
+          ]
+        },
+        {
+          "name": "left_wing",
+          "origin": [
+            4.5,
+            7,
+            8
+          ],
+          "color": 0,
+          "children": []
+        },
+        {
+          "name": "right_wing",
+          "origin": [
+            11.5,
+            7,
+            8
+          ],
+          "color": 0,
+          "children": []
+        },
+        {
+          "name": "front_legs",
+          "origin": [
+            6.5,
+            0,
+            6
+          ],
+          "color": 0,
+          "children": []
+        },
+        {
+          "name": "middle_legs",
+          "origin": [
+            6.5,
+            0,
+            8
+          ],
+          "color": 0,
+          "children": []
+        },
+        {
+          "name": "back_legs",
+          "origin": [
+            6.5,
+            0,
+            10
+          ],
+          "color": 0,
+          "children": []
+        },
+        {
+          "name": "stinger",
+          "origin": [
+            8,
+            3.5,
+            14
+          ],
+          "color": 0,
+          "children": []
+        }
+      ]
+    }
+  ]
+}

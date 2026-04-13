@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/tabby_cat_head",
+  "textures": {
+    "all": "butchery:block/tabby",
+    "particle": "butchery:block/tabby",
+    "0": "butchery:block/tabby"
+  },
+  "render_type": "cutout"
+}

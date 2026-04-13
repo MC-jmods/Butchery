@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "butchery:evoker_robes_chestplate",
+    "butchery:pillager_armor_chestplate",
+    "butchery:pillager_armor_leggings",
+    "butchery:evoker_robes_leggings",
+    "butchery:piglin_brute_armor_chestplate",
+    "butchery:vindicatorarmor_leggings",
+    "butchery:witches_clothes_chestplate",
+    "butchery:vindicatorarmor_chestplate",
+    "butchery:witches_clothes_helmet"
+  ]
+}

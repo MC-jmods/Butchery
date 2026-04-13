@@ -1,0 +1,550 @@
+{
+  "format_version": "1.21.6",
+  "credit": "Made with Blockbench",
+  "texture_size": [
+    128,
+    128
+  ],
+  "elements": [
+    {
+      "name": "head",
+      "from": [
+        0,
+        0.025,
+        3
+      ],
+      "to": [
+        16,
+        16.025,
+        13
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          -33.975,
+          9
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            1.25,
+            5.25,
+            3.25,
+            7.25
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            0,
+            5.25,
+            1.25,
+            7.25
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            4.5,
+            5.25,
+            6.5,
+            7.25
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            3.25,
+            5.25,
+            4.5,
+            7.25
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            3.25,
+            5.25,
+            1.25,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            5.25,
+            4,
+            3.25,
+            5.25
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "left_tendril",
+      "from": [
+        -16,
+        9.025,
+        9
+      ],
+      "to": [
+        0,
+        25.025,
+        9
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          -33.975,
+          9
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            7.25,
+            0,
+            9.25,
+            2
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            7.25,
+            0,
+            7.25,
+            2
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            9.25,
+            0,
+            11.25,
+            2
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            9.25,
+            0,
+            9.25,
+            2
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            9.25,
+            0,
+            7.25,
+            0
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            11.25,
+            0,
+            9.25,
+            0
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "right_tendril",
+      "from": [
+        16,
+        9.025,
+        9
+      ],
+      "to": [
+        32,
+        25.025,
+        9
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          17.025,
+          9
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            10.5,
+            4,
+            8.5,
+            6
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            6.5,
+            4,
+            6.5,
+            6
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            8.5,
+            4,
+            6.5,
+            6
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            8.5,
+            4,
+            8.5,
+            6
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            8.5,
+            4,
+            6.5,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            10.5,
+            4,
+            8.5,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "left_tendril",
+      "from": [
+        -16,
+        9.025,
+        9
+      ],
+      "to": [
+        0,
+        25.025,
+        9
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          17.025,
+          9
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            11.25,
+            0,
+            9.25,
+            2
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            7.25,
+            0,
+            7.25,
+            2
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            9.25,
+            0,
+            7.25,
+            2
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            9.25,
+            0,
+            9.25,
+            2
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            9.25,
+            0,
+            7.25,
+            0
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            11.25,
+            0,
+            9.25,
+            0
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "right_tendril",
+      "from": [
+        16,
+        9.025,
+        9
+      ],
+      "to": [
+        32,
+        25.025,
+        9
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          -33.975,
+          9
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            6.5,
+            4,
+            8.5,
+            6
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            6.5,
+            4,
+            6.5,
+            6
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            8.5,
+            4,
+            10.5,
+            6
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            8.5,
+            4,
+            8.5,
+            6
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            8.5,
+            4,
+            6.5,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            10.5,
+            4,
+            8.5,
+            4
+          ],
+          "texture": "#0"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        75,
+        45,
+        0
+      ],
+      "translation": [
+        0,
+        2.5,
+        0
+      ],
+      "scale": [
+        0.375,
+        0.375,
+        0.375
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        75,
+        45,
+        0
+      ],
+      "translation": [
+        0,
+        2.5,
+        0
+      ],
+      "scale": [
+        0.375,
+        0.375,
+        0.375
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        -180,
+        58,
+        -180
+      ],
+      "translation": [
+        0,
+        2,
+        0
+      ],
+      "scale": [
+        0.4,
+        0.4,
+        0.4
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        -180,
+        58,
+        -180
+      ],
+      "translation": [
+        0,
+        2,
+        0
+      ],
+      "scale": [
+        0.4,
+        0.4,
+        0.4
+      ]
+    },
+    "ground": {
+      "translation": [
+        0,
+        3,
+        0
+      ],
+      "scale": [
+        0.25,
+        0.25,
+        0.25
+      ]
+    },
+    "gui": {
+      "rotation": [
+        30,
+        -135,
+        0
+      ],
+      "translation": [
+        0.25,
+        -1.25,
+        0
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    }
+  },
+  "groups": [
+    {
+      "name": "bone2",
+      "origin": [
+        8,
+        -25,
+        8
+      ],
+      "color": 0,
+      "children": [
+        {
+          "name": "head",
+          "origin": [
+            8,
+            0.2,
+            9
+          ],
+          "color": 0,
+          "children": [
+            0
+          ]
+        },
+        {
+          "name": "left_tendril",
+          "origin": [
+            -8,
+            9.2,
+            10
+          ],
+          "color": 0,
+          "children": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "name": "right_tendril",
+          "origin": [
+            24,
+            9.2,
+            10
+          ],
+          "color": 0,
+          "children": [
+            4
+          ]
+        }
+      ]
+    }
+  ]
+}

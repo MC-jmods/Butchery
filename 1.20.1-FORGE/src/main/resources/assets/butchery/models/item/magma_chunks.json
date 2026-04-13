@@ -1,0 +1,14 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "butchery:item/magma_cube"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "butchery:magma_chunks_multiple": 1
+      },
+      "model": "butchery:item/magma_chunks_0"
+    }
+  ]
+}

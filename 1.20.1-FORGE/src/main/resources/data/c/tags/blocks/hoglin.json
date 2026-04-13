@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "butchery:drained_hoglin_carcass",
+    "butchery:hoglin_carcass",
+    "butchery:drained_zoglin_carcass",
+    "butchery:zoglin_carcass"
+  ]
+}

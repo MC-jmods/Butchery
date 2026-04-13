@@ -1,0 +1,12 @@
+{
+  "parent": "butchery:custom/witches_head_mount",
+  "textures": {
+    "all": "butchery:block/witch",
+    "particle": "butchery:block/witch",
+    "0": "minecraft:block/spruce_planks",
+    "1": "minecraft:block/dark_oak_planks",
+    "2": "minecraft:block/gold_block",
+    "3": "butchery:block/witch_head_mount"
+  },
+  "render_type": "cutout"
+}

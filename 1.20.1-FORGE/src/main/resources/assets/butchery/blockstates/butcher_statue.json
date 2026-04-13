@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "butchery:block/butcher_statue"
+    },
+    "facing=east": {
+      "model": "butchery:block/butcher_statue",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "butchery:block/butcher_statue",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "butchery:block/butcher_statue",
+      "y": 270
+    }
+  }
+}

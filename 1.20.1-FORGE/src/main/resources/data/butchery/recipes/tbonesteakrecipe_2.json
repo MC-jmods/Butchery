@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "group": "beef",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 125,
+  "ingredient": {
+    "item": "butchery:raw_tbone_steak"
+  },
+  "result": "butchery:cooked_tbone_steak"
+}

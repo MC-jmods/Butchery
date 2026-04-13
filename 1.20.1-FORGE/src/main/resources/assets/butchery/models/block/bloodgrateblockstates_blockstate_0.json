@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/blood_grate_blood_magic",
+  "textures": {
+    "all": "butchery:block/tank_bloodmagic",
+    "particle": "butchery:block/tank",
+    "1": "butchery:block/tank_bloodmagic"
+  },
+  "render_type": "cutout"
+}

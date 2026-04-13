@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/dolphin_skeleton",
+  "textures": {
+    "all": "butchery:block/dolphin_skeleton",
+    "particle": "butchery:block/dolphin_skeleton",
+    "0": "butchery:block/dolphin_skeleton"
+  },
+  "render_type": "cutout"
+}

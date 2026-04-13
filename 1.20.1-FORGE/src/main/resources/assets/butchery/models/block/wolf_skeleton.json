@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/wolf_skeleton",
+  "textures": {
+    "all": "butchery:block/wolf_skeleton",
+    "particle": "butchery:block/wolf_skeleton",
+    "0": "butchery:block/wolf_skeleton"
+  },
+  "render_type": "cutout"
+}

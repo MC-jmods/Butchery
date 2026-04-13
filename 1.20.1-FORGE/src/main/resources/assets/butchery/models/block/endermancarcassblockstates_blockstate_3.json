@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/enderman_carcass_cut_3",
+  "textures": {
+    "all": "butchery:block/enderman_2",
+    "particle": "butchery:block/enderman_2",
+    "0": "butchery:block/enderman_2"
+  },
+  "render_type": "cutout"
+}

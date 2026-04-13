@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "de ",
+    " f "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:blue_dye"
+    },
+    "b": {
+      "item": "minecraft:clay"
+    },
+    "c": {
+      "item": "minecraft:brown_dye"
+    },
+    "d": {
+      "item": "butchery:iron_cleaver"
+    },
+    "e": {
+      "item": "minecraft:armor_stand"
+    },
+    "f": {
+      "item": "minecraft:smooth_stone_slab"
+    }
+  },
+  "result": {
+    "item": "butchery:butcher_statue",
+    "count": 1
+  }
+}

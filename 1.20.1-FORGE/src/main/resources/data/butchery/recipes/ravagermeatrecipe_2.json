@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "group": "ravager",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 137,
+  "ingredient": {
+    "item": "butchery:raw_ravager_meat"
+  },
+  "result": "butchery:cooked_ravager_meat"
+}
