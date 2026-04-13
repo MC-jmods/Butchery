@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "butchery:block/cling_film"
+    },
+    "facing=east": {
+      "model": "butchery:block/cling_film",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "butchery:block/cling_film",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "butchery:block/cling_film",
+      "y": 270
+    }
+  }
+}

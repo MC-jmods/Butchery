@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/empty_small_mount",
+  "textures": {
+    "all": "butchery:block/head_stand",
+    "particle": "butchery:block/head_stand",
+    "1": "butchery:block/head_stand"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/lung_jar",
+  "textures": {
+    "all": "butchery:block/organ_jar_2",
+    "particle": "minecraft:block/glass",
+    "0": "butchery:block/organ_jar_2"
+  },
+  "render_type": "translucent"
+}

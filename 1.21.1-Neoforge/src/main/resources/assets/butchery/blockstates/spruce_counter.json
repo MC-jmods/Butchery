@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "butchery:block/spruce_counter"
+    },
+    "facing=east": {
+      "model": "butchery:block/spruce_counter",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "butchery:block/spruce_counter",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "butchery:block/spruce_counter",
+      "y": 270
+    }
+  }
+}

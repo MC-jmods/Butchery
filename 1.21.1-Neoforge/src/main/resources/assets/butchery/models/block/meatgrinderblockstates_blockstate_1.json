@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/meat_grinder_sf_empty",
+  "textures": {
+    "all": "butchery:block/meat_grinder_sausage",
+    "particle": "butchery:block/meat_grinder",
+    "0": "butchery:block/meat_grinder_sausage"
+  },
+  "render_type": "cutout"
+}

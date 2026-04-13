@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/wooden_butchers_table_birch_center",
+  "textures": {
+    "all": "butchery:block/wooden_butchers_table_birch_middle",
+    "particle": "butchery:block/wooden_butchers_table_birch",
+    "0": "butchery:block/wooden_butchers_table_birch_middle"
+  },
+  "render_type": "cutout"
+}

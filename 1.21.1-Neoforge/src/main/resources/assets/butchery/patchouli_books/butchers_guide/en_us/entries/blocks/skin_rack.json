@@ -1,0 +1,20 @@
+{
+      "name": "Skin Rack",
+    "icon": "butchery:skin_rack",
+    "category": "butchery:blocks",
+    "read_by_default": true,
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:skin_rack",
+            "link_recipe": true,
+            "title" : "Skin Rack",
+            "text": "The skin rack can be used to convert animal skins into leather. To use the skin rack place a mob skin by right clicking the rack whilst holding the skin. Once placed use a wet sponge, rag or bottle of water to wet the skin. Finally right click the wet skin whilst holding some salt. After these steps have been following you will need to wait for the skin to cure and convert to leather."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:skinrackrecipe"
+        }
+    ]
+}

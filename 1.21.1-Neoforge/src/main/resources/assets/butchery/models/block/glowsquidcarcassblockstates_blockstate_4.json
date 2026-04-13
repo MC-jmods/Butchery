@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/glow_squid_carcass_cut_2",
+  "textures": {
+    "all": "butchery:block/glow_squid",
+    "particle": "minecraft:block/powder_snow",
+    "0": "butchery:block/glow_squid"
+  },
+  "render_type": "cutout"
+}

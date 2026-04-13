@@ -1,0 +1,7 @@
+{
+  "parent": "butchery:custom/ravager_carcas",
+  "textures": {
+    "0": "butchery:block/ravager",
+    "particle": "butchery:item/ravager"
+  }
+}

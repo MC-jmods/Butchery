@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "butchery:copper_hammer",
+    "butchery:netherite_hammer",
+    "butchery:gold_hammer",
+    "butchery:bone_hammer",
+    "butchery:diamond_hammer",
+    "butchery:iron_hammer"
+  ]
+}

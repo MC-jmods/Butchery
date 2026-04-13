@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "butchery:block/iron_golem_legs"
+    },
+    "facing=east": {
+      "model": "butchery:block/iron_golem_legs",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "butchery:block/iron_golem_legs",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "butchery:block/iron_golem_legs",
+      "y": 270
+    }
+  }
+}

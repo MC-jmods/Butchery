@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smoking",
+  "group": "beef",
+  "category": "misc",
+  "experience": 0.5,
+  "cookingtime": 120,
+  "ingredient": {
+    "item": "butchery:raw_chuck_steak"
+  },
+  "result": {
+    "id": "butchery:cooked_chuck_steak"
+  }
+}

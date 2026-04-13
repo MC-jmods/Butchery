@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/wooden_butchers_table_mangrove_left",
+  "textures": {
+    "all": "butchery:block/wooden_butchers_table_mangrove_side",
+    "particle": "butchery:block/wooden_butchers_table_mangrove",
+    "0": "butchery:block/wooden_butchers_table_mangrove_side"
+  },
+  "render_type": "cutout"
+}

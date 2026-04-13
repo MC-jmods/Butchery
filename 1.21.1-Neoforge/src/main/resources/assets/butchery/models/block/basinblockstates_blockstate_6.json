@@ -1,0 +1,13 @@
+{
+  "parent": "butchery:custom/salt_basin",
+  "textures": {
+    "all": "butchery:block/salt_block",
+    "particle": "minecraft:block/cauldron_inner",
+    "salted_inside": "butchery:block/cauldron_salted_inside",
+    "inside_base": "butchery:block/salt_block",
+    "top": "minecraft:block/cauldron_top",
+    "missing": "butchery:block/",
+    "inside": "minecraft:block/cauldron_side"
+  },
+  "render_type": "cutout"
+}

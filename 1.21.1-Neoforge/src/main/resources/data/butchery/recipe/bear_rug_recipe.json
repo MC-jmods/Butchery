@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aaa",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "butchery:polar_bear_skin"
+    },
+    "b": {
+      "item": "butchery:polar_bear_head"
+    }
+  },
+  "result": {
+    "id": "butchery:polarbear_rug",
+    "count": 1
+  }
+}

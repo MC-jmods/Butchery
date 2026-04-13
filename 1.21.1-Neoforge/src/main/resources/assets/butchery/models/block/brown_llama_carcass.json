@@ -1,0 +1,10 @@
+{
+  "parent": "butchery:custom/brown_llama_carcass",
+  "textures": {
+    "all": "butchery:block/brown_llama",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/brown_llama",
+    "1": "butchery:block/llama_skeleton"
+  },
+  "render_type": "cutout"
+}

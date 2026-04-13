@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "cec"
+  ],
+  "key": {
+    "a": {
+      "item": "butchery:sculk_bone"
+    },
+    "b": {
+      "item": "butchery:deep_smithing_template"
+    },
+    "c": {
+      "item": "minecraft:sculk"
+    },
+    "d": {
+      "item": "minecraft:sculk_shrieker"
+    },
+    "e": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "id": "butchery:deep_smithing_template",
+    "count": 2
+  }
+}

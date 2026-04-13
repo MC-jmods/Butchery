@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/photos",
+  "textures": {
+    "all": "butchery:block/photos",
+    "particle": "butchery:block/photos",
+    "0": "butchery:block/photos"
+  },
+  "render_type": "cutout"
+}

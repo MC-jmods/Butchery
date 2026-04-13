@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smoking",
+  "group": "villager",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "butchery:raw_villager_steak"
+  },
+  "result": {
+    "id": "butchery:cooked_villager_steak"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:fur"
+    },
+    "b": {
+      "item": "minecraft:leather_leggings"
+    }
+  },
+  "result": {
+    "id": "butchery:fur_suit_leggings",
+    "count": 1
+  }
+}

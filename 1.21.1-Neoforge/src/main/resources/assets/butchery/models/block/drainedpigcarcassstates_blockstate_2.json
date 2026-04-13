@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/hanging_pig_carcass_headless_skinned",
+  "textures": {
+    "all": "butchery:block/skinned_hanging_pig",
+    "particle": "minecraft:block/nether_wart_block",
+    "1": "butchery:block/skinned_hanging_pig"
+  },
+  "render_type": "cutout"
+}

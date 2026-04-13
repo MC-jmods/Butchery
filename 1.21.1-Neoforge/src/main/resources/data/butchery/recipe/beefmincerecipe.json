@@ -1,0 +1,24 @@
+{
+  "type": "butchery:meatgrinderjei",
+  "ingredients": [
+    {
+      "tag": "butchery:raw_beef"
+    },
+    {
+      "tag": "butchery:jei_empty_tag"
+    },
+    {
+      "tag": "butchery:jei_empty_tag"
+    },
+    {
+      "tag": "butchery:jei_empty_tag"
+    },
+    {
+      "tag": "butchery:jei_empty_tag"
+    }
+  ],
+  "output": {
+    "id": "butchery:raw_beef_mince",
+    "count": 1
+  }
+}

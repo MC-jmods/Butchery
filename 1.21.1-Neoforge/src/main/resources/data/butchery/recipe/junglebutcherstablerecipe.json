@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "butchers_table",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcb",
+    "b b"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:stripped_jungle_wood"
+    },
+    "b": {
+      "item": "minecraft:jungle_planks"
+    },
+    "c": {
+      "item": "minecraft:jungle_slab"
+    }
+  },
+  "result": {
+    "id": "butchery:jungle_butchers_table",
+    "count": 1
+  }
+}

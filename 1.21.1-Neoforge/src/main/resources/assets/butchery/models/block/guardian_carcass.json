@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/guardian_carcass",
+  "textures": {
+    "all": "butchery:block/guardian",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/guardian"
+  },
+  "render_type": "cutout"
+}

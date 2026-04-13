@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "group": "beef",
+  "category": "misc",
+  "experience": 0.65,
+  "cookingtime": 240,
+  "ingredient": {
+    "item": "butchery:raw_sirloin_steak"
+  },
+  "result": {
+    "id": "butchery:cooked_sirloin_steak"
+  }
+}

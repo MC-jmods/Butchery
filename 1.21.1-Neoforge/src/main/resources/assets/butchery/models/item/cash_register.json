@@ -1,0 +1,7 @@
+{
+  "parent": "butchery:custom/cash_register",
+  "textures": {
+    "0": "butchery:block/cash_register",
+    "particle": "butchery:item/cash_register"
+  }
+}

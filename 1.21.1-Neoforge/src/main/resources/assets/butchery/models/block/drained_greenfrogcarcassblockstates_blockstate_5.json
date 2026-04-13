@@ -1,0 +1,10 @@
+{
+  "parent": "butchery:custom/green_frog_cut_4",
+  "textures": {
+    "all": "butchery:block/frog",
+    "particle": "minecraft:block/nether_wart_block",
+    "1": "minecraft:block/iron_block",
+    "frog": "butchery:block/frog"
+  },
+  "render_type": "cutout_mipped"
+}

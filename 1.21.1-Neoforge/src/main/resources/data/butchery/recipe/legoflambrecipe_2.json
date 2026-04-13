@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smoking",
+  "group": "lamb",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "butchery:raw_leg_of_lamb"
+  },
+  "result": {
+    "id": "butchery:cooked_leg_of_lamb"
+  }
+}

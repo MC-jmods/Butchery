@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/white_cat_cat_carcass",
+  "textures": {
+    "all": "butchery:block/white_cat",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/white_cat"
+  },
+  "render_type": "cutout_mipped"
+}

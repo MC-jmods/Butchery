@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "misc",
+  "experience": 1.2,
+  "cookingtime": 450,
+  "ingredient": {
+    "item": "butchery:raw_elder_guardian_meat"
+  },
+  "result": {
+    "id": "butchery:cooked_elder_guardian_meat"
+  }
+}

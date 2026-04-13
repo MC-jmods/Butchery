@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "butchery:cooked_pork_loin"
+    },
+    "title": {
+      "translate": "advancements.pigging_out.title"
+    },
+    "description": {
+      "translate": "advancements.pigging_out.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "pigging_out_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "butchery:rotisserie_rookie"
+}

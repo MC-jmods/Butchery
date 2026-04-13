@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "butchery:block/cod_barrel"
+    },
+    "facing=east": {
+      "model": "butchery:block/cod_barrel",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "butchery:block/cod_barrel",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "butchery:block/cod_barrel",
+      "y": 270
+    }
+  }
+}

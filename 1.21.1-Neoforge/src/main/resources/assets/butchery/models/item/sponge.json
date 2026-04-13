@@ -1,0 +1,68 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "butchery:item/sponge"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "butchery:sponge_wetness": 1
+      },
+      "model": "butchery:item/sponge_0"
+    },
+    {
+      "predicate": {
+        "butchery:sponge_wetness": 2
+      },
+      "model": "butchery:item/sponge_1"
+    },
+    {
+      "predicate": {
+        "butchery:sponge_wetness": 3
+      },
+      "model": "butchery:item/sponge_2"
+    },
+    {
+      "predicate": {
+        "butchery:sponge_wetness": 4
+      },
+      "model": "butchery:item/sponge_3"
+    },
+    {
+      "predicate": {
+        "butchery:sponge_wetness": 5
+      },
+      "model": "butchery:item/sponge_4"
+    },
+    {
+      "predicate": {
+        "butchery:sponge_wetness": 6
+      },
+      "model": "butchery:item/sponge_5"
+    },
+    {
+      "predicate": {
+        "butchery:sponge_wetness": 7
+      },
+      "model": "butchery:item/sponge_6"
+    },
+    {
+      "predicate": {
+        "butchery:sponge_wetness": 8
+      },
+      "model": "butchery:item/sponge_7"
+    },
+    {
+      "predicate": {
+        "butchery:sponge_wetness": 9
+      },
+      "model": "butchery:item/sponge_8"
+    },
+    {
+      "predicate": {
+        "butchery:sponge_wetness": 10
+      },
+      "model": "butchery:item/sponge_9"
+    }
+  ]
+}

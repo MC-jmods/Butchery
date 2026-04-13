@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/cat_skeleton",
+  "textures": {
+    "all": "butchery:block/cat_skeleton",
+    "particle": "butchery:block/cat_skeleton",
+    "0": "butchery:block/cat_skeleton"
+  },
+  "render_type": "cutout_mipped"
+}

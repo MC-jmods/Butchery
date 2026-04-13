@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smoking",
+  "group": "vindicator",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "butchery:raw_vindicator_meat"
+  },
+  "result": {
+    "id": "butchery:cooked_vindicator_meat"
+  }
+}

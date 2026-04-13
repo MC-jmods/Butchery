@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:string"
+    },
+    "b": {
+      "item": "butchery:animal_fat"
+    }
+  },
+  "result": {
+    "id": "minecraft:candle",
+    "count": 1
+  }
+}

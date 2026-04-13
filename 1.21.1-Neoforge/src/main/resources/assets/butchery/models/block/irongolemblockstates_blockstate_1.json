@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/iron_golem_armless",
+  "textures": {
+    "all": "butchery:block/iron_golem",
+    "particle": "butchery:block/iron_golem",
+    "0": "butchery:block/iron_golem"
+  },
+  "render_type": "cutout"
+}

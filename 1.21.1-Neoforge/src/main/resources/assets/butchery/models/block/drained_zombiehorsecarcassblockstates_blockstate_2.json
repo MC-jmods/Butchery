@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/zombie_horse_carcass_cut_1_hanging",
+  "textures": {
+    "all": "butchery:block/drained_horse_zombie",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/drained_horse_zombie"
+  },
+  "render_type": "cutout"
+}

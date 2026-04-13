@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/spit_roast",
+  "textures": {
+    "all": "butchery:block/spit_roast",
+    "particle": "butchery:block/spit_roast",
+    "0": "butchery:block/spit_roast"
+  },
+  "render_type": "cutout"
+}

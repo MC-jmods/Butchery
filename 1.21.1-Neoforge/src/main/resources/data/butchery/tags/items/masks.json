@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "butchery:evoker_robes_helmet",
+    "butchery:pillager_armor_helmet",
+    "butchery:evoker_robes_boots",
+    "butchery:vindicatorarmor_helmet",
+    "butchery:pillager_armor_boots",
+    "butchery:vindicatorarmor_boots"
+  ]
+}

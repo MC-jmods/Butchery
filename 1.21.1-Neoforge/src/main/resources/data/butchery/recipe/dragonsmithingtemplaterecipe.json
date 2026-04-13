@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dragon",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "cac"
+  ],
+  "key": {
+    "a": {
+      "item": "butchery:spiked_dragon_bone"
+    },
+    "b": {
+      "item": "butchery:dragon_smithing_template"
+    },
+    "c": {
+      "item": "butchery:dragon_scale"
+    },
+    "d": {
+      "item": "butchery:dragon_scale_block"
+    }
+  },
+  "result": {
+    "id": "butchery:dragon_smithing_template",
+    "count": 2
+  }
+}

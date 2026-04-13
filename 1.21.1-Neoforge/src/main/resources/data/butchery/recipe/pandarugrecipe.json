@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "butchery:panda_skin"
+    }
+  },
+  "result": {
+    "id": "butchery:panda_rug",
+    "count": 1
+  }
+}

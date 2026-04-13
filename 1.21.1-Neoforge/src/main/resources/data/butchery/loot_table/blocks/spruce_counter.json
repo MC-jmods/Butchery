@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "butchery:blocks/spruce_counter",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "butchery:spruce_counter"
+        }
+      ]
+    }
+  ]
+}

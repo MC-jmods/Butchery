@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smoking",
+  "category": "misc",
+  "experience": 1.7,
+  "cookingtime": 110,
+  "ingredient": {
+    "item": "butchery:raw_witch_meat"
+  },
+  "result": {
+    "id": "butchery:cooked_witch_meat"
+  }
+}

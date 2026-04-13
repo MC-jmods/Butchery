@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smoking",
+  "group": "beef",
+  "category": "misc",
+  "experience": 0.65,
+  "cookingtime": 120,
+  "ingredient": {
+    "item": "butchery:raw_sirloin_steak"
+  },
+  "result": {
+    "id": "butchery:cooked_sirloin_steak"
+  }
+}

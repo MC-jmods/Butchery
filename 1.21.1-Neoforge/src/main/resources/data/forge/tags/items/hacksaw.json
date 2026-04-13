@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "butchery:bone_hacksaw",
+    "butchery:iron_hacksaw",
+    "butchery:netherite_hacksaw",
+    "butchery:copper_hacksaw",
+    "butchery:gold_hacksaw",
+    "butchery:diamond_hacksaw"
+  ]
+}

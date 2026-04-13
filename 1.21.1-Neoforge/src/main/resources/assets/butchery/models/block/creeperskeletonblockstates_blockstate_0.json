@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/creeper_skeleton_hanging",
+  "textures": {
+    "all": "butchery:block/creeper_skeleton",
+    "particle": "butchery:block/creeper_skeleton",
+    "0": "butchery:block/creeper_skeleton"
+  },
+  "render_type": "cutout"
+}

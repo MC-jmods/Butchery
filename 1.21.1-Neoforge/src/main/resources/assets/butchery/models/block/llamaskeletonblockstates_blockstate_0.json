@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/llama_skeleton_hanging",
+  "textures": {
+    "all": "butchery:block/llama_skeleton",
+    "particle": "butchery:block/llama_skeleton",
+    "0": "butchery:block/llama_skeleton"
+  },
+  "render_type": "cutout"
+}

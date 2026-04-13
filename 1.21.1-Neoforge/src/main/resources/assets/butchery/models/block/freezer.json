@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/freezer",
+  "textures": {
+    "all": "butchery:block/freezer",
+    "particle": "butchery:block/freezer",
+    "0": "butchery:block/freezer"
+  },
+  "render_type": "cutout"
+}

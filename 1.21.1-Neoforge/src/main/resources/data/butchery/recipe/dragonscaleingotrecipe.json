@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dragon",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "abb",
+    "bb "
+  ],
+  "key": {
+    "a": {
+      "item": "butchery:dragon_scale"
+    },
+    "b": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "result": {
+    "id": "butchery:dragon_scale_ingot",
+    "count": 1
+  }
+}

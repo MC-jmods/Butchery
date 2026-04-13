@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/wolf_carcass",
+  "textures": {
+    "all": "butchery:block/wolf",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/wolf"
+  },
+  "render_type": "cutout"
+}

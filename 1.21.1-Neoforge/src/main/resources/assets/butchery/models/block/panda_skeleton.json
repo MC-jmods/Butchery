@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/panda_skeleton",
+  "textures": {
+    "all": "butchery:block/panda_skeleton",
+    "particle": "butchery:block/panda_skeleton",
+    "0": "butchery:block/panda_skeleton"
+  },
+  "render_type": "cutout"
+}

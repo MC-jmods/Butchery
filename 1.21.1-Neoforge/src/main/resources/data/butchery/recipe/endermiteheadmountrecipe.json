@@ -1,0 +1,18 @@
+{
+  "type": "butchery:taxidermy",
+  "ingredients": [
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "butchery:endermite_head"
+    },
+    {
+      "item": "butchery:small_empty_head_mount"
+    }
+  ],
+  "output": {
+    "id": "butchery:endermite_head_mount",
+    "count": 1
+  }
+}

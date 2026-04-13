@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/piglin_brute_corpse",
+  "textures": {
+    "all": "butchery:block/piglin_brute",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/piglin_brute"
+  },
+  "render_type": "cutout"
+}

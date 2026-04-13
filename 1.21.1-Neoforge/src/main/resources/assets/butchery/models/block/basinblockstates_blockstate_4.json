@@ -1,0 +1,13 @@
+{
+  "parent": "butchery:custom/water_basin_4",
+  "textures": {
+    "all": "minecraft:block/water_still",
+    "particle": "minecraft:block/cauldron_inner",
+    "salted_inside": "butchery:block/cauldron_salted_inside",
+    "inside_base": "minecraft:block/cauldron_inner",
+    "top": "minecraft:block/cauldron_top",
+    "inside": "minecraft:block/cauldron_side",
+    "water": "minecraft:block/water_still"
+  },
+  "render_type": "cutout"
+}

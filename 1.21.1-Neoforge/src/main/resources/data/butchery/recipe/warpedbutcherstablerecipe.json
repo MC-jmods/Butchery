@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "butchers_table",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcb",
+    "b b"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:stripped_warped_hyphae"
+    },
+    "b": {
+      "item": "minecraft:warped_planks"
+    },
+    "c": {
+      "item": "minecraft:warped_slab"
+    }
+  },
+  "result": {
+    "id": "butchery:warped_butchers_table",
+    "count": 1
+  }
+}

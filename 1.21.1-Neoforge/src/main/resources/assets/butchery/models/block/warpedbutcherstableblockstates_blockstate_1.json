@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/wooden_butchers_table_warped_left",
+  "textures": {
+    "all": "butchery:block/wooden_butchers_table_warped_side",
+    "particle": "butchery:block/wooden_butchers_table_warped",
+    "0": "butchery:block/wooden_butchers_table_warped_side"
+  },
+  "render_type": "cutout"
+}

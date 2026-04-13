@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "turtle",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "butchery:turtle_shell_fragment"
+    }
+  },
+  "result": {
+    "id": "butchery:turtle_shell_armor_chestplate",
+    "count": 1
+  }
+}

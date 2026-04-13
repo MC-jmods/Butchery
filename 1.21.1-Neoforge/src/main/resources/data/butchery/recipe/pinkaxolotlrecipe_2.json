@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smoking",
+  "group": "axolotl",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "butchery:raw_pink_axolotl_fillet"
+  },
+  "result": {
+    "id": "butchery:cooked_pink_axolotl_fillet"
+  }
+}

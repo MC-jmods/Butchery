@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/chicken_carcass_cut_1_legs",
+  "textures": {
+    "all": "butchery:block/chicken_plucked",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/chicken_plucked"
+  },
+  "render_type": "cutout"
+}

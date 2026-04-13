@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/sheep_skeleton",
+  "textures": {
+    "all": "butchery:block/sheep_skeleton",
+    "particle": "butchery:block/sheep_skeleton",
+    "sheep_texture": "butchery:block/sheep_skeleton"
+  },
+  "render_type": "cutout"
+}

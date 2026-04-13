@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "butchery:blocks/pestle_and_mortar",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "butchery:pestle_and_mortar"
+        }
+      ]
+    }
+  ]
+}

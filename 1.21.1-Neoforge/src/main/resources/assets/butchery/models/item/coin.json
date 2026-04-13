@@ -1,0 +1,44 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "butchery:item/1_coin"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "butchery:coin_amount": 1
+      },
+      "model": "butchery:item/coin_0"
+    },
+    {
+      "predicate": {
+        "butchery:coin_amount": 2
+      },
+      "model": "butchery:item/coin_1"
+    },
+    {
+      "predicate": {
+        "butchery:coin_amount": 3
+      },
+      "model": "butchery:item/coin_2"
+    },
+    {
+      "predicate": {
+        "butchery:coin_amount": 4
+      },
+      "model": "butchery:item/coin_3"
+    },
+    {
+      "predicate": {
+        "butchery:coin_amount": 5
+      },
+      "model": "butchery:item/coin_4"
+    },
+    {
+      "predicate": {
+        "butchery:coin_amount": 6
+      },
+      "model": "butchery:item/coin_5"
+    }
+  ]
+}

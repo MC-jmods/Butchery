@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "tag": "butchery:raw_beef"
+    }
+  ],
+  "result": [
+    {
+      "count": 1,
+      "item": "minecraft:beef"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  }
+}

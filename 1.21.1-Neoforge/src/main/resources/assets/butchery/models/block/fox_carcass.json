@@ -1,0 +1,11 @@
+{
+  "parent": "butchery:custom/fox_carcass",
+  "textures": {
+    "all": "butchery:block/fox",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/fox_skeleton",
+    "1": "butchery:block/fox",
+    "2": "butchery:block/inner_blood_fox"
+  },
+  "render_type": "cutout"
+}

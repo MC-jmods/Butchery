@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "group": "hoglin",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 300,
+  "ingredient": {
+    "item": "butchery:raw_hoglin_chunk"
+  },
+  "result": {
+    "id": "butchery:cooked_hoglin_chunk"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "id": "butchery:green_frog_balloon"
+    },
+    "title": {
+      "translate": "advancements.breathless.title"
+    },
+    "description": {
+      "translate": "advancements.breathless.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "breathless_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 50
+  },
+  "parent": "butchery:butcherssecrets"
+}

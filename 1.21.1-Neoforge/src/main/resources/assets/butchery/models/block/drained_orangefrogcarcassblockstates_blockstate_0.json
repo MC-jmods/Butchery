@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/orange_hanging_drained_frog_corpse",
+  "textures": {
+    "all": "butchery:block/orange_frog",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/default_orange_frog"
+  },
+  "render_type": "cutout_mipped"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/bat_carcass_cut_2",
+  "textures": {
+    "all": "butchery:block/bat_skinned",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/bat_skinned"
+  },
+  "render_type": "cutout"
+}

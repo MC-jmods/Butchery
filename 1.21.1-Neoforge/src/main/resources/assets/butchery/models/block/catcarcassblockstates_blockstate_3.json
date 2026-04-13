@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/cat_carcass_headless_skinned",
+  "textures": {
+    "all": "butchery:block/ocelot_skinned",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/ocelot_skinned"
+  },
+  "render_type": "cutout_mipped"
+}

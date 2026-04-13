@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/husk_corpse_headless_hanging",
+  "textures": {
+    "all": "butchery:block/husk_armless",
+    "particle": "minecraft:block/sand",
+    "0": "butchery:block/husk_armless"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "hook",
+  "category": "misc",
+  "pattern": [
+    " ab",
+    " a ",
+    "ba "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_nugget"
+    },
+    "b": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "id": "butchery:hook",
+    "count": 1
+  }
+}

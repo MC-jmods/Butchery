@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/crimson_counter",
+  "textures": {
+    "all": "butchery:block/crimson_display",
+    "particle": "butchery:block/crimson_display",
+    "0": "butchery:block/crimson_display"
+  },
+  "render_type": "cutout"
+}

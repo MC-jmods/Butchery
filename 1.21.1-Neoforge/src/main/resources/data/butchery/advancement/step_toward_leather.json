@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "id": "butchery:ocelot_skin"
+    },
+    "title": {
+      "translate": "advancements.step_toward_leather.title"
+    },
+    "description": {
+      "translate": "advancements.step_toward_leather.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "step_toward_leather_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 5
+  },
+  "parent": "butchery:rack_em_up"
+}

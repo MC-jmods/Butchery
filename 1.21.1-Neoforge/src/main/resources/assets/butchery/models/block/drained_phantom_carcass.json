@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/phantom_drained_carcass",
+  "textures": {
+    "all": "butchery:block/drained_phantom_carcass",
+    "particle": "minecraft:block/cherry_log",
+    "0": "butchery:block/drained_phantom_carcass"
+  },
+  "render_type": "cutout"
+}

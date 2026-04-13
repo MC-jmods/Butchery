@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/magma_cut_1",
+  "textures": {
+    "all": "butchery:block/magmacube",
+    "particle": "butchery:block/magmacube",
+    "0": "butchery:block/magmacube"
+  },
+  "render_type": "cutout_mipped"
+}

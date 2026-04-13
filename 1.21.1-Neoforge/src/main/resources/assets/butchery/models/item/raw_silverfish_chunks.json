@@ -1,0 +1,14 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "butchery:item/silverfish_chunks"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "butchery:raw_silverfish_chunks_multiple": 1
+      },
+      "model": "butchery:item/raw_silverfish_chunks_0"
+    }
+  ]
+}

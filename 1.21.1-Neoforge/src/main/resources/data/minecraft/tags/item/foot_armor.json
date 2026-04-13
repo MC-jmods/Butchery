@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "butchery:turtle_shell_armor_boots",
+    "butchery:evoker_robes_boots",
+    "butchery:fur_suit_boots",
+    "butchery:dragon_scale_armor_boots",
+    "butchery:vindicatorarmor_boots",
+    "butchery:pillager_armor_boots"
+  ]
+}

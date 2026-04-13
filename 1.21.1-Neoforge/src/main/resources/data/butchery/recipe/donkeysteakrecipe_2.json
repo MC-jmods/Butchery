@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smoking",
+  "group": "donkey",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "butchery:raw_donkey_steak"
+  },
+  "result": {
+    "id": "butchery:cooked_donkey_steak"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/stray_corpse_clotheless_hanging",
+  "textures": {
+    "all": "butchery:block/stray",
+    "particle": "butchery:block/stray",
+    "0": "butchery:block/stray"
+  },
+  "render_type": "cutout"
+}

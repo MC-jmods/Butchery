@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "hacksaw",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "abb"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:stick"
+    },
+    "b": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "id": "butchery:diamond_hacksaw",
+    "count": 1
+  }
+}

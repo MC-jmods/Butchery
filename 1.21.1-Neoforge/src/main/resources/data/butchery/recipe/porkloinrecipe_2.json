@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smoking",
+  "group": "pork",
+  "category": "misc",
+  "experience": 0.5,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "butchery:raw_pork_loin"
+  },
+  "result": {
+    "id": "butchery:cooked_pork_loin"
+  }
+}

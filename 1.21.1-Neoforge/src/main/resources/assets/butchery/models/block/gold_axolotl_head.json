@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/gold_axolotl_head",
+  "textures": {
+    "all": "butchery:block/gold_axolotl",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/gold_axolotl"
+  },
+  "render_type": "cutout"
+}

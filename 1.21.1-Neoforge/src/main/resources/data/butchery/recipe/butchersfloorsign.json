@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcb",
+    "d d"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:oak_slab"
+    },
+    "b": {
+      "item": "minecraft:oak_planks"
+    },
+    "c": {
+      "item": "minecraft:black_wool"
+    },
+    "d": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "butchery:floorstanding_sign",
+    "count": 1
+  }
+}

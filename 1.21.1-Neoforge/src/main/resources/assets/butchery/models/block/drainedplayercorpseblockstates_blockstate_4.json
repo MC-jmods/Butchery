@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/player_corpse_cut_3_hanging",
+  "textures": {
+    "all": "butchery:block/player_body_headless",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/player_body_headless"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "butchery:gold_cleaver",
+    "butchery:bone_cleaver",
+    "butchery:diamond_cleaver",
+    "butchery:netherite_cleaver",
+    "butchery:copper_cleaver",
+    "butchery:iron_cleaver"
+  ]
+}

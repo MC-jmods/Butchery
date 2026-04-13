@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "butchery:gold_axolotl_carcass",
+    "butchery:drained_cyan_axolotl_carcass",
+    "butchery:drained_gold_axolotl_carcass",
+    "butchery:drained_blue_axolotl_carcass",
+    "butchery:cyan_axolotl_carcass",
+    "butchery:brown_axolotl_carcass",
+    "butchery:drained_pink_axolotl_carcass",
+    "butchery:blue_axolotl_carcass",
+    "butchery:pink_axolotl_carcass",
+    "butchery:drained_brown_axolotl_carcass"
+  ]
+}

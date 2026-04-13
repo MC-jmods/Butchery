@@ -1,0 +1,7 @@
+{
+  "parent": "butchery:custom/sniffer",
+  "textures": {
+    "0": "butchery:block/sniffer",
+    "particle": "butchery:item/sniffer"
+  }
+}

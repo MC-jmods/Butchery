@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "id": "butchery:camel_skin"
+    },
+    "title": {
+      "translate": "advancements.skininthe_game.title"
+    },
+    "description": {
+      "translate": "advancements.skininthe_game.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "skininthe_game_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 5
+  },
+  "parent": "butchery:knifeto_meet_you"
+}

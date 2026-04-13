@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/regular_white_horse_carcass",
+  "textures": {
+    "all": "butchery:block/horse_white",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/horse_white"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "butchery:block/diorite_bricks",
+    "bottom": "butchery:block/diorite_bricks",
+    "top": "butchery:block/diorite_bricks",
+    "side": "butchery:block/diorite_bricks"
+  },
+  "render_type": "solid"
+}

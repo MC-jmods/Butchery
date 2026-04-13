@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "butchery:block/spike_trap"
+    },
+    "facing=east": {
+      "model": "butchery:block/spike_trap",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "butchery:block/spike_trap",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "butchery:block/spike_trap",
+      "y": 270
+    }
+  }
+}

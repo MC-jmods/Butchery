@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/skeleton_horse_carcass",
+  "textures": {
+    "all": "butchery:block/skeleton_horse",
+    "particle": "butchery:block/skeleton_horse",
+    "0": "butchery:block/skeleton_horse"
+  },
+  "render_type": "cutout"
+}

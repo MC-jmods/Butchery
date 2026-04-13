@@ -1,0 +1,10 @@
+{
+  "parent": "butchery:custom/skin_rack_camel",
+  "textures": {
+    "all": "butchery:block/camel_skin",
+    "particle": "butchery:block/skin_rack",
+    "skin_rack": "butchery:block/skin_rack",
+    "skin": "butchery:block/camel_skin"
+  },
+  "render_type": "cutout"
+}

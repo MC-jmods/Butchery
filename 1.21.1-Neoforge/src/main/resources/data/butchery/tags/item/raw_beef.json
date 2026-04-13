@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "butchery:raw_rump_steak",
+    "butchery:raw_chuck_steak",
+    "butchery:raw_sirloin_steak",
+    "butchery:raw_ribeye_steak",
+    "butchery:raw_tbone_steak"
+  ]
+}

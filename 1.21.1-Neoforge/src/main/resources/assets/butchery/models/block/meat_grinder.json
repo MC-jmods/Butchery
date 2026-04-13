@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/meat_grinder",
+  "textures": {
+    "all": "butchery:block/meat_grinder",
+    "particle": "butchery:block/meat_grinder",
+    "0": "butchery:block/meat_grinder"
+  },
+  "render_type": "cutout"
+}

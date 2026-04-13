@@ -1,0 +1,18 @@
+{
+  "type": "butchery:taxidermy",
+  "ingredients": [
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "butchery:hoglin_head"
+    },
+    {
+      "item": "butchery:large_empty_head_mount"
+    }
+  ],
+  "output": {
+    "id": "butchery:hoglin_head_mount",
+    "count": 1
+  }
+}

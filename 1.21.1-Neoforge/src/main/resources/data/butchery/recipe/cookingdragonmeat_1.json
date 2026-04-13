@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "group": "dragon",
+  "category": "misc",
+  "experience": 1.3,
+  "cookingtime": 500,
+  "ingredient": {
+    "item": "butchery:raw_dragon_meat"
+  },
+  "result": {
+    "id": "butchery:cooked_dragon_meat"
+  }
+}

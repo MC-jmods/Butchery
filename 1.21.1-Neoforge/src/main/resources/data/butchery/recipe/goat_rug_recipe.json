@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aaa",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "butchery:goat_skin"
+    },
+    "b": {
+      "item": "butchery:goat_head"
+    }
+  },
+  "result": {
+    "id": "butchery:goat_rug",
+    "count": 1
+  }
+}

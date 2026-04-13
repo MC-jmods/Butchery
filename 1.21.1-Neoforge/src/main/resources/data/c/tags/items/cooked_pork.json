@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "butchery:cooked_pork_leg",
+    "minecraft:cooked_porkchop",
+    "butchery:cooked_ham",
+    "butchery:cooked_pork_loin",
+    "butchery:cooked_pork_belly",
+    "butchery:cooked_pork_shoulder"
+  ]
+}

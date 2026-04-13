@@ -1,0 +1,12 @@
+{
+  "parent": "butchery:custom/iron_golem_head_mount",
+  "textures": {
+    "all": "butchery:block/iron_golem",
+    "particle": "butchery:block/iron_golem",
+    "0": "minecraft:block/spruce_planks",
+    "1": "minecraft:block/dark_oak_planks",
+    "2": "minecraft:block/gold_block",
+    "3": "butchery:block/iron_golem"
+  },
+  "render_type": "cutout"
+}

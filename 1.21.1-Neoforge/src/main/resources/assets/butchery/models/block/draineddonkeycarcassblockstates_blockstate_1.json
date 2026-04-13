@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/donkey_carcass_headless_hanging",
+  "textures": {
+    "all": "butchery:block/donkey_placed",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/donkey_placed"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/goat_rug",
+  "textures": {
+    "all": "butchery:block/goat_rug",
+    "particle": "butchery:block/sheep_break_particle",
+    "0": "butchery:block/goat_rug"
+  },
+  "render_type": "cutout"
+}

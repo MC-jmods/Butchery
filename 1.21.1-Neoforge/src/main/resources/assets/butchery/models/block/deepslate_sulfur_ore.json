@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "butchery:block/deepslate_sulfur_ore",
+    "up": "butchery:block/deepslate_sulfur_ore",
+    "north": "butchery:block/deepslate_sulfur_ore",
+    "east": "butchery:block/deepslate_sulfur_ore",
+    "south": "butchery:block/deepslate_sulfur_ore",
+    "west": "butchery:block/deepslate_sulfur_ore",
+    "particle": "butchery:block/deepslate_sulfur_ore"
+  },
+  "render_type": "solid"
+}

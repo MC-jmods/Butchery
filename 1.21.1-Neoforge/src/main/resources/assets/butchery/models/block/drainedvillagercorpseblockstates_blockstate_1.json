@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/villager_corpse_headless_hanging",
+  "textures": {
+    "all": "butchery:block/villager_drained_hanging",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/villager_drained_hanging"
+  },
+  "render_type": "cutout"
+}

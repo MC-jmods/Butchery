@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "butchery:dragon_smithing_template"
+  },
+  "base": {
+    "item": "butchery:large_empty_head_mount"
+  },
+  "addition": {
+    "item": "minecraft:crying_obsidian"
+  },
+  "result": {
+    "id": "butchery:empty_dragon_trimmed_head_mount"
+  }
+}

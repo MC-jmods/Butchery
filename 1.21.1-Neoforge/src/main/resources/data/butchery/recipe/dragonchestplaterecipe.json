@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "butchery:dragon_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:netherite_chestplate"
+  },
+  "addition": {
+    "item": "butchery:dragon_scale_ingot"
+  },
+  "result": {
+    "id": "butchery:dragon_scale_armor_chestplate"
+  }
+}

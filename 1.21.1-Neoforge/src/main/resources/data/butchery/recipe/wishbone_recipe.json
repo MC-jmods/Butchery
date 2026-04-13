@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "butchery:broken_wishbone"
+  },
+  "result": {
+    "id": "minecraft:bone_meal",
+    "count": 1
+  }
+}

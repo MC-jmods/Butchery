@@ -1,0 +1,11 @@
+{
+  "parent": "butchery:custom/hanging_panda_headless_carcass",
+  "textures": {
+    "all": "butchery:block/panda_hanging",
+    "particle": "minecraft:block/nether_wart_block",
+    "skeleton": "butchery:block/panda_skeleton",
+    "panda": "butchery:block/panda_hanging",
+    "inner blood": "butchery:block/inner_blood"
+  },
+  "render_type": "cutout"
+}

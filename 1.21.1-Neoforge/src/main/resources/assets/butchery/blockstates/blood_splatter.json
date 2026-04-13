@@ -1,0 +1,534 @@
+{
+  "variants": {
+    "face=floor,facing=north,blockstate=0": {
+      "model": "butchery:block/blood_splatter"
+    },
+    "face=floor,facing=east,blockstate=0": {
+      "model": "butchery:block/blood_splatter",
+      "y": 90
+    },
+    "face=floor,facing=south,blockstate=0": {
+      "model": "butchery:block/blood_splatter",
+      "y": 180
+    },
+    "face=floor,facing=west,blockstate=0": {
+      "model": "butchery:block/blood_splatter",
+      "y": 270
+    },
+    "face=wall,facing=north,blockstate=0": {
+      "model": "butchery:block/blood_splatter",
+      "x": 90
+    },
+    "face=wall,facing=east,blockstate=0": {
+      "model": "butchery:block/blood_splatter",
+      "x": 90,
+      "y": 90
+    },
+    "face=wall,facing=south,blockstate=0": {
+      "model": "butchery:block/blood_splatter",
+      "x": 90,
+      "y": 180
+    },
+    "face=wall,facing=west,blockstate=0": {
+      "model": "butchery:block/blood_splatter",
+      "x": 90,
+      "y": 270
+    },
+    "face=ceiling,facing=north,blockstate=0": {
+      "model": "butchery:block/blood_splatter",
+      "x": 180,
+      "y": 180
+    },
+    "face=ceiling,facing=east,blockstate=0": {
+      "model": "butchery:block/blood_splatter",
+      "x": 180,
+      "y": 270
+    },
+    "face=ceiling,facing=south,blockstate=0": {
+      "model": "butchery:block/blood_splatter",
+      "x": 180
+    },
+    "face=ceiling,facing=west,blockstate=0": {
+      "model": "butchery:block/blood_splatter",
+      "x": 180,
+      "y": 90
+    },
+    "face=floor,facing=north,blockstate=1": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_0"
+    },
+    "face=floor,facing=east,blockstate=1": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_0",
+      "y": 90
+    },
+    "face=floor,facing=south,blockstate=1": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_0",
+      "y": 180
+    },
+    "face=floor,facing=west,blockstate=1": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_0",
+      "y": 270
+    },
+    "face=wall,facing=north,blockstate=1": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_0",
+      "x": 90
+    },
+    "face=wall,facing=east,blockstate=1": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_0",
+      "x": 90,
+      "y": 90
+    },
+    "face=wall,facing=south,blockstate=1": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_0",
+      "x": 90,
+      "y": 180
+    },
+    "face=wall,facing=west,blockstate=1": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_0",
+      "x": 90,
+      "y": 270
+    },
+    "face=ceiling,facing=north,blockstate=1": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_0",
+      "x": 180,
+      "y": 180
+    },
+    "face=ceiling,facing=east,blockstate=1": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_0",
+      "x": 180,
+      "y": 270
+    },
+    "face=ceiling,facing=south,blockstate=1": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_0",
+      "x": 180
+    },
+    "face=ceiling,facing=west,blockstate=1": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_0",
+      "x": 180,
+      "y": 90
+    },
+    "face=floor,facing=north,blockstate=2": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_1"
+    },
+    "face=floor,facing=east,blockstate=2": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_1",
+      "y": 90
+    },
+    "face=floor,facing=south,blockstate=2": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_1",
+      "y": 180
+    },
+    "face=floor,facing=west,blockstate=2": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_1",
+      "y": 270
+    },
+    "face=wall,facing=north,blockstate=2": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_1",
+      "x": 90
+    },
+    "face=wall,facing=east,blockstate=2": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_1",
+      "x": 90,
+      "y": 90
+    },
+    "face=wall,facing=south,blockstate=2": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_1",
+      "x": 90,
+      "y": 180
+    },
+    "face=wall,facing=west,blockstate=2": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_1",
+      "x": 90,
+      "y": 270
+    },
+    "face=ceiling,facing=north,blockstate=2": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_1",
+      "x": 180,
+      "y": 180
+    },
+    "face=ceiling,facing=east,blockstate=2": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_1",
+      "x": 180,
+      "y": 270
+    },
+    "face=ceiling,facing=south,blockstate=2": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_1",
+      "x": 180
+    },
+    "face=ceiling,facing=west,blockstate=2": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_1",
+      "x": 180,
+      "y": 90
+    },
+    "face=floor,facing=north,blockstate=3": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_2"
+    },
+    "face=floor,facing=east,blockstate=3": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_2",
+      "y": 90
+    },
+    "face=floor,facing=south,blockstate=3": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_2",
+      "y": 180
+    },
+    "face=floor,facing=west,blockstate=3": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_2",
+      "y": 270
+    },
+    "face=wall,facing=north,blockstate=3": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_2",
+      "x": 90
+    },
+    "face=wall,facing=east,blockstate=3": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_2",
+      "x": 90,
+      "y": 90
+    },
+    "face=wall,facing=south,blockstate=3": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_2",
+      "x": 90,
+      "y": 180
+    },
+    "face=wall,facing=west,blockstate=3": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_2",
+      "x": 90,
+      "y": 270
+    },
+    "face=ceiling,facing=north,blockstate=3": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_2",
+      "x": 180,
+      "y": 180
+    },
+    "face=ceiling,facing=east,blockstate=3": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_2",
+      "x": 180,
+      "y": 270
+    },
+    "face=ceiling,facing=south,blockstate=3": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_2",
+      "x": 180
+    },
+    "face=ceiling,facing=west,blockstate=3": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_2",
+      "x": 180,
+      "y": 90
+    },
+    "face=floor,facing=north,blockstate=4": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_3"
+    },
+    "face=floor,facing=east,blockstate=4": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_3",
+      "y": 90
+    },
+    "face=floor,facing=south,blockstate=4": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_3",
+      "y": 180
+    },
+    "face=floor,facing=west,blockstate=4": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_3",
+      "y": 270
+    },
+    "face=wall,facing=north,blockstate=4": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_3",
+      "x": 90
+    },
+    "face=wall,facing=east,blockstate=4": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_3",
+      "x": 90,
+      "y": 90
+    },
+    "face=wall,facing=south,blockstate=4": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_3",
+      "x": 90,
+      "y": 180
+    },
+    "face=wall,facing=west,blockstate=4": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_3",
+      "x": 90,
+      "y": 270
+    },
+    "face=ceiling,facing=north,blockstate=4": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_3",
+      "x": 180,
+      "y": 180
+    },
+    "face=ceiling,facing=east,blockstate=4": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_3",
+      "x": 180,
+      "y": 270
+    },
+    "face=ceiling,facing=south,blockstate=4": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_3",
+      "x": 180
+    },
+    "face=ceiling,facing=west,blockstate=4": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_3",
+      "x": 180,
+      "y": 90
+    },
+    "face=floor,facing=north,blockstate=5": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_4"
+    },
+    "face=floor,facing=east,blockstate=5": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_4",
+      "y": 90
+    },
+    "face=floor,facing=south,blockstate=5": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_4",
+      "y": 180
+    },
+    "face=floor,facing=west,blockstate=5": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_4",
+      "y": 270
+    },
+    "face=wall,facing=north,blockstate=5": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_4",
+      "x": 90
+    },
+    "face=wall,facing=east,blockstate=5": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_4",
+      "x": 90,
+      "y": 90
+    },
+    "face=wall,facing=south,blockstate=5": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_4",
+      "x": 90,
+      "y": 180
+    },
+    "face=wall,facing=west,blockstate=5": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_4",
+      "x": 90,
+      "y": 270
+    },
+    "face=ceiling,facing=north,blockstate=5": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_4",
+      "x": 180,
+      "y": 180
+    },
+    "face=ceiling,facing=east,blockstate=5": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_4",
+      "x": 180,
+      "y": 270
+    },
+    "face=ceiling,facing=south,blockstate=5": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_4",
+      "x": 180
+    },
+    "face=ceiling,facing=west,blockstate=5": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_4",
+      "x": 180,
+      "y": 90
+    },
+    "face=floor,facing=north,blockstate=6": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_5"
+    },
+    "face=floor,facing=east,blockstate=6": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_5",
+      "y": 90
+    },
+    "face=floor,facing=south,blockstate=6": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_5",
+      "y": 180
+    },
+    "face=floor,facing=west,blockstate=6": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_5",
+      "y": 270
+    },
+    "face=wall,facing=north,blockstate=6": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_5",
+      "x": 90
+    },
+    "face=wall,facing=east,blockstate=6": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_5",
+      "x": 90,
+      "y": 90
+    },
+    "face=wall,facing=south,blockstate=6": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_5",
+      "x": 90,
+      "y": 180
+    },
+    "face=wall,facing=west,blockstate=6": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_5",
+      "x": 90,
+      "y": 270
+    },
+    "face=ceiling,facing=north,blockstate=6": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_5",
+      "x": 180,
+      "y": 180
+    },
+    "face=ceiling,facing=east,blockstate=6": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_5",
+      "x": 180,
+      "y": 270
+    },
+    "face=ceiling,facing=south,blockstate=6": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_5",
+      "x": 180
+    },
+    "face=ceiling,facing=west,blockstate=6": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_5",
+      "x": 180,
+      "y": 90
+    },
+    "face=floor,facing=north,blockstate=7": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_6"
+    },
+    "face=floor,facing=east,blockstate=7": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_6",
+      "y": 90
+    },
+    "face=floor,facing=south,blockstate=7": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_6",
+      "y": 180
+    },
+    "face=floor,facing=west,blockstate=7": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_6",
+      "y": 270
+    },
+    "face=wall,facing=north,blockstate=7": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_6",
+      "x": 90
+    },
+    "face=wall,facing=east,blockstate=7": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_6",
+      "x": 90,
+      "y": 90
+    },
+    "face=wall,facing=south,blockstate=7": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_6",
+      "x": 90,
+      "y": 180
+    },
+    "face=wall,facing=west,blockstate=7": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_6",
+      "x": 90,
+      "y": 270
+    },
+    "face=ceiling,facing=north,blockstate=7": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_6",
+      "x": 180,
+      "y": 180
+    },
+    "face=ceiling,facing=east,blockstate=7": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_6",
+      "x": 180,
+      "y": 270
+    },
+    "face=ceiling,facing=south,blockstate=7": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_6",
+      "x": 180
+    },
+    "face=ceiling,facing=west,blockstate=7": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_6",
+      "x": 180,
+      "y": 90
+    },
+    "face=floor,facing=north,blockstate=8": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_7"
+    },
+    "face=floor,facing=east,blockstate=8": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_7",
+      "y": 90
+    },
+    "face=floor,facing=south,blockstate=8": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_7",
+      "y": 180
+    },
+    "face=floor,facing=west,blockstate=8": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_7",
+      "y": 270
+    },
+    "face=wall,facing=north,blockstate=8": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_7",
+      "x": 90
+    },
+    "face=wall,facing=east,blockstate=8": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_7",
+      "x": 90,
+      "y": 90
+    },
+    "face=wall,facing=south,blockstate=8": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_7",
+      "x": 90,
+      "y": 180
+    },
+    "face=wall,facing=west,blockstate=8": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_7",
+      "x": 90,
+      "y": 270
+    },
+    "face=ceiling,facing=north,blockstate=8": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_7",
+      "x": 180,
+      "y": 180
+    },
+    "face=ceiling,facing=east,blockstate=8": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_7",
+      "x": 180,
+      "y": 270
+    },
+    "face=ceiling,facing=south,blockstate=8": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_7",
+      "x": 180
+    },
+    "face=ceiling,facing=west,blockstate=8": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_7",
+      "x": 180,
+      "y": 90
+    },
+    "face=floor,facing=north,blockstate=9": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_8"
+    },
+    "face=floor,facing=east,blockstate=9": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_8",
+      "y": 90
+    },
+    "face=floor,facing=south,blockstate=9": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_8",
+      "y": 180
+    },
+    "face=floor,facing=west,blockstate=9": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_8",
+      "y": 270
+    },
+    "face=wall,facing=north,blockstate=9": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_8",
+      "x": 90
+    },
+    "face=wall,facing=east,blockstate=9": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_8",
+      "x": 90,
+      "y": 90
+    },
+    "face=wall,facing=south,blockstate=9": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_8",
+      "x": 90,
+      "y": 180
+    },
+    "face=wall,facing=west,blockstate=9": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_8",
+      "x": 90,
+      "y": 270
+    },
+    "face=ceiling,facing=north,blockstate=9": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_8",
+      "x": 180,
+      "y": 180
+    },
+    "face=ceiling,facing=east,blockstate=9": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_8",
+      "x": 180,
+      "y": 270
+    },
+    "face=ceiling,facing=south,blockstate=9": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_8",
+      "x": 180
+    },
+    "face=ceiling,facing=west,blockstate=9": {
+      "model": "butchery:block/bloodsplatterblockstates_blockstate_8",
+      "x": 180,
+      "y": 90
+    }
+  }
+}

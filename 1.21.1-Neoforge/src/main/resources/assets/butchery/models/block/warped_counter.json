@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/warped_counter",
+  "textures": {
+    "all": "butchery:block/warped_display",
+    "particle": "butchery:block/warped_display",
+    "0": "butchery:block/warped_display"
+  },
+  "render_type": "cutout"
+}

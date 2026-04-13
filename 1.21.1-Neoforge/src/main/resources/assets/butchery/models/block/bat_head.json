@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/bat_head",
+  "textures": {
+    "all": "butchery:block/bat_2",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/bat_2"
+  },
+  "render_type": "solid"
+}

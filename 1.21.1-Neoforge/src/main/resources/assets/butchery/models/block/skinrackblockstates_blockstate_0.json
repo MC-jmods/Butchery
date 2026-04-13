@@ -1,0 +1,10 @@
+{
+  "parent": "butchery:custom/skin_rack_bat",
+  "textures": {
+    "all": "butchery:block/bat_skin",
+    "particle": "butchery:block/skin_rack",
+    "skin_rack": "butchery:block/skin_rack",
+    "skin": "butchery:block/bat_skin"
+  },
+  "render_type": "cutout"
+}

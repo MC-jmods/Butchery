@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/mule_carcass_headless",
+  "textures": {
+    "all": "butchery:block/mule",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/mule"
+  },
+  "render_type": "cutout"
+}

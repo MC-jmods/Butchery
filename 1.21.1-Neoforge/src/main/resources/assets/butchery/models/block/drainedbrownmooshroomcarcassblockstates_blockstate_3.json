@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/brown_mooshroom_carcass_cut_1_hanging",
+  "textures": {
+    "all": "butchery:block/brown_mooshroom_skinned",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/brown_mooshroom_skinned"
+  },
+  "render_type": "cutout"
+}

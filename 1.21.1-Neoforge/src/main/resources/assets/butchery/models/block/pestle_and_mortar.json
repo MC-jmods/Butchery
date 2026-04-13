@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/pestle_and_mortar",
+  "textures": {
+    "all": "butchery:block/pestle_and_mortar",
+    "particle": "butchery:block/pestle_and_mortar",
+    "0": "butchery:block/pestle_and_mortar"
+  },
+  "render_type": "cutout"
+}

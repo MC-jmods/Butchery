@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/spruce_counter",
+  "textures": {
+    "all": "butchery:block/spruce_display",
+    "particle": "butchery:block/spruce_display",
+    "0": "butchery:block/spruce_display"
+  },
+  "render_type": "cutout"
+}

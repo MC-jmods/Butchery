@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/salmon_barrel",
+  "textures": {
+    "all": "butchery:block/salmon_barrel",
+    "particle": "butchery:block/salmon_barrel",
+    "0": "butchery:block/salmon_barrel"
+  },
+  "render_type": "cutout"
+}

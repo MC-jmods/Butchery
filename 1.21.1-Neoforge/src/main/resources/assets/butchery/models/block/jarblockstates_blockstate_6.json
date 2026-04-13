@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/rotten_heart_jar",
+  "textures": {
+    "all": "butchery:block/rotten_organ_jar",
+    "particle": "minecraft:block/glass",
+    "0": "butchery:block/rotten_organ_jar"
+  },
+  "render_type": "translucent"
+}

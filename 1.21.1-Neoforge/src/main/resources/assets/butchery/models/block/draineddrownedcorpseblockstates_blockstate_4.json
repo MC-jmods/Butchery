@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/drowned_corpse_headless",
+  "textures": {
+    "all": "butchery:block/drowned_drained",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/drowned_drained"
+  },
+  "render_type": "cutout"
+}

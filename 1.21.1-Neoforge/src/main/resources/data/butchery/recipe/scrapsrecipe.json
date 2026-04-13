@@ -1,0 +1,24 @@
+{
+  "type": "butchery:meatgrinderjei",
+  "ingredients": [
+    {
+      "tag": "butchery:scrappable"
+    },
+    {
+      "tag": "butchery:jei_empty_tag"
+    },
+    {
+      "tag": "butchery:jei_empty_tag"
+    },
+    {
+      "tag": "butchery:jei_empty_tag"
+    },
+    {
+      "tag": "butchery:jei_empty_tag"
+    }
+  ],
+  "output": {
+    "id": "butchery:meat_scraps",
+    "count": 4
+  }
+}

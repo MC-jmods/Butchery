@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/slime_carcass_headless_skinned",
+  "textures": {
+    "all": "butchery:block/slime",
+    "particle": "butchery:block/slime",
+    "0": "butchery:block/slime"
+  },
+  "render_type": "cutout_mipped"
+}

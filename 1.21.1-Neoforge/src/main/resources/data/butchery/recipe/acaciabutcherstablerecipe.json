@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "butchers_table",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcb",
+    "b b"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:stripped_acacia_wood"
+    },
+    "b": {
+      "item": "minecraft:acacia_planks"
+    },
+    "c": {
+      "item": "minecraft:acacia_slab"
+    }
+  },
+  "result": {
+    "id": "butchery:acacia_butchers_table",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smoking",
+  "group": "hoglin",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 150,
+  "ingredient": {
+    "item": "butchery:raw_hoglin_chunk"
+  },
+  "result": {
+    "id": "butchery:cooked_hoglin_chunk"
+  }
+}

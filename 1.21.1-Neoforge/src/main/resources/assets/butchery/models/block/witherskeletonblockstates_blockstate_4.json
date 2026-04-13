@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/wither_skeleton_headless_corpse",
+  "textures": {
+    "all": "butchery:block/wither_skeleton",
+    "particle": "butchery:block/wither_skeleton",
+    "0": "butchery:block/wither_skeleton"
+  },
+  "render_type": "cutout"
+}

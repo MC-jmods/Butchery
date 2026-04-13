@@ -1,0 +1,248 @@
+{
+  "format_version": "1.9.0",
+  "credit": "Made with Blockbench",
+  "texture_size": [
+    64,
+    64
+  ],
+  "elements": [
+    {
+      "name": "body",
+      "from": [
+        4,
+        -1.8,
+        4
+      ],
+      "to": [
+        12,
+        11.2,
+        11
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "x",
+        "origin": [
+          7.76403,
+          4.6,
+          6.4
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            10.75,
+            1,
+            8.75,
+            0
+          ],
+          "rotation": 180,
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            5.5,
+            3.25,
+            6.5,
+            5
+          ],
+          "rotation": 90,
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            12.75,
+            0,
+            10.75,
+            1
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            13,
+            3.25,
+            14,
+            5
+          ],
+          "rotation": 270,
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            14,
+            3.25,
+            16,
+            5
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            5,
+            9.25,
+            7,
+            11
+          ],
+          "rotation": 180,
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "tail",
+      "from": [
+        6,
+        8,
+        6
+      ],
+      "to": [
+        10,
+        19,
+        11
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          7.76403,
+          4.6,
+          6.4
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            3.75,
+            7.5,
+            2.75,
+            4.75
+          ],
+          "rotation": 180,
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            0,
+            7.5,
+            2.75,
+            8.75
+          ],
+          "rotation": 90,
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            4.75,
+            4.75,
+            3.75,
+            7.5
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            3.75,
+            7.5,
+            6.5,
+            8.75
+          ],
+          "rotation": 270,
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            6.5,
+            7.5,
+            7.5,
+            8.75
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            2.75,
+            7.5,
+            3.75,
+            8.75
+          ],
+          "rotation": 180,
+          "texture": "#0"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        -22.75,
+        0,
+        0
+      ],
+      "translation": [
+        -1.25,
+        3.25,
+        -7.25
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        -22.75,
+        0,
+        0
+      ],
+      "translation": [
+        1.5,
+        3.25,
+        -7.25
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        -90,
+        0,
+        0
+      ],
+      "translation": [
+        -6.25,
+        -3,
+        0
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        -90,
+        0,
+        -180
+      ],
+      "translation": [
+        -7.75,
+        -3,
+        8.75
+      ]
+    },
+    "ground": {
+      "translation": [
+        0,
+        6,
+        0
+      ]
+    },
+    "gui": {
+      "rotation": [
+        30,
+        -135,
+        0
+      ],
+      "translation": [
+        -0.5,
+        2.25,
+        0
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    }
+  }
+}

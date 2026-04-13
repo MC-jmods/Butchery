@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/panda_rug",
+  "textures": {
+    "all": "butchery:block/panda_rug",
+    "particle": "butchery:block/sheep_break_particle",
+    "0": "butchery:block/panda_rug"
+  },
+  "render_type": "cutout"
+}

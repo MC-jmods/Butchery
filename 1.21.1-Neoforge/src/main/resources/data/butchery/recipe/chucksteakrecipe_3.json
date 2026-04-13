@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "group": "beef",
+  "category": "misc",
+  "experience": 0.5,
+  "cookingtime": 240,
+  "ingredient": {
+    "item": "butchery:raw_chuck_steak"
+  },
+  "result": {
+    "id": "butchery:cooked_chuck_steak"
+  }
+}
