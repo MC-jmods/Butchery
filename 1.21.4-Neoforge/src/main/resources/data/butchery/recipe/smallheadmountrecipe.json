@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba"
+  ],
+  "key": {
+    "a": "#minecraft:planks",
+    "b": "minecraft:gold_ingot"
+  },
+  "result": {
+    "id": "butchery:small_empty_head_mount",
+    "count": 1
+  }
+}

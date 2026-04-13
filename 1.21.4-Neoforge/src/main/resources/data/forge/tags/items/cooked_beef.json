@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "butchery:cooked_chuck_steak",
+    "minecraft:cooked_beef",
+    "butchery:cooked_ribeye_steak",
+    "butchery:cooked_sirloin_steak",
+    "butchery:cooked_tbone_steak",
+    "butchery:cooked_rump_steak"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "butchery:custom/rabbit_carcass_hanging",
+  "textures": {
+    "all": "butchery:block/rabbit_drained_hanging",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/rabbit",
+    "1": "butchery:block/rabbit_skeleton"
+  },
+  "render_type": "cutout"
+}

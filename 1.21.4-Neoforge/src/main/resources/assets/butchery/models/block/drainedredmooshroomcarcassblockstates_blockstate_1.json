@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/red_mooshroom_carcass_headless_hanging",
+  "textures": {
+    "all": "butchery:block/red_mooshroom_drained",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/red_mooshroom_drained"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,10 @@
+{
+  "type": "butchery:pestleandmortarrecipetype",
+  "ingredients": [
+    "butchery:sculk_bone"
+  ],
+  "output": {
+    "id": "butchery:sculkbonemeal",
+    "count": 2
+  }
+}

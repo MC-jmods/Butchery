@@ -1,0 +1,10 @@
+{
+  "parent": "butchery:custom/hanging_brown_axolotl_carcass_headless",
+  "textures": {
+    "all": "butchery:block/brown_axolotl_drained",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/brown_axolotl_drained",
+    "1": "butchery:block/inner_blood"
+  },
+  "render_type": "cutout"
+}

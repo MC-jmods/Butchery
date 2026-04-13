@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "group": "beef",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": "butchery:raw_beef_mince",
+  "result": {
+    "id": "butchery:cooked_beef_mince"
+  }
+}

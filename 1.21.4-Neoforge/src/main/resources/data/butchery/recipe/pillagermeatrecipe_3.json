@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "group": "pillager",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 600,
+  "ingredient": "butchery:raw_pillager_meat",
+  "result": {
+    "id": "butchery:cooked_pillager_meat"
+  }
+}

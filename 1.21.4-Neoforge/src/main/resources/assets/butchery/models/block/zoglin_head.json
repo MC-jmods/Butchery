@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/zoglin_head",
+  "textures": {
+    "all": "butchery:block/zoglin",
+    "particle": "butchery:block/zoglin",
+    "0": "butchery:block/zoglin"
+  },
+  "render_type": "cutout"
+}

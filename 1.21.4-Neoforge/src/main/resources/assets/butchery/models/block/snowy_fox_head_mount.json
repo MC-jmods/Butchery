@@ -1,0 +1,12 @@
+{
+  "parent": "butchery:custom/snowy_fox_head_mount",
+  "textures": {
+    "all": "butchery:block/snow_fox",
+    "particle": "butchery:block/snow_fox",
+    "0": "minecraft:block/spruce_planks",
+    "1": "minecraft:block/dark_oak_planks",
+    "2": "minecraft:block/gold_block",
+    "3": "butchery:block/snow_fox"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "butchery:taxidermy",
+  "ingredients": [
+    "minecraft:wheat",
+    "butchery:silverfish_head",
+    "butchery:small_empty_head_mount"
+  ],
+  "output": {
+    "id": "butchery:silverfish_head_mount",
+    "count": 1
+  }
+}

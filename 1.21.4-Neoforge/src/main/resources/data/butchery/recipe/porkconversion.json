@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": "#butchery:raw_pork"
+  },
+  "result": {
+    "id": "minecraft:porkchop",
+    "count": 1
+  }
+}

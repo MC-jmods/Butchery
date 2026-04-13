@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "group": "beef",
+  "category": "misc",
+  "experience": 0.5,
+  "cookingtime": 240,
+  "ingredient": "butchery:raw_chuck_steak",
+  "result": {
+    "id": "butchery:cooked_chuck_steak"
+  }
+}

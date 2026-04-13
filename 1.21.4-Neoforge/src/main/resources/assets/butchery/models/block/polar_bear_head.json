@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/polarbear_head",
+  "textures": {
+    "all": "butchery:block/polarbear",
+    "particle": "butchery:block/polarbear",
+    "0": "butchery:block/polarbear"
+  },
+  "render_type": "cutout"
+}

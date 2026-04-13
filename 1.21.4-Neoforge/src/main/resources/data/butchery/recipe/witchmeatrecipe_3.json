@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "misc",
+  "experience": 1.7,
+  "cookingtime": 220,
+  "ingredient": "butchery:raw_witch_meat",
+  "result": {
+    "id": "butchery:cooked_witch_meat"
+  }
+}

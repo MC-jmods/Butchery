@@ -1,0 +1,10 @@
+{
+  "parent": "butchery:custom/bat_head_mount",
+  "textures": {
+    "all": "butchery:block/bat_head_mount",
+    "particle": "butchery:block/bat_head_mount",
+    "1": "butchery:block/head_stand",
+    "mob": "butchery:block/bat_head_mount"
+  },
+  "render_type": "cutout"
+}

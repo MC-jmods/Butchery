@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abb",
+    "bb "
+  ],
+  "key": {
+    "a": "minecraft:light_gray_concrete_powder",
+    "b": "minecraft:diorite"
+  },
+  "result": {
+    "id": "butchery:diorite_bricks",
+    "count": 4
+  }
+}

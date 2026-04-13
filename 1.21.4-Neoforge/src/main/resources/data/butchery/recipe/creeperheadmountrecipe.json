@@ -1,0 +1,12 @@
+{
+  "type": "butchery:taxidermy",
+  "ingredients": [
+    "minecraft:wheat",
+    "minecraft:creeper_head",
+    "butchery:empty_head_mount"
+  ],
+  "output": {
+    "id": "butchery:creeper_head_mount",
+    "count": 1
+  }
+}

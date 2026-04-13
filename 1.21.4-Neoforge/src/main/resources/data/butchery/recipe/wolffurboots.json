@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    " b "
+  ],
+  "key": {
+    "a": "#forge:fur",
+    "b": "minecraft:leather_boots"
+  },
+  "result": {
+    "id": "butchery:fur_suit_boots",
+    "count": 1
+  }
+}

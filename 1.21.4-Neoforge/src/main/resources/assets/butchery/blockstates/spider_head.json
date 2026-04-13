@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "butchery:block/spider_head"
+    },
+    "facing=east": {
+      "model": "butchery:block/spider_head",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "butchery:block/spider_head",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "butchery:block/spider_head",
+      "y": 270
+    }
+  }
+}

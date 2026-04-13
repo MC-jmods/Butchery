@@ -1,0 +1,49 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "butchery:block/sand"
+    },
+    "blockstate=1": {
+      "model": "butchery:block/sandblockstates_blockstate_0"
+    },
+    "blockstate=2": {
+      "model": "butchery:block/sandblockstates_blockstate_1"
+    },
+    "blockstate=3": {
+      "model": "butchery:block/sandblockstates_blockstate_2"
+    },
+    "blockstate=4": {
+      "model": "butchery:block/sandblockstates_blockstate_3"
+    },
+    "blockstate=5": {
+      "model": "butchery:block/sandblockstates_blockstate_4"
+    },
+    "blockstate=6": {
+      "model": "butchery:block/sandblockstates_blockstate_5"
+    },
+    "blockstate=7": {
+      "model": "butchery:block/sandblockstates_blockstate_6"
+    },
+    "blockstate=8": {
+      "model": "butchery:block/sandblockstates_blockstate_7"
+    },
+    "blockstate=9": {
+      "model": "butchery:block/sandblockstates_blockstate_8"
+    },
+    "blockstate=10": {
+      "model": "butchery:block/sandblockstates_blockstate_9"
+    },
+    "blockstate=11": {
+      "model": "butchery:block/sandblockstates_blockstate_10"
+    },
+    "blockstate=12": {
+      "model": "butchery:block/sandblockstates_blockstate_11"
+    },
+    "blockstate=13": {
+      "model": "butchery:block/sandblockstates_blockstate_12"
+    },
+    "blockstate=14": {
+      "model": "butchery:block/sandblockstates_blockstate_13"
+    }
+  }
+}

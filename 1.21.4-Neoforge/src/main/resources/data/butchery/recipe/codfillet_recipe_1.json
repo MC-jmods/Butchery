@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "group": "fish",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 200,
+  "ingredient": "butchery:raw_cod_fillet",
+  "result": {
+    "id": "butchery:cooked_cod_fillet"
+  }
+}

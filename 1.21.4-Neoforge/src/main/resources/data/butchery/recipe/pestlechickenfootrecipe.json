@@ -1,0 +1,10 @@
+{
+  "type": "butchery:pestleandmortarrecipetype",
+  "ingredients": [
+    "butchery:bird_foot"
+  ],
+  "output": {
+    "id": "minecraft:bone_meal",
+    "count": 3
+  }
+}

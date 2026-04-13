@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "butchery:iron_skinning_knife",
+    "butchery:netherite_skinning_knife",
+    "butchery:bone_cleaver",
+    "butchery:copper_skinning_knife",
+    {
+      "id": "#farmersdelight:tools/knives",
+      "required": false
+    },
+    "butchery:diamond_skinning_knife",
+    "butchery:diamond_cleaver",
+    "butchery:copper_cleaver",
+    "butchery:iron_cleaver",
+    "butchery:gold_cleaver",
+    "butchery:gold_skinning_knife",
+    "butchery:bone_skinning_knife",
+    "butchery:netherite_cleaver"
+  ]
+}

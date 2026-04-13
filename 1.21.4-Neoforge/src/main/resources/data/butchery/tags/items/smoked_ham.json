@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "butchery:cooked_ham",
+    {
+      "id": "#farmersdelight:smoked_ham",
+      "required": false
+    }
+  ]
+}

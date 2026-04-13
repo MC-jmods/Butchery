@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": "butchery:diamond_hacksaw",
+  "base": "minecraft:netherite_upgrade_smithing_template",
+  "addition": "minecraft:netherite_ingot",
+  "result": {
+    "id": "butchery:netherite_hacksaw"
+  }
+}

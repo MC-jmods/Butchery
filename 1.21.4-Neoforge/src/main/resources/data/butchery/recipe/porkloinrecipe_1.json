@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "group": "pork",
+  "category": "misc",
+  "experience": 0.5,
+  "cookingtime": 205,
+  "ingredient": "butchery:raw_pork_loin",
+  "result": {
+    "id": "butchery:cooked_pork_loin"
+  }
+}

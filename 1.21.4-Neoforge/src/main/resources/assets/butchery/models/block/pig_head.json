@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/pig_head",
+  "textures": {
+    "all": "butchery:block/pig",
+    "particle": "minecraft:block/nether_wart_block",
+    "1": "butchery:block/pig"
+  },
+  "render_type": "solid"
+}

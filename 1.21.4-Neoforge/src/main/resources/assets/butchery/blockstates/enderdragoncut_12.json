@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "butchery:block/enderdragoncut_12"
+    },
+    "facing=east": {
+      "model": "butchery:block/enderdragoncut_12",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "butchery:block/enderdragoncut_12",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "butchery:block/enderdragoncut_12",
+      "y": 270
+    }
+  }
+}

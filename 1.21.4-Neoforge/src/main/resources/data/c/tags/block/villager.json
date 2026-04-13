@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "butchery:vindicator_corpse",
+    "butchery:evoker_corpse",
+    "butchery:drained_evoker_corpse",
+    "butchery:villager_corpse",
+    "butchery:drained_vindicator_corpse",
+    "butchery:drained_zombie_villager",
+    "butchery:drained_witch_corpse",
+    "butchery:pillager_corpse",
+    "butchery:drained_villager",
+    "butchery:witch_corpse",
+    "butchery:zombie_villager_corpse",
+    "butchery:drained_pillager_corpse"
+  ]
+}

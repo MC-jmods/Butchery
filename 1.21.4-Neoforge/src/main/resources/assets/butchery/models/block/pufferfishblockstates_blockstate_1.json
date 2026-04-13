@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/pufferfish_hanging",
+  "textures": {
+    "all": "butchery:block/pufferfish",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/pufferfish"
+  },
+  "render_type": "cutout"
+}

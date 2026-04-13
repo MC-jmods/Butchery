@@ -1,0 +1,8 @@
+{
+  "parent": "butchery:custom/camel_carcass_headless_skinned_hanging",
+  "textures": {
+    "all": "butchery:block/camel_skinned",
+    "particle": "butchery:block/camel_skinned"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,81 @@
+{
+  "model": {
+    "type": "butchery:legacy_overrides",
+    "overrides": [
+      {
+        "predicate": [
+          {
+            "property": {
+              "property": "butchery:rag/wetness"
+            },
+            "value": 1
+          }
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "butchery:item/rag_0"
+        }
+      },
+      {
+        "predicate": [
+          {
+            "property": {
+              "property": "butchery:rag/wetness"
+            },
+            "value": 2
+          }
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "butchery:item/rag_1"
+        }
+      },
+      {
+        "predicate": [
+          {
+            "property": {
+              "property": "butchery:rag/wetness"
+            },
+            "value": 3
+          }
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "butchery:item/rag_2"
+        }
+      },
+      {
+        "predicate": [
+          {
+            "property": {
+              "property": "butchery:rag/wetness"
+            },
+            "value": 4
+          }
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "butchery:item/rag_3"
+        }
+      },
+      {
+        "predicate": [
+          {
+            "property": {
+              "property": "butchery:rag/wetness"
+            },
+            "value": 5
+          }
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "butchery:item/rag_4"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "butchery:item/rag"
+    }
+  }
+}

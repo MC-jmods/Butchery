@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    " b "
+  ],
+  "key": {
+    "a": "minecraft:gold_ingot",
+    "b": "minecraft:stick"
+  },
+  "result": {
+    "id": "butchery:gold_hammer",
+    "count": 1
+  }
+}

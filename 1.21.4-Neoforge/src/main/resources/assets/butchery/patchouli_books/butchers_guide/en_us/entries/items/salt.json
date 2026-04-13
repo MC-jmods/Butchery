@@ -1,0 +1,21 @@
+{
+      "name": "Salt",
+    "icon": "butchery:salt",
+    "category": "butchery:resources",
+    "read_by_default": true,
+    "sortnum": 6,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:salt",
+            "link_recipe": true,
+            "title" : "Salt",
+            "text": "Salt is an essential item for converting skins into leather. Salt can be obtained in multiple ways for instance the easiest way would be to create a $(l:butchery:blocks/basin)Basin$(). Another way is exploring, salt forms in discs underwater much like clay. Finally salt formations can be found in ocean biomes, these are large deposits of salt often with salt spikes."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:saltblockrecipe",
+            "text": "Salt from other mods that use the forge:salt or c:salt tag will also work in Butcery's recipes."
+        }
+    ]
+}

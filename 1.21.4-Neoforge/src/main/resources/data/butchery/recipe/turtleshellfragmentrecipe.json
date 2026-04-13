@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "turtle",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "a a"
+  ],
+  "key": {
+    "a": "butchery:turtle_shell_fragment"
+  },
+  "result": {
+    "id": "minecraft:turtle_helmet",
+    "count": 1
+  }
+}

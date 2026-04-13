@@ -1,0 +1,16 @@
+{
+      "name": "Blood",
+    "icon": "butchery:blood_bucket",
+    "category": "butchery:resources",
+    "read_by_default": true,
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:blood_bucket",
+            "link_recipe": true,
+            "title" : "Blood",
+            "text": "Blood is a resource that you will have a lot of. It is obtained by bleeding carcasses/corpses whilst having a $(l:butchery:blocks/blood_grate)Blood Grate$() beneath to collect the blood. Blood can be removed from the grate with either a bucket or a bottle. Bottled blood can be used in $(l:butchery:blocks/meat_grinder)Meat Grinder$() recipes to obtain blood sausages."
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "butchery:meat_scraps"
+    },
+    "title": {
+      "translate": "advancements.a_ruff_meal.title"
+    },
+    "description": {
+      "translate": "advancements.a_ruff_meal.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "a_ruff_meal_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "butchery:bloodandgears"
+}

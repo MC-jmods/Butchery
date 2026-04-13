@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "butchery:drained_creamy_llama_carcass",
+    "butchery:brown_llama_carcass",
+    "butchery:drained_white_llama_carcass",
+    "butchery:gray_llama_carcass",
+    "butchery:white_llama_carcass",
+    "butchery:drained_brown_llama_carcass",
+    "butchery:drained_gray_llama_carcass",
+    "butchery:creamy_llama_carcass"
+  ]
+}

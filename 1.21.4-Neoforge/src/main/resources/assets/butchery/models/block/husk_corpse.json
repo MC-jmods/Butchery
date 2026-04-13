@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/husk_corpse",
+  "textures": {
+    "all": "butchery:block/husk",
+    "particle": "minecraft:block/sand",
+    "0": "butchery:block/husk"
+  },
+  "render_type": "cutout"
+}

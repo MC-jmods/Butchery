@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/hanging_wolf_carcass_skinned",
+  "textures": {
+    "all": "butchery:block/wolf_skinned",
+    "particle": "minecraft:block/nether_wart_block",
+    "1": "butchery:block/wolf_skinned"
+  },
+  "render_type": "cutout"
+}

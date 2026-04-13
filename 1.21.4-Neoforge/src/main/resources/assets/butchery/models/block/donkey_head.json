@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/donkey_head",
+  "textures": {
+    "all": "butchery:block/donkey_placed",
+    "particle": "butchery:block/donkey_placed",
+    "0": "butchery:block/donkey_placed"
+  },
+  "render_type": "cutout"
+}

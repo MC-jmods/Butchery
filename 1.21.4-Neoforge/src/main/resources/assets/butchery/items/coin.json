@@ -1,0 +1,95 @@
+{
+  "model": {
+    "type": "butchery:legacy_overrides",
+    "overrides": [
+      {
+        "predicate": [
+          {
+            "property": {
+              "property": "butchery:coin/amount"
+            },
+            "value": 1
+          }
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "butchery:item/coin_0"
+        }
+      },
+      {
+        "predicate": [
+          {
+            "property": {
+              "property": "butchery:coin/amount"
+            },
+            "value": 2
+          }
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "butchery:item/coin_1"
+        }
+      },
+      {
+        "predicate": [
+          {
+            "property": {
+              "property": "butchery:coin/amount"
+            },
+            "value": 3
+          }
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "butchery:item/coin_2"
+        }
+      },
+      {
+        "predicate": [
+          {
+            "property": {
+              "property": "butchery:coin/amount"
+            },
+            "value": 4
+          }
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "butchery:item/coin_3"
+        }
+      },
+      {
+        "predicate": [
+          {
+            "property": {
+              "property": "butchery:coin/amount"
+            },
+            "value": 5
+          }
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "butchery:item/coin_4"
+        }
+      },
+      {
+        "predicate": [
+          {
+            "property": {
+              "property": "butchery:coin/amount"
+            },
+            "value": 6
+          }
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "butchery:item/coin_5"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "butchery:item/coin"
+    }
+  }
+}

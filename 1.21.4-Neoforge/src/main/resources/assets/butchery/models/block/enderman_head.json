@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/enderman_head",
+  "textures": {
+    "all": "butchery:block/enderman_head",
+    "particle": "butchery:block/enderman_head",
+    "0": "butchery:block/enderman_head"
+  },
+  "render_type": "cutout"
+}

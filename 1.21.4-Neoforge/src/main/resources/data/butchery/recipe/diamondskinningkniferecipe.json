@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abb"
+  ],
+  "key": {
+    "a": "minecraft:stick",
+    "b": "minecraft:diamond"
+  },
+  "result": {
+    "id": "butchery:diamond_skinning_knife",
+    "count": 1
+  }
+}

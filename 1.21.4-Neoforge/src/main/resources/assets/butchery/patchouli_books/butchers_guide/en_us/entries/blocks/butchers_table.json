@@ -1,0 +1,40 @@
+{
+      "name": "Wood Butchers Table",
+    "icon": "butchery:oak_butchers_table",
+    "category": "butchery:blocks",
+    "read_by_default": true,
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:oak_butchers_table",
+            "link_recipe": true,
+            "title" : "Wood Butchers Table",
+            "text": "The wood butchers table is a block that carcasses can be placed on to be butchered once drained. The table is NOT required for butchring carcasses."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:oakbutcherstablerecipe",
+            "recipe2": "butchery:acaciabutcherstablerecipe"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:birchbutcherstablerecipe",
+            "recipe2": "butchery:crimnsonbutcherstablerecipe"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:darkoakbutcherstablerecipe",
+            "recipe2": "jungle:acaciabutcherstablerecipe"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:mangrovebutcherstablerecipe",
+            "recipe2": "butchery:sprucebutcherstablerecipe"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:warpedbutcherstablerecipe"
+        }
+    ]
+}

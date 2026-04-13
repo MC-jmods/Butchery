@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/bat_carcass_hanging",
+  "textures": {
+    "all": "butchery:block/bat",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/bat"
+  },
+  "render_type": "cutout"
+}

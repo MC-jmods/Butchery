@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "b b",
+    " b "
+  ],
+  "key": {
+    "a": "minecraft:stick",
+    "b": "minecraft:string"
+  },
+  "result": {
+    "id": "butchery:rope",
+    "count": 1
+  }
+}

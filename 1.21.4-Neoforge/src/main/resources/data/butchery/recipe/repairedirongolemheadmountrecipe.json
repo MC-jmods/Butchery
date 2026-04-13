@@ -1,0 +1,12 @@
+{
+  "type": "butchery:taxidermy",
+  "ingredients": [
+    "minecraft:wheat",
+    "butchery:repaired_iron_golem_head",
+    "butchery:large_empty_head_mount"
+  ],
+  "output": {
+    "id": "butchery:repaired_iron_golem_head_mount",
+    "count": 1
+  }
+}

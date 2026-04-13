@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/hanging_cooked_sausages_one",
+  "textures": {
+    "all": "butchery:block/cooked_sausage_link",
+    "particle": "butchery:block/cooked_sausage_link",
+    "0": "butchery:block/cooked_sausage_link"
+  },
+  "render_type": "cutout_mipped"
+}

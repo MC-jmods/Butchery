@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "butchery:block/diorite_bricks",
+    "up": "butchery:block/diorite_bricks",
+    "north": "butchery:block/diorite_bricks",
+    "east": "butchery:block/diorite_bricks",
+    "south": "butchery:block/diorite_bricks",
+    "west": "butchery:block/diorite_bricks",
+    "particle": "butchery:block/diorite_bricks"
+  },
+  "render_type": "solid"
+}

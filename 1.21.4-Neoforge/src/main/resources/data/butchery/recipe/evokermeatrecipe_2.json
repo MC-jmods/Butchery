@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "group": "evoker",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": "butchery:raw_evoker_meat",
+  "result": {
+    "id": "butchery:cooked_evoker_meat"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "butchery:pestleandmortarrecipetype",
+  "ingredients": [
+    "butchery:hoof"
+  ],
+  "output": {
+    "id": "minecraft:slime_ball",
+    "count": 1
+  }
+}

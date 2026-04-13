@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "group": "wolf",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": "butchery:raw_wolf_meat",
+  "result": {
+    "id": "butchery:cooked_wolf_meat"
+  }
+}

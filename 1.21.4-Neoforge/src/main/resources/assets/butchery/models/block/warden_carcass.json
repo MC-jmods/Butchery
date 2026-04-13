@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "butchery:block/warden",
+    "particle": "butchery:block/warden"
+  },
+  "render_type": "cutout_mipped"
+}

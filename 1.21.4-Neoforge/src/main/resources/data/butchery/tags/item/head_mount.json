@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    "butchery:cow_head_mount",
+    "butchery:zombie_head_mount",
+    "butchery:spider_head_mount",
+    "butchery:drowned_head_mount",
+    "butchery:gray_llama_head_mount",
+    "butchery:panda_head_mount",
+    "butchery:chicken_head_mount",
+    "butchery:sheep_head_mount",
+    "butchery:polarbear_head_mount",
+    "butchery:skeleton_head_mount",
+    "butchery:snowy_fox_head_mount",
+    "butchery:white_llama_head_mount",
+    "butchery:husk_head_mount",
+    "butchery:creamy_llama_head_mount",
+    "butchery:cave_spider_head_mount",
+    "butchery:zombie_villager_head_mount",
+    "butchery:brown_llama_head_mount",
+    "butchery:camel_head_mount",
+    "butchery:ocelot_head_mount",
+    "butchery:pig_head_mount",
+    "butchery:villager_head_mount",
+    "butchery:creeper_head_mount",
+    "butchery:hoglin_head_mount",
+    "butchery:dolphin_head_mount",
+    "butchery:fox_head_mount",
+    "butchery:goat_head_mount",
+    "butchery:pillager_head_mount",
+    "butchery:enderman_head_mount"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "butchery:meatgrinderjei",
+  "ingredients": [
+    "#butchery:raw_pork",
+    "butchery:intestines",
+    "butchery:sausage_attachment",
+    "butchery:bottle_of_blood",
+    "minecraft:glass_bottle"
+  ],
+  "output": {
+    "id": "butchery:raw_blood_sausage",
+    "count": 1
+  }
+}

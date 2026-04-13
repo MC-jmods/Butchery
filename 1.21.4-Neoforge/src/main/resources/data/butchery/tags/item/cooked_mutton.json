@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "butchery:cooked_lamb_loin",
+    "butchery:cooked_lamb_rib",
+    "butchery:cooked_lamb_sirloin",
+    "butchery:cooked_lamb_shoulder",
+    "butchery:cooked_leg_of_lamb"
+  ]
+}

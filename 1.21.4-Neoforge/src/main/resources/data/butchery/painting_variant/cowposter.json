@@ -1,0 +1,11 @@
+{
+  "asset_id": "butchery:cowposter",
+  "height": 2,
+  "width": 4,
+  "title": {
+    "translate": "painting.butchery.cowposter.title"
+  },
+  "author": {
+    "translate": "painting.butchery.cowposter.author"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "bbb"
+  ],
+  "key": {
+    "a": "minecraft:iron_nugget",
+    "b": "minecraft:iron_ingot"
+  },
+  "result": {
+    "id": "butchery:basin",
+    "count": 1
+  }
+}

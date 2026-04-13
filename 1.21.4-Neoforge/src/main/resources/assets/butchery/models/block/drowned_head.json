@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/drowned_head",
+  "textures": {
+    "all": "butchery:block/drowned",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/drowned"
+  },
+  "render_type": "solid"
+}

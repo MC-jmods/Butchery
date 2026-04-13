@@ -1,0 +1,89 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "butchery:heart",
+      "value": 120
+    },
+    {
+      "id": "butchery:brain",
+      "value": 100
+    },
+    {
+      "id": "butchery:eye",
+      "value": 100
+    },
+    {
+      "id": "butchery:enderman_heart",
+      "value": 200
+    },
+    {
+      "id": "butchery:rotten_heart",
+      "value": 80
+    },
+    {
+      "id": "butchery:frog_heart",
+      "value": 60
+    },
+    {
+      "id": "butchery:intestines",
+      "value": 120
+    },
+    {
+      "id": "butchery:enderman_intestines",
+      "value": 200
+    },
+    {
+      "id": "butchery:rotten_intestines",
+      "value": 80
+    },
+    {
+      "id": "butchery:kidney",
+      "value": 100
+    },
+    {
+      "id": "butchery:enderman_kidney",
+      "value": 200
+    },
+    {
+      "id": "butchery:rotten_kidney",
+      "value": 70
+    },
+    {
+      "id": "butchery:liver",
+      "value": 120
+    },
+    {
+      "id": "butchery:enderman_liver",
+      "value": 200
+    },
+    {
+      "id": "butchery:rotten_liver",
+      "value": 80
+    },
+    {
+      "id": "butchery:lungs",
+      "value": 120
+    },
+    {
+      "id": "butchery:enderman_lungs",
+      "value": 200
+    },
+    {
+      "id": "butchery:rotten_lungs",
+      "value": 80
+    },
+    {
+      "id": "butchery:stomach",
+      "value": 120
+    },
+    {
+      "id": "butchery:enderman_stomach",
+      "value": 200
+    },
+    {
+      "id": "butchery:rotten_stomach",
+      "value": 80
+    }
+  ]
+}

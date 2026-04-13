@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "spitroast",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "a a"
+  ],
+  "key": {
+    "a": "#minecraft:planks",
+    "b": "minecraft:stick"
+  },
+  "result": {
+    "id": "butchery:wooden_spit_rotisserie",
+    "count": 1
+  }
+}

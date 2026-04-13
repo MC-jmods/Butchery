@@ -1,0 +1,14 @@
+{
+  "type": "butchery:meatgrinderjei",
+  "ingredients": [
+    "#butchery:heads",
+    "#butchery:jei_empty_tag",
+    "#butchery:jei_empty_tag",
+    "#butchery:jei_empty_tag",
+    "#butchery:jei_empty_tag"
+  ],
+  "output": {
+    "id": "butchery:meat_scraps",
+    "count": 1
+  }
+}

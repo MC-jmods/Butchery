@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "block",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca",
+    "aaa"
+  ],
+  "key": {
+    "a": "minecraft:iron_ingot",
+    "b": "minecraft:iron_trapdoor",
+    "c": "minecraft:barrel"
+  },
+  "result": {
+    "id": "butchery:blood_grate",
+    "count": 1
+  }
+}

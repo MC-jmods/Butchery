@@ -1,0 +1,10 @@
+{
+  "type": "butchery:pestleandmortarrecipetype",
+  "ingredients": [
+    "butchery:icey_bone"
+  ],
+  "output": {
+    "id": "butchery:icey_bone_meal",
+    "count": 3
+  }
+}

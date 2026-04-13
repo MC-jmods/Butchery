@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "bb"
+  ],
+  "key": {
+    "a": "minecraft:iron_ingot",
+    "b": "minecraft:acacia_planks"
+  },
+  "result": {
+    "id": "butchery:acacia_counter",
+    "count": 1
+  }
+}

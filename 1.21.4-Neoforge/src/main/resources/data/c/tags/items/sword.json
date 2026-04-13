@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "butchery:iron_skinning_knife",
+    "butchery:netherite_skinning_knife",
+    "butchery:copper_skinning_knife",
+    "butchery:bone_cleaver",
+    "butchery:diamond_skinning_knife",
+    "minecraft:netherite_sword",
+    "butchery:diamond_cleaver",
+    "butchery:copper_cleaver",
+    "minecraft:wooden_sword",
+    "minecraft:golden_sword",
+    "butchery:iron_cleaver",
+    "butchery:gold_cleaver",
+    "minecraft:diamond_sword",
+    "butchery:gold_skinning_knife",
+    "butchery:bone_skinning_knife",
+    "minecraft:stone_sword",
+    "butchery:netherite_cleaver",
+    "minecraft:iron_sword"
+  ]
+}

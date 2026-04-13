@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "group": "bee",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 150,
+  "ingredient": "butchery:raw_bee_back_meat",
+  "result": {
+    "id": "butchery:cooked_bee_back_meat"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "butchery:custom/cow_head",
+  "textures": {
+    "all": "butchery:block/cow",
+    "particle": "minecraft:block/nether_wart_block",
+    "cow_texture": "butchery:block/cow",
+    "missing": "butchery:block/"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "bb"
+  ],
+  "key": {
+    "a": "minecraft:iron_ingot",
+    "b": "minecraft:dark_oak_planks"
+  },
+  "result": {
+    "id": "butchery:dark_oak_counter",
+    "count": 1
+  }
+}

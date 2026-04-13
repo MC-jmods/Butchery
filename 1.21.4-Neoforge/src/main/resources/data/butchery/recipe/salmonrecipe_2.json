@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "group": "fish",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": "butchery:raw_salmon",
+  "result": {
+    "id": "butchery:cooked_salmon"
+  }
+}

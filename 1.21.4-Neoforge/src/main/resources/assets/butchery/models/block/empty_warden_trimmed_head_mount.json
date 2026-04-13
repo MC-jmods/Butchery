@@ -1,0 +1,11 @@
+{
+  "parent": "butchery:custom/warden_trimmed_empty_head_mount",
+  "textures": {
+    "all": "butchery:block/warden",
+    "particle": "butchery:block/warden",
+    "gold": "minecraft:block/gold_block",
+    "sculk": "minecraft:block/sculk_catalyst_top",
+    "cracked deepslate": "minecraft:block/cracked_deepslate_tiles"
+  },
+  "render_type": "cutout"
+}

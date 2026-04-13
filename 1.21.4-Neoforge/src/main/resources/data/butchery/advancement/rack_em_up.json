@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "id": "butchery:skin_rack"
+    },
+    "title": {
+      "translate": "advancements.rack_em_up.title"
+    },
+    "description": {
+      "translate": "advancements.rack_em_up.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "rack_em_up_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 5
+  },
+  "parent": "butchery:butcher"
+}

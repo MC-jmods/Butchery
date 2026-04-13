@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "group": "warden",
+  "category": "misc",
+  "experience": 1.4,
+  "cookingtime": 400,
+  "ingredient": "butchery:raw_warden_meat",
+  "result": {
+    "id": "butchery:cooked_warden_meat"
+  }
+}

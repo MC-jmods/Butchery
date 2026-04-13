@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/jellie_cat_head",
+  "textures": {
+    "all": "butchery:block/jellie",
+    "particle": "butchery:block/jellie",
+    "0": "butchery:block/jellie"
+  },
+  "render_type": "cutout"
+}

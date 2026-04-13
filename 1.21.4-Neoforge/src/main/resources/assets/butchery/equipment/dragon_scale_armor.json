@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "butchery:dragon_scale_armor"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "butchery:dragon_scale_armor"
+      }
+    ]
+  }
+}

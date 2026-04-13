@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/canopy_pink",
+  "textures": {
+    "all": "butchery:block/canopy_pink",
+    "particle": "butchery:block/canopy_pink",
+    "0": "butchery:block/canopy_pink"
+  },
+  "render_type": "cutout"
+}

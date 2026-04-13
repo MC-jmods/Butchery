@@ -1,0 +1,10 @@
+{
+  "parent": "butchery:custom/goat_carcass_drained",
+  "textures": {
+    "all": "butchery:block/goat",
+    "particle": "minecraft:block/nether_wart_block",
+    "default": "butchery:block/goat",
+    "bones": "butchery:block/goat_bones"
+  },
+  "render_type": "cutout"
+}

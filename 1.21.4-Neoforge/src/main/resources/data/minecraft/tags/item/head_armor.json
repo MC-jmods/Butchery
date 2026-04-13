@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "butchery:dragon_scale_armor_helmet",
+    "butchery:pillager_armor_helmet",
+    "butchery:evoker_robes_helmet",
+    "butchery:vindicatorarmor_helmet",
+    "butchery:fur_suit_helmet",
+    "butchery:witches_clothes_helmet"
+  ]
+}

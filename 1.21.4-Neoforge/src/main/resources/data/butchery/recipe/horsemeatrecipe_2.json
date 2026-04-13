@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "group": "horse",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": "butchery:raw_horse_meat",
+  "result": {
+    "id": "butchery:cooked_horse_meat"
+  }
+}

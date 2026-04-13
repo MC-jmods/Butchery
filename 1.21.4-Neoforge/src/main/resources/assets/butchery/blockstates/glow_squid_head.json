@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "butchery:block/glow_squid_head"
+    },
+    "facing=east": {
+      "model": "butchery:block/glow_squid_head",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "butchery:block/glow_squid_head",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "butchery:block/glow_squid_head",
+      "y": 270
+    }
+  }
+}

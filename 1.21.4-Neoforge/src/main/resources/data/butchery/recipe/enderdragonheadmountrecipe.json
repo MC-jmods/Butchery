@@ -1,0 +1,12 @@
+{
+  "type": "butchery:taxidermy",
+  "ingredients": [
+    "minecraft:wheat",
+    "minecraft:dragon_head",
+    "butchery:large_empty_head_mount"
+  ],
+  "output": {
+    "id": "butchery:ender_dragon_head_mount",
+    "count": 1
+  }
+}

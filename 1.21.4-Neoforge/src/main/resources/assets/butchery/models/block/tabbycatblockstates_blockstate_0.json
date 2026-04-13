@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/tabby_cat_hanging_carcass",
+  "textures": {
+    "all": "butchery:block/tabby",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/tabby"
+  },
+  "render_type": "cutout_mipped"
+}

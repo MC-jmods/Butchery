@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/bee_carcass_cut_1",
+  "textures": {
+    "all": "butchery:block/bee",
+    "particle": "butchery:block/bee",
+    "0": "butchery:block/bee"
+  },
+  "render_type": "cutout_mipped"
+}

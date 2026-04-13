@@ -1,0 +1,11 @@
+{
+  "asset_id": "butchery:menu",
+  "height": 2,
+  "width": 4,
+  "title": {
+    "translate": "painting.butchery.menu.title"
+  },
+  "author": {
+    "translate": "painting.butchery.menu.author"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/witch_corpse_hanging",
+  "textures": {
+    "all": "butchery:block/witch_hanging",
+    "particle": "butchery:block/witch",
+    "0": "butchery:block/witch_hanging"
+  },
+  "render_type": "cutout"
+}

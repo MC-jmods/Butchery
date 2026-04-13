@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/mule_head",
+  "textures": {
+    "all": "butchery:block/mule",
+    "particle": "butchery:block/mule",
+    "0": "butchery:block/mule"
+  },
+  "render_type": "cutout"
+}

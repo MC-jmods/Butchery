@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/ocelot_carcass_headless",
+  "textures": {
+    "all": "butchery:block/ocelot",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/ocelot"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "butchery:custom/evoker_head_mount",
+  "textures": {
+    "all": "butchery:block/evoker",
+    "particle": "butchery:block/evoker",
+    "0": "minecraft:block/spruce_planks",
+    "1": "minecraft:block/dark_oak_planks",
+    "2": "minecraft:block/gold_block",
+    "3": "butchery:block/evoker"
+  },
+  "render_type": "cutout"
+}

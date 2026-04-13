@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/piglin_brute_cut_2_corpse_hanging",
+  "textures": {
+    "all": "butchery:block/hanging_piglin_brute_drained_armorless",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/hanging_piglin_brute_drained"
+  },
+  "render_type": "cutout"
+}

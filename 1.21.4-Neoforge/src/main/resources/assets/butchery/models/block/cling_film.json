@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/cling_film",
+  "textures": {
+    "all": "butchery:block/cling_film",
+    "particle": "butchery:block/cling_film",
+    "bar": "butchery:block/roll"
+  },
+  "render_type": "translucent"
+}

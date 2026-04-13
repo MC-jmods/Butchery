@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/squid_carcass_cut_1_hanging",
+  "textures": {
+    "all": "butchery:block/squid",
+    "particle": "minecraft:block/powder_snow",
+    "0": "butchery:block/squid"
+  },
+  "render_type": "cutout"
+}

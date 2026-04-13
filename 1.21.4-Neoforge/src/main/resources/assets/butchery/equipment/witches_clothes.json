@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "butchery:witches_clothes"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "butchery:witches_clothes"
+      }
+    ]
+  }
+}

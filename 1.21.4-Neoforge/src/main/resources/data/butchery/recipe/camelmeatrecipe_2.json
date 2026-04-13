@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "group": "camel",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": "butchery:raw_camel_meat",
+  "result": {
+    "id": "butchery:cooked_camel_meat"
+  }
+}

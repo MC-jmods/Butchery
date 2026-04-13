@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": "minecraft:paper",
+    "b": "#butchery:meats"
+  },
+  "result": {
+    "id": "butchery:butchers_papers",
+    "count": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "butchery:custom/turtle_break_1_carcass_hanging",
+  "textures": {
+    "all": "butchery:block/turtle_drained",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/turtle_drained",
+    "1": "butchery:block/inner"
+  },
+  "render_type": "cutout"
+}

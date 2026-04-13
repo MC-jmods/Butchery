@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": "butchery:diorite_bricks"
+  },
+  "result": {
+    "id": "butchery:diorite_brick_wall",
+    "count": 6
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/endermite_carcass",
+  "textures": {
+    "all": "butchery:block/endermite",
+    "particle": "minecraft:block/cherry_log",
+    "0": "butchery:block/endermite"
+  },
+  "render_type": "cutout"
+}

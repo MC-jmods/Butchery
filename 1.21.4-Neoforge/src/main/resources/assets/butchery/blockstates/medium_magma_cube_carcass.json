@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "butchery:block/medium_magma_cube_carcass"
+    },
+    "facing=east": {
+      "model": "butchery:block/medium_magma_cube_carcass",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "butchery:block/medium_magma_cube_carcass",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "butchery:block/medium_magma_cube_carcass",
+      "y": 270
+    }
+  }
+}

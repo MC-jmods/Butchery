@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "butchery:piglin_corpse",
+    "butchery:drained_piglin_corpse",
+    "butchery:piglin_brute_corpse",
+    "butchery:drained_piglin_brute_corpse",
+    "butchery:zombified_piglin_corpse",
+    "butchery:drained_zombified_piglin_corpse"
+  ]
+}

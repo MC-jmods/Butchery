@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/camel_carcass_cut_1",
+  "textures": {
+    "all": "butchery:block/camel_skinned",
+    "particle": "minecraft:block/nether_wart_block",
+    "3": "butchery:block/camel_skinned"
+  },
+  "render_type": "cutout"
+}

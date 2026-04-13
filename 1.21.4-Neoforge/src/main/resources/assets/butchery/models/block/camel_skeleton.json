@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/camel_skeleton_",
+  "textures": {
+    "all": "butchery:block/camel_skinned",
+    "particle": "butchery:block/cow_skeleton",
+    "0": "butchery:block/camel_skinned"
+  },
+  "render_type": "cutout"
+}

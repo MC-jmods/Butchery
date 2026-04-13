@@ -1,0 +1,11 @@
+{
+  "parent": "butchery:custom/sheep_carcass_headless",
+  "textures": {
+    "all": "butchery:block/sheep_drained",
+    "particle": "minecraft:block/nether_wart_block",
+    "sheep_bone_texture": "butchery:block/sheep_skeleton",
+    "inner_blood": "butchery:block/inner_blood",
+    "sheep_texture": "butchery:block/sheep_drained"
+  },
+  "render_type": "cutout"
+}

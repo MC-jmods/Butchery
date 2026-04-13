@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/red_cat_hanging_carcass",
+  "textures": {
+    "all": "butchery:block/red",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/red"
+  },
+  "render_type": "cutout_mipped"
+}

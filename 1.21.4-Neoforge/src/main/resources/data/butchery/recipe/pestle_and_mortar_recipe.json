@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    " a ",
+    "bbb"
+  ],
+  "key": {
+    "a": "minecraft:stone",
+    "b": "#minecraft:wooden_slabs"
+  },
+  "result": {
+    "id": "butchery:pestle_and_mortar",
+    "count": 1
+  }
+}

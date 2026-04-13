@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "group": "panda",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 200,
+  "ingredient": "butchery:raw_panda_steak",
+  "result": {
+    "id": "butchery:cooked_panda_steak"
+  }
+}

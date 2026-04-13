@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/strider_carcass_cut_2",
+  "textures": {
+    "all": "butchery:block/strider_drained",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/strider_drained"
+  },
+  "render_type": "cutout"
+}

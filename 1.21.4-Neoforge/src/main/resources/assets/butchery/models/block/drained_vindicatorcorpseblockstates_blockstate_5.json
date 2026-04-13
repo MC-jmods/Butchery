@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/vindicator_corpse_headless",
+  "textures": {
+    "all": "butchery:block/drained_vindicator",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/drained_vindicator"
+  },
+  "render_type": "cutout"
+}

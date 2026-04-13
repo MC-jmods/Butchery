@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/fox_head",
+  "textures": {
+    "all": "butchery:block/fox",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/fox"
+  },
+  "render_type": "solid"
+}

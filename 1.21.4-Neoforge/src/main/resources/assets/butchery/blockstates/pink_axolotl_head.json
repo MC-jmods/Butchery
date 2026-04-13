@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "butchery:block/pink_axolotl_head"
+    },
+    "facing=east": {
+      "model": "butchery:block/pink_axolotl_head",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "butchery:block/pink_axolotl_head",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "butchery:block/pink_axolotl_head",
+      "y": 270
+    }
+  }
+}

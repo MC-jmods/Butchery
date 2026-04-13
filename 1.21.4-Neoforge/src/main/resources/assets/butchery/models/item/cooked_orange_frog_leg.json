@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "butchery:item/cooked_orange_frog_leg"
+  }
+}

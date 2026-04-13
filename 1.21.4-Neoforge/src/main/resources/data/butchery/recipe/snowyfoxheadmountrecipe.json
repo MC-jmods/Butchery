@@ -1,0 +1,12 @@
+{
+  "type": "butchery:taxidermy",
+  "ingredients": [
+    "minecraft:wheat",
+    "butchery:snow_fox_head",
+    "butchery:empty_head_mount"
+  ],
+  "output": {
+    "id": "butchery:snowy_fox_head_mount",
+    "count": 1
+  }
+}

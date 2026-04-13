@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "group": "strider",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": "butchery:raw_strider_meat",
+  "result": {
+    "id": "butchery:cooked_strider_meat"
+  }
+}

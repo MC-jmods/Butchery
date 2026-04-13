@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/snow_fox_head",
+  "textures": {
+    "all": "butchery:block/snow_fox",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/snow_fox"
+  },
+  "render_type": "solid"
+}

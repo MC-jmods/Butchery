@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:sponge"
+  ],
+  "result": {
+    "id": "butchery:sponge",
+    "count": 4
+  }
+}

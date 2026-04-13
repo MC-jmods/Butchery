@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": "butchery:diorite_bricks"
+  },
+  "result": {
+    "id": "butchery:diorite_brick_slab",
+    "count": 6
+  }
+}

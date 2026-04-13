@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "group": "creeper",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 200,
+  "ingredient": "butchery:raw_creeper_leg",
+  "result": {
+    "id": "butchery:cooked_creeper_leg"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/shulker_carcass",
+  "textures": {
+    "all": "butchery:block/shulker",
+    "particle": "butchery:block/shulker",
+    "0": "butchery:block/shulker"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    " bb"
+  ],
+  "key": {
+    "a": "minecraft:stick",
+    "b": "minecraft:copper_ingot"
+  },
+  "result": {
+    "id": "butchery:copper_cleaver",
+    "count": 1
+  }
+}

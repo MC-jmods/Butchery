@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "group": "spider",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": "butchery:raw_spider_leg",
+  "result": {
+    "id": "butchery:cooked_spider_leg"
+  }
+}

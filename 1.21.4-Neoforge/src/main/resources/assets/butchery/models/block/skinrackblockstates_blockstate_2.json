@@ -1,0 +1,10 @@
+{
+  "parent": "butchery:custom/skin_rack_brown_mooshroom",
+  "textures": {
+    "all": "butchery:block/brown_mooshroom_skin",
+    "particle": "butchery:block/skin_rack",
+    "skin_rack": "butchery:block/skin_rack",
+    "skin": "butchery:block/brown_mooshroom_skin"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/jungle_display",
+  "textures": {
+    "all": "butchery:block/jungle_display",
+    "particle": "butchery:block/jungle_display",
+    "0": "butchery:block/jungle_display"
+  },
+  "render_type": "cutout"
+}

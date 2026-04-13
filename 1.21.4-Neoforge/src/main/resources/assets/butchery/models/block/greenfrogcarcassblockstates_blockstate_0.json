@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/green_hanging_frog_corpse",
+  "textures": {
+    "all": "butchery:block/frog",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/default_frog"
+  },
+  "render_type": "cutout_mipped"
+}

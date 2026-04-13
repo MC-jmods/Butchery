@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "butchery:mule_carcass",
+    "butchery:drained_mule_carcass"
+  ]
+}

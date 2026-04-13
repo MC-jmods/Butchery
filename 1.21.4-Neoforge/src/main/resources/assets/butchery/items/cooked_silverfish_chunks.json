@@ -1,0 +1,25 @@
+{
+  "model": {
+    "type": "butchery:legacy_overrides",
+    "overrides": [
+      {
+        "predicate": [
+          {
+            "property": {
+              "property": "butchery:cooked_silverfish_chunks/multiple"
+            },
+            "value": 1
+          }
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "butchery:item/cooked_silverfish_chunks_0"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "butchery:item/cooked_silverfish_chunks"
+    }
+  }
+}

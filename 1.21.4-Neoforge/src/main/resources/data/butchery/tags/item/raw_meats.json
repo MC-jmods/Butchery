@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "butchery:raw_lamb_loin",
+    "butchery:raw_chuck_steak",
+    "butchery:raw_sirloin_steak",
+    "minecraft:beef",
+    "butchery:raw_leg_of_lamb",
+    "butchery:raw_lamb_sirloin",
+    "butchery:raw_tbone_steak",
+    "butchery:raw_pork_loin",
+    "butchery:raw_pork_shoulder",
+    "butchery:raw_pork_leg",
+    "butchery:raw_lamb_shoulder",
+    "butchery:raw_rump_steak",
+    "butchery:raw_lamb_rib",
+    "minecraft:mutton",
+    "butchery:raw_ribeye_steak",
+    "butchery:raw_ham",
+    "butchery:raw_pork_belly",
+    "minecraft:porkchop"
+  ]
+}

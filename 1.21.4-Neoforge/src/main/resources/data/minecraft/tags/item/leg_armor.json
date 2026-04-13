@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "butchery:pillager_armor_leggings",
+    "butchery:evoker_robes_leggings",
+    "butchery:dragon_scale_armor_leggings",
+    "butchery:vindicatorarmor_leggings",
+    "butchery:turtle_shell_armor_leggings",
+    "butchery:fur_suit_leggings"
+  ]
+}

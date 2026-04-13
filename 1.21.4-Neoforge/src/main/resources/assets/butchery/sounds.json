@@ -1,0 +1,106 @@
+{
+  "cha_ching": {
+    "sounds": [
+      {
+        "name": "butchery:cha-ching",
+        "stream": false
+      }
+    ]
+  },
+  "drawer_close": {
+    "sounds": [
+      {
+        "name": "butchery:drawer_close",
+        "stream": false
+      }
+    ]
+  },
+  "drawer_open": {
+    "sounds": [
+      {
+        "name": "butchery:drawer_open",
+        "stream": false
+      }
+    ]
+  },
+  "coin": {
+    "sounds": [
+      {
+        "name": "butchery:coin_sound",
+        "stream": false
+      }
+    ]
+  },
+  "inflate": {
+    "sounds": [
+      {
+        "name": "butchery:inflate",
+        "stream": false
+      }
+    ]
+  },
+  "deflate": {
+    "sounds": [
+      {
+        "name": "butchery:deflate",
+        "stream": false
+      }
+    ]
+  },
+  "rope": {
+    "sounds": [
+      {
+        "name": "butchery:place_on_rope",
+        "stream": false
+      }
+    ]
+  },
+  "hacksaw": {
+    "sounds": [
+      {
+        "name": "butchery:hacksaw_1",
+        "stream": false
+      },
+      {
+        "name": "butchery:hacksaw_2",
+        "stream": false
+      },
+      {
+        "name": "butchery:hacksaw_3",
+        "stream": false
+      }
+    ]
+  },
+  "crumbling": {
+    "sounds": [
+      {
+        "name": "butchery:crumbling",
+        "stream": false
+      }
+    ]
+  },
+  "wishbone_break": {
+    "sounds": [
+      {
+        "name": "butchery:wishbone_break",
+        "stream": false
+      }
+    ]
+  },
+  "water_freezing": {
+    "sounds": [
+      {
+        "name": "butchery:water_freezing",
+        "stream": false
+      }
+    ]
+  },
+  "acid": {
+    "sounds": [
+      {
+        "name": "butchery:acid",
+        "stream": false
+      }
+    ]
+  }
+}

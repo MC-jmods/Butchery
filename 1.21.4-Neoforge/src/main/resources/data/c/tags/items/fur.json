@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "butchery:persian_cat_fur",
+    "butchery:wolf_pelt",
+    "butchery:jellie_cat_fur",
+    "butchery:black_cat_fur",
+    "butchery:sniffer_fur",
+    "butchery:red_cat_fur",
+    "butchery:siamese_cat_fur",
+    "butchery:calico_cat_fur",
+    "butchery:all_black_cat_fur",
+    "butchery:ragdoll_cat_fur",
+    "butchery:tabby_cat_fur",
+    "butchery:shorthair_cat_fur",
+    "butchery:white_cat_fur"
+  ]
+}

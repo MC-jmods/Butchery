@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/brown_llama_head",
+  "textures": {
+    "all": "butchery:block/brown_llama",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/brown_llama"
+  },
+  "render_type": "solid"
+}

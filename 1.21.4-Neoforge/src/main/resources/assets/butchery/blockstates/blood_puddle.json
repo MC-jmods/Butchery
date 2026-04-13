@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "butchery:block/blood_puddle"
+    },
+    "facing=east": {
+      "model": "butchery:block/blood_puddle",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "butchery:block/blood_puddle",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "butchery:block/blood_puddle",
+      "y": 270
+    }
+  }
+}

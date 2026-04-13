@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "butchery:husk_corpse",
+    "butchery:drained_husk_corpse"
+  ]
+}

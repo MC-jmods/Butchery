@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/rabbit_head",
+  "textures": {
+    "all": "butchery:block/rabbit",
+    "particle": "minecraft:block/nether_wart_block",
+    "1": "butchery:block/rabbit"
+  },
+  "render_type": "solid"
+}

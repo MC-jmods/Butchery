@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/hanging_chicken_carcass",
+  "textures": {
+    "all": "butchery:block/chicken",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/chicken"
+  },
+  "render_type": "cutout"
+}

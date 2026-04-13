@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    " b "
+  ],
+  "key": {
+    "a": "minecraft:diamond",
+    "b": "minecraft:stick"
+  },
+  "result": {
+    "id": "butchery:diamond_hammer",
+    "count": 1
+  }
+}

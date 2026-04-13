@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "butchery:block/creamy_horse_head_mount"
+    },
+    "facing=east": {
+      "model": "butchery:block/creamy_horse_head_mount",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "butchery:block/creamy_horse_head_mount",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "butchery:block/creamy_horse_head_mount",
+      "y": 270
+    }
+  }
+}

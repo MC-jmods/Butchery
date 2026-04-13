@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/creamy_llama_head",
+  "textures": {
+    "all": "butchery:block/creamy_llama",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/creamy_llama"
+  },
+  "render_type": "solid"
+}

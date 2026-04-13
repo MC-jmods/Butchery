@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    " bb"
+  ],
+  "key": {
+    "a": "minecraft:stick",
+    "b": "minecraft:bone"
+  },
+  "result": {
+    "id": "butchery:bone_cleaver",
+    "count": 1
+  }
+}

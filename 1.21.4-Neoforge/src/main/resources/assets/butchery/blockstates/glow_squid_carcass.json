@@ -1,0 +1,94 @@
+{
+  "variants": {
+    "facing=north,blockstate=0": {
+      "model": "butchery:block/glow_squid_carcass"
+    },
+    "facing=east,blockstate=0": {
+      "model": "butchery:block/glow_squid_carcass",
+      "y": 90
+    },
+    "facing=south,blockstate=0": {
+      "model": "butchery:block/glow_squid_carcass",
+      "y": 180
+    },
+    "facing=west,blockstate=0": {
+      "model": "butchery:block/glow_squid_carcass",
+      "y": 270
+    },
+    "facing=north,blockstate=1": {
+      "model": "butchery:block/glowsquidcarcassblockstates_blockstate_0"
+    },
+    "facing=east,blockstate=1": {
+      "model": "butchery:block/glowsquidcarcassblockstates_blockstate_0",
+      "y": 90
+    },
+    "facing=south,blockstate=1": {
+      "model": "butchery:block/glowsquidcarcassblockstates_blockstate_0",
+      "y": 180
+    },
+    "facing=west,blockstate=1": {
+      "model": "butchery:block/glowsquidcarcassblockstates_blockstate_0",
+      "y": 270
+    },
+    "facing=north,blockstate=2": {
+      "model": "butchery:block/glowsquidcarcassblockstates_blockstate_1"
+    },
+    "facing=east,blockstate=2": {
+      "model": "butchery:block/glowsquidcarcassblockstates_blockstate_1",
+      "y": 90
+    },
+    "facing=south,blockstate=2": {
+      "model": "butchery:block/glowsquidcarcassblockstates_blockstate_1",
+      "y": 180
+    },
+    "facing=west,blockstate=2": {
+      "model": "butchery:block/glowsquidcarcassblockstates_blockstate_1",
+      "y": 270
+    },
+    "facing=north,blockstate=3": {
+      "model": "butchery:block/glowsquidcarcassblockstates_blockstate_2"
+    },
+    "facing=east,blockstate=3": {
+      "model": "butchery:block/glowsquidcarcassblockstates_blockstate_2",
+      "y": 90
+    },
+    "facing=south,blockstate=3": {
+      "model": "butchery:block/glowsquidcarcassblockstates_blockstate_2",
+      "y": 180
+    },
+    "facing=west,blockstate=3": {
+      "model": "butchery:block/glowsquidcarcassblockstates_blockstate_2",
+      "y": 270
+    },
+    "facing=north,blockstate=4": {
+      "model": "butchery:block/glowsquidcarcassblockstates_blockstate_3"
+    },
+    "facing=east,blockstate=4": {
+      "model": "butchery:block/glowsquidcarcassblockstates_blockstate_3",
+      "y": 90
+    },
+    "facing=south,blockstate=4": {
+      "model": "butchery:block/glowsquidcarcassblockstates_blockstate_3",
+      "y": 180
+    },
+    "facing=west,blockstate=4": {
+      "model": "butchery:block/glowsquidcarcassblockstates_blockstate_3",
+      "y": 270
+    },
+    "facing=north,blockstate=5": {
+      "model": "butchery:block/glowsquidcarcassblockstates_blockstate_4"
+    },
+    "facing=east,blockstate=5": {
+      "model": "butchery:block/glowsquidcarcassblockstates_blockstate_4",
+      "y": 90
+    },
+    "facing=south,blockstate=5": {
+      "model": "butchery:block/glowsquidcarcassblockstates_blockstate_4",
+      "y": 180
+    },
+    "facing=west,blockstate=5": {
+      "model": "butchery:block/glowsquidcarcassblockstates_blockstate_4",
+      "y": 270
+    }
+  }
+}

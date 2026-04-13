@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/hanging_salmon_1",
+  "textures": {
+    "all": "butchery:block/salmon",
+    "particle": "minecraft:block/nether_wart_block",
+    "1": "butchery:block/salmon"
+  },
+  "render_type": "cutout"
+}

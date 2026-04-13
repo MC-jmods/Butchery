@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "group": "pig",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": "butchery:pig_skin",
+  "result": {
+    "id": "butchery:crackling"
+  }
+}

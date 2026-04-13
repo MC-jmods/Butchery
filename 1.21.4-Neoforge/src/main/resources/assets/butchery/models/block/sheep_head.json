@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/sheep_head",
+  "textures": {
+    "all": "butchery:block/sheep",
+    "particle": "minecraft:block/nether_wart_block",
+    "sheep_texture": "butchery:block/sheep"
+  },
+  "render_type": "solid"
+}

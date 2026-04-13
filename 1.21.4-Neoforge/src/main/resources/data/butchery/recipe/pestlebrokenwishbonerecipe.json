@@ -1,0 +1,10 @@
+{
+  "type": "butchery:pestleandmortarrecipetype",
+  "ingredients": [
+    "butchery:broken_wishbone"
+  ],
+  "output": {
+    "id": "minecraft:bone_meal",
+    "count": 2
+  }
+}

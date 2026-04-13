@@ -1,0 +1,30 @@
+{
+      "name": "Cleavers",
+    "icon": "butchery:iron_cleaver",
+    "category": "butchery:items",
+    "read_by_default": true,
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:iron_cleaver",
+            "link_recipe": true,
+            "title" : "Cleavers",
+            "text": "The cleavers are used to obtain the carcasses of mobs, bleed carcasses and butcher them. There are 5 different materials much like vanilla tools, these are: Bone, Iron, Gold, Diamond and Netherite. With the exception of Netherite all of these cleavers do the same thing, however the Netherite cleavers are the only cleavers that are able to obtain boss mob carcasses and butcher them."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:bonecleaverrecipe",
+            "recipe2": "butchery:ironcleaverrecipe"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:goldcleaverrecipe",
+            "recipe2": "butchery:diamondcleaverrecipe"
+        },
+        {
+            "type": "patchouli:smithing",
+            "recipe": "butchery:netheritecleaverrecipe"
+        }
+    ]
+}

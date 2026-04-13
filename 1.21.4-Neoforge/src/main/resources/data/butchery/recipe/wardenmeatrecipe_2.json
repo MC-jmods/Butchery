@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "group": "warden",
+  "category": "misc",
+  "experience": 1.4,
+  "cookingtime": 200,
+  "ingredient": "butchery:raw_warden_meat",
+  "result": {
+    "id": "butchery:cooked_warden_meat"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "butchery:block/pillager_head"
+    },
+    "facing=east": {
+      "model": "butchery:block/pillager_head",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "butchery:block/pillager_head",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "butchery:block/pillager_head",
+      "y": 270
+    }
+  }
+}

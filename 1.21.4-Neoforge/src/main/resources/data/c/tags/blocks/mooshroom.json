@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "butchery:red_mooshroom_carcass",
+    "butchery:drained_red_mooshroom_carcass",
+    "butchery:drained_brown_mooshroom_carcass",
+    "butchery:brown_mooshroom_carcass"
+  ]
+}

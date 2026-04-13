@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "group": "villager",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 200,
+  "ingredient": "butchery:raw_villager_steak",
+  "result": {
+    "id": "butchery:cooked_villager_steak"
+  }
+}

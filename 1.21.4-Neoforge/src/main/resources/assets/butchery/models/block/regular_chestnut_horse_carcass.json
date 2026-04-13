@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/regular_chestnut_horse_carcass",
+  "textures": {
+    "all": "butchery:block/horse_chestnut",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/horse_chestnut"
+  },
+  "render_type": "cutout"
+}

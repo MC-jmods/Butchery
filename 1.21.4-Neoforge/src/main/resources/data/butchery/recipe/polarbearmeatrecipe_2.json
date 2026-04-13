@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "group": "polar_bear",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 137,
+  "ingredient": "butchery:raw_polar_bear_meat",
+  "result": {
+    "id": "butchery:cooked_polar_bear_meat"
+  }
+}
