@@ -1,0 +1,11 @@
+{
+  "parent": "butchery:custom/empty_basin",
+  "textures": {
+    "all": "minecraft:block/cauldron_inner",
+    "particle": "minecraft:block/cauldron_inner",
+    "inside_base": "minecraft:block/cauldron_inner",
+    "top": "minecraft:block/cauldron_top",
+    "inside": "minecraft:block/cauldron_side"
+  },
+  "render_type": "cutout"
+}

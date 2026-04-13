@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": "minecraft:diorite"
+  },
+  "result": {
+    "id": "butchery:diorite_brick_stairs",
+    "count": 1
+  }
+}

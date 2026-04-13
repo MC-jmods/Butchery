@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "butchery:piglin_brute_armor"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "butchery:piglin_brute_armor"
+      }
+    ]
+  }
+}

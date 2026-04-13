@@ -1,0 +1,28 @@
+{
+  "replace": false,
+  "values": [
+    "butchery:british_shorthair_cat_carcass",
+    "butchery:drained_ragdoll_cat_carcass",
+    "butchery:tabby_cat_carcass",
+    "butchery:drained_jellie_cat_carcass",
+    "butchery:drained_black_cat_carcass",
+    "butchery:drained_calico_cat_carcass",
+    "butchery:persian_cat_carcass",
+    "butchery:drained_persian_cat_carcass",
+    "butchery:white_cat_carcass",
+    "butchery:cat_carcass",
+    "butchery:drained_all_black_cat_carcass",
+    "butchery:jellie_cat_carcass",
+    "butchery:calico_cat_carcass",
+    "butchery:drained_siamese_cat_carcass",
+    "butchery:drained_red_cat_carcass",
+    "butchery:drained_tabby_cat_carcass",
+    "butchery:all_black_cat_carcass",
+    "butchery:drained_british_shorthair_cat_carcass",
+    "butchery:siamese_cat_carcass",
+    "butchery:ragdoll_cat_carcass",
+    "butchery:black_cat_carcass",
+    "butchery:drained_white_cat_carcass",
+    "butchery:red_cat_carcass"
+  ]
+}

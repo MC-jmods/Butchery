@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "butchery:stray_necklace_chestplate",
+    "butchery:evoker_robes_chestplate",
+    "butchery:pillager_armor_chestplate",
+    "butchery:fur_suit_chestplate",
+    "butchery:piglin_brute_armor_chestplate",
+    "butchery:witches_clothes_chestplate",
+    "butchery:bloody_butchers_apron_chestplate",
+    "butchery:vindicatorarmor_chestplate",
+    "butchery:turtle_shell_armor_chestplate",
+    "butchery:dragon_scale_armor_chestplate",
+    "butchery:butchers_apron_chestplate"
+  ]
+}

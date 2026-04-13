@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/spider_carcass_headless",
+  "textures": {
+    "all": "butchery:block/spider",
+    "particle": "butchery:block/spider_blood",
+    "0": "butchery:block/spider"
+  },
+  "render_type": "cutout"
+}

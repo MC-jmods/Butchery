@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/skeleton_corpse",
+  "textures": {
+    "all": "butchery:block/skeleton",
+    "particle": "butchery:block/skeleton",
+    "0": "butchery:block/skeleton"
+  },
+  "render_type": "cutout"
+}

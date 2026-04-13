@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a  ",
+    "bbc",
+    "bbb"
+  ],
+  "key": {
+    "a": "minecraft:glass_pane",
+    "b": "minecraft:copper_ingot",
+    "c": "minecraft:polished_blackstone_slab"
+  },
+  "result": {
+    "id": "butchery:cash_register",
+    "count": 1
+  }
+}

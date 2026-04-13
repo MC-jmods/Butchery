@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "id": "butchery:turtle_shell_fragment"
+    },
+    "title": {
+      "translate": "advancements.itsafloater.title"
+    },
+    "description": {
+      "translate": "advancements.itsafloater.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "itsafloater_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 5
+  },
+  "parent": "butchery:butcherssecrets"
+}

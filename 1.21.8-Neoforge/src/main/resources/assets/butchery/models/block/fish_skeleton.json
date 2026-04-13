@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/fish_skeleton",
+  "textures": {
+    "all": "butchery:block/fish_skeleton",
+    "particle": "butchery:block/fish_skeleton",
+    "0": "butchery:block/fish_skeleton"
+  },
+  "render_type": "cutout"
+}

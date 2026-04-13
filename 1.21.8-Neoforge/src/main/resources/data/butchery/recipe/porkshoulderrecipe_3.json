@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "group": "pork",
+  "category": "misc",
+  "experience": 0.5,
+  "cookingtime": 210,
+  "ingredient": "butchery:raw_pork_shoulder",
+  "result": {
+    "id": "butchery:cooked_pork_shoulder"
+  }
+}

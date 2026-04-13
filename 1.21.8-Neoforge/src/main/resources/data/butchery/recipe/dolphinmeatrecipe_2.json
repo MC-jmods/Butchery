@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "group": "dolphin",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": "butchery:raw_dolphin_meat",
+  "result": {
+    "id": "butchery:cooked_dolphin_meat"
+  }
+}

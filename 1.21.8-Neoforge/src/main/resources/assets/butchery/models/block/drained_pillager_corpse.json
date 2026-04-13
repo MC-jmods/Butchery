@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/pillager_corpse_drained",
+  "textures": {
+    "all": "butchery:block/drained_pillager",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/drained_pillager"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/hanging_rope_ceiling_4",
+  "textures": {
+    "all": "butchery:block/hanging_rope",
+    "particle": "butchery:block/hanging_rope",
+    "0": "butchery:block/hanging_rope"
+  },
+  "render_type": "cutout_mipped"
+}

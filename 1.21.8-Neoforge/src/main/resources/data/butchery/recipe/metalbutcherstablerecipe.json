@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "b b",
+    "b b"
+  ],
+  "key": {
+    "a": "minecraft:iron_trapdoor",
+    "b": "minecraft:iron_ingot"
+  },
+  "result": {
+    "id": "butchery:metal_butchers_table",
+    "count": 1
+  }
+}

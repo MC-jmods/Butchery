@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/calico_cat_hanging_carcass",
+  "textures": {
+    "all": "butchery:block/calico",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/calico"
+  },
+  "render_type": "cutout_mipped"
+}

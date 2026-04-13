@@ -1,0 +1,10 @@
+{
+  "parent": "butchery:custom/bear_rug",
+  "textures": {
+    "all": "butchery:block/polar_bear_rug_copy",
+    "particle": "butchery:block/sheep_break_particle",
+    "0": "butchery:block/polar_bear_rug_copy",
+    "1": "butchery:block/polarbear"
+  },
+  "render_type": "cutout"
+}

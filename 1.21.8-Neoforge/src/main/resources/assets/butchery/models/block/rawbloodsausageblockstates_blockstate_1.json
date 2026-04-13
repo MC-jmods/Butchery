@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/hanging_raw_blood_sausages_three",
+  "textures": {
+    "all": "butchery:block/raw_blood_sausage_link",
+    "particle": "butchery:block/raw_blood_sausage_link",
+    "0": "butchery:block/raw_blood_sausage_link"
+  },
+  "render_type": "cutout_mipped"
+}

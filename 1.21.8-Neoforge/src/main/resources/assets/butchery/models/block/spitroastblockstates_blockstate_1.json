@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/spit_roast_cooked_pig",
+  "textures": {
+    "all": "butchery:block/spit_roast_pig_cooked",
+    "particle": "butchery:block/spit_roast",
+    "0": "butchery:block/spit_roast_pig_cooked"
+  },
+  "render_type": "cutout"
+}

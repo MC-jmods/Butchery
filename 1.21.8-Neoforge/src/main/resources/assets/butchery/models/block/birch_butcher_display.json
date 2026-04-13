@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/birch_display",
+  "textures": {
+    "all": "butchery:block/birch_display",
+    "particle": "butchery:block/birch_display",
+    "0": "butchery:block/birch_display"
+  },
+  "render_type": "cutout"
+}

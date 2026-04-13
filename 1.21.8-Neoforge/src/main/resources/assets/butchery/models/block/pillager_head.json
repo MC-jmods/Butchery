@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/pillager_head",
+  "textures": {
+    "all": "butchery:block/pillager",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/pillager"
+  },
+  "render_type": "solid"
+}

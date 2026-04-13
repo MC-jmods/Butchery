@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "butchers_table",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcb",
+    "b b"
+  ],
+  "key": {
+    "a": "minecraft:stripped_crimson_hyphae",
+    "b": "minecraft:crimson_planks",
+    "c": "minecraft:crimson_slab"
+  },
+  "result": {
+    "id": "butchery:crimson_butchers_table",
+    "count": 1
+  }
+}

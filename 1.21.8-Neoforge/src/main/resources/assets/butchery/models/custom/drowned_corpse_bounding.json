@@ -1,0 +1,244 @@
+{
+  "format_version": "1.9.0",
+  "credit": "Made with Blockbench",
+  "texture_size": [
+    64,
+    64
+  ],
+  "elements": [
+    {
+      "name": "body",
+      "from": [
+        3.9,
+        4,
+        10
+      ],
+      "to": [
+        11.9,
+        16,
+        14
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8.8,
+          0.3,
+          6
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            5,
+            5,
+            7,
+            8
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            4,
+            5,
+            5,
+            8
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            8,
+            5,
+            10,
+            8
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            7,
+            5,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            7,
+            5,
+            5,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            9,
+            4,
+            7,
+            5
+          ],
+          "texture": "#0"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        -22.88,
+        0.73,
+        89.86
+      ],
+      "translation": [
+        -4.5,
+        0.75,
+        -5.75
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        -22.88,
+        0.73,
+        89.86
+      ],
+      "translation": [
+        -4.5,
+        0.75,
+        -5.75
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        -90,
+        0,
+        90.5
+      ],
+      "translation": [
+        -5.5,
+        -5.25,
+        -1.5
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        -90,
+        0,
+        90.5
+      ],
+      "translation": [
+        -5.5,
+        -5.25,
+        -1.5
+      ]
+    },
+    "ground": {
+      "translation": [
+        0,
+        5,
+        0
+      ]
+    },
+    "gui": {
+      "rotation": [
+        -145.06,
+        -28.06,
+        -169.49
+      ],
+      "translation": [
+        0.25,
+        -1.75,
+        0
+      ],
+      "scale": [
+        0.45,
+        0.45,
+        0.45
+      ]
+    },
+    "fixed": {
+      "translation": [
+        0,
+        -1.5,
+        -6.25
+      ]
+    }
+  },
+  "groups": [
+    {
+      "name": "group",
+      "origin": [
+        8,
+        3.7,
+        14
+      ],
+      "color": 0,
+      "children": [
+        {
+          "name": "body",
+          "origin": [
+            8,
+            3.7,
+            14
+          ],
+          "color": 0,
+          "children": [
+            0,
+            {
+              "name": "left_arm",
+              "origin": [
+                4,
+                13.7,
+                14
+              ],
+              "color": 1,
+              "children": []
+            },
+            {
+              "name": "right_arm",
+              "origin": [
+                12,
+                13.7,
+                14
+              ],
+              "color": 2,
+              "children": []
+            },
+            {
+              "name": "head",
+              "origin": [
+                8,
+                15.7,
+                14
+              ],
+              "color": 3,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "left_leg",
+          "origin": [
+            5,
+            2,
+            10
+          ],
+          "color": 4,
+          "children": []
+        },
+        {
+          "name": "right_leg",
+          "origin": [
+            12,
+            2,
+            10
+          ],
+          "color": 5,
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "format_version": "1.9.0",
+  "credit": "Made with Blockbench",
+  "texture_size": [
+    64,
+    32
+  ],
+  "elements": [
+    {
+      "name": "skeleton",
+      "from": [
+        -0.35637,
+        0.2,
+        3.64363
+      ],
+      "to": [
+        17.04363,
+        11.8,
+        14.14363
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          11.1,
+          4.99762,
+          6.24363
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            7.25,
+            7.5,
+            10,
+            16
+          ],
+          "rotation": 270,
+          "texture": "#Cow Skeleton"
+        },
+        "east": {
+          "uv": [
+            10,
+            7.5,
+            7.25,
+            2.5
+          ],
+          "rotation": 90,
+          "texture": "#Cow Skeleton"
+        },
+        "south": {
+          "uv": [
+            12.5,
+            7.5,
+            15.25,
+            16
+          ],
+          "rotation": 90,
+          "texture": "#Cow Skeleton"
+        },
+        "west": {
+          "uv": [
+            12.75,
+            2.5,
+            10,
+            7.5
+          ],
+          "rotation": 90,
+          "texture": "#Cow Skeleton"
+        },
+        "up": {
+          "uv": [
+            7.25,
+            7.5,
+            4.75,
+            16
+          ],
+          "rotation": 90,
+          "texture": "#Cow Skeleton"
+        },
+        "down": {
+          "uv": [
+            4.75,
+            7.5,
+            7.25,
+            16
+          ],
+          "rotation": 90,
+          "texture": "#Cow Skeleton"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        77.59,
+        -88.78,
+        90.08
+      ],
+      "translation": [
+        -4.5,
+        6.5,
+        -1.5
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        -121.91,
+        -88.78,
+        90.08
+      ],
+      "translation": [
+        -4.5,
+        3,
+        -0.25
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        1,
+        -88.78,
+        90.08
+      ],
+      "translation": [
+        -9,
+        -5.5,
+        -5
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        -180,
+        -88.78,
+        90.08
+      ],
+      "translation": [
+        -9.75,
+        -6,
+        -1.5
+      ]
+    },
+    "ground": {
+      "translation": [
+        0,
+        5,
+        0
+      ]
+    },
+    "gui": {
+      "rotation": [
+        -152.5,
+        29.41,
+        -160.14
+      ],
+      "translation": [
+        -0.25,
+        0,
+        0
+      ],
+      "scale": [
+        0.45,
+        0.45,
+        0.45
+      ]
+    },
+    "head": {
+      "translation": [
+        0,
+        14.5,
+        0
+      ]
+    },
+    "fixed": {
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    }
+  },
+  "groups": [
+    {
+      "name": "group",
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "color": 0,
+      "children": [
+        {
+          "name": "legs",
+          "origin": [
+            0,
+            0,
+            0
+          ],
+          "color": 0,
+          "children": []
+        },
+        {
+          "name": "body",
+          "origin": [
+            0,
+            -2,
+            -5.5
+          ],
+          "color": 0,
+          "children": []
+        },
+        {
+          "name": "head",
+          "origin": [
+            0,
+            0,
+            0
+          ],
+          "color": 0,
+          "children": []
+        }
+      ]
+    },
+    0
+  ]
+}

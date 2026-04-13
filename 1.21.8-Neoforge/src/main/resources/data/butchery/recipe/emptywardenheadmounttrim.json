@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": "butchery:deep_smithing_template",
+  "base": "butchery:large_empty_head_mount",
+  "addition": "minecraft:sculk_sensor",
+  "result": {
+    "id": "butchery:empty_warden_trimmed_head_mount"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "butchery:raw_sausage"
+    },
+    "title": {
+      "translate": "advancements.the_missing_link.title"
+    },
+    "description": {
+      "translate": "advancements.the_missing_link.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "the_missing_link_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "butchery:bloodandgears"
+}

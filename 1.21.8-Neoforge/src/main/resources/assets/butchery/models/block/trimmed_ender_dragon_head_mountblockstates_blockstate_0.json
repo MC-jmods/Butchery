@@ -1,0 +1,13 @@
+{
+  "parent": "butchery:custom/ender_dragon_trimmed_open_head_mount",
+  "textures": {
+    "all": "butchery:block/head_dragon_head",
+    "particle": "butchery:block/head_dragon_head",
+    "gold": "minecraft:block/gold_block",
+    "mob": "butchery:block/head_dragon_head",
+    "crying obsidian": "minecraft:block/crying_obsidian",
+    "4": "butchery:block/dragon_trimmer_head_mount",
+    "coal block": "minecraft:block/coal_block"
+  },
+  "render_type": "cutout"
+}

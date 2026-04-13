@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/chicken_skeleton_hanging",
+  "textures": {
+    "all": "butchery:block/chicken_skeleton",
+    "particle": "butchery:block/chicken_skeleton",
+    "0": "butchery:block/chicken_skeleton"
+  },
+  "render_type": "cutout"
+}

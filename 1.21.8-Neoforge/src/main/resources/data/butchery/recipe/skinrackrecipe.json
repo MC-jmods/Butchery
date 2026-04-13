@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bab",
+    "a a"
+  ],
+  "key": {
+    "a": "minecraft:stick",
+    "b": "minecraft:string"
+  },
+  "result": {
+    "id": "butchery:skin_rack",
+    "count": 1
+  }
+}

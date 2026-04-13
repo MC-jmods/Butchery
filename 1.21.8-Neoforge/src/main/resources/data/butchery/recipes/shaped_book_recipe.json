@@ -1,0 +1,12 @@
+{
+  "type": "patchouli:shapeless_book_recipe",
+  "ingredients": [
+    {
+      "tag": "butchery:meat"
+    },
+    {
+      "item": "minecraft:book"
+    }
+  ],
+  "book": "butcher:butchers_guide"
+}

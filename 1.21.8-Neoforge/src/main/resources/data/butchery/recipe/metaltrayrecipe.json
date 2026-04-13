@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": "minecraft:iron_nugget"
+  },
+  "result": {
+    "id": "butchery:metal_tray",
+    "count": 1
+  }
+}

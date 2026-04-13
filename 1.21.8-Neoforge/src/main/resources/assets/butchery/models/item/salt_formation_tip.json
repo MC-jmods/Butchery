@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "butchery:item/pointed_salt_up_tip"
+  },
+  "render_type": "translucent"
+}

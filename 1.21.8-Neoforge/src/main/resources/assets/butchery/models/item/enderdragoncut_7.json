@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "butchery:item/ender_dragon_icon"
+  },
+  "render_type": "translucent"
+}

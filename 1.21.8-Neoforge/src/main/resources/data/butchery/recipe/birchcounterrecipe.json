@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "bb"
+  ],
+  "key": {
+    "a": "minecraft:iron_ingot",
+    "b": "minecraft:birch_planks"
+  },
+  "result": {
+    "id": "butchery:birch_counter",
+    "count": 1
+  }
+}

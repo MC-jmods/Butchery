@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "minecraft:block/redstone_dust_overlay",
+    "up": "minecraft:block/redstone_dust_overlay",
+    "north": "minecraft:block/redstone_dust_overlay",
+    "east": "minecraft:block/redstone_dust_overlay",
+    "south": "minecraft:block/redstone_dust_overlay",
+    "west": "minecraft:block/redstone_dust_overlay",
+    "particle": "minecraft:block/oak_planks"
+  },
+  "render_type": "cutout"
+}

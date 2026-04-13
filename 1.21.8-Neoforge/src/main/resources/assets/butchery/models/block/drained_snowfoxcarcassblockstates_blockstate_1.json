@@ -1,0 +1,11 @@
+{
+  "parent": "butchery:custom/snow_fox_carcass_headless_hanging",
+  "textures": {
+    "all": "butchery:block/snow_fox",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/fox_skeleton",
+    "1": "butchery:block/snow_fox",
+    "2": "butchery:block/inner_blood_fox"
+  },
+  "render_type": "cutout"
+}

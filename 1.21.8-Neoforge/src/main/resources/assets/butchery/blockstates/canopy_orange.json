@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "butchery:block/canopy_orange"
+    },
+    "facing=east": {
+      "model": "butchery:block/canopy_orange",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "butchery:block/canopy_orange",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "butchery:block/canopy_orange",
+      "y": 270
+    }
+  }
+}

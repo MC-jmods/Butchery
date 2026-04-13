@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/hanging_chicken_carcass_headless_plucked",
+  "textures": {
+    "all": "butchery:block/chicken_drained",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/chicken_plucked"
+  },
+  "render_type": "cutout"
+}

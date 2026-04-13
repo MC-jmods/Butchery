@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/brain_jar",
+  "textures": {
+    "all": "butchery:block/brain_jar",
+    "particle": "minecraft:block/glass",
+    "0": "butchery:block/brain_jar"
+  },
+  "render_type": "translucent"
+}

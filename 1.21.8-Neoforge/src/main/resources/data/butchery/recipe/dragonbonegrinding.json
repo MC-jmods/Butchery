@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "dragon",
+  "ingredient": "butchery:dragon_bone",
+  "result": {
+    "id": "butchery:spiked_dragon_bone",
+    "count": 1
+  }
+}

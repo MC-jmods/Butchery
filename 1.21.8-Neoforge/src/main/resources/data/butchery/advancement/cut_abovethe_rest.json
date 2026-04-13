@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "id": "butchery:cow_head"
+    },
+    "title": {
+      "translate": "advancements.cut_abovethe_rest.title"
+    },
+    "description": {
+      "translate": "advancements.cut_abovethe_rest.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "cut_abovethe_rest_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 5
+  },
+  "parent": "butchery:first_blood"
+}

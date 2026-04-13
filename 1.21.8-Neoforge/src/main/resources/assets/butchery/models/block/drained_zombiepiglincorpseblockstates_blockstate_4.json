@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/zombie_piglin_headless_corpse",
+  "textures": {
+    "all": "butchery:block/zombie_piglin_drained",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/zombie_piglin_drained"
+  },
+  "render_type": "cutout"
+}

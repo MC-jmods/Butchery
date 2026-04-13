@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "group": "axolotl",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": "butchery:raw_gold_axolotl_fillet",
+  "result": {
+    "id": "butchery:cooked_gold_axolotl_fillet"
+  }
+}

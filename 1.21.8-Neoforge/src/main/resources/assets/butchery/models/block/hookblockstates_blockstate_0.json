@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/ceiling_hook",
+  "textures": {
+    "all": "butchery:block/hook",
+    "particle": "butchery:block/hook",
+    "0": "butchery:block/hook"
+  },
+  "render_type": "cutout"
+}

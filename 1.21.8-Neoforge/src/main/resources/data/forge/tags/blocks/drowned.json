@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "butchery:drained_drowned_corpse",
+    "butchery:drowned_corpse"
+  ]
+}

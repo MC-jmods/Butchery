@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "butchery:blocks/drained_gray_frog_carcass",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:empty"
+        }
+      ]
+    }
+  ]
+}

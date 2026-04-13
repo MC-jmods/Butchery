@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "butchery:raw_ham",
+    "butchery:raw_pork_belly",
+    "minecraft:porkchop",
+    "butchery:raw_pork_loin",
+    "butchery:raw_pork_shoulder",
+    "butchery:raw_pork_leg"
+  ]
+}

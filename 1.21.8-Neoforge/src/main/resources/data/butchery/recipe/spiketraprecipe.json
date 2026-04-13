@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "bbb"
+  ],
+  "key": {
+    "a": "butchery:elder_guardian_spike",
+    "b": "minecraft:smooth_stone_slab"
+  },
+  "result": {
+    "id": "butchery:spike_trap",
+    "count": 1
+  }
+}

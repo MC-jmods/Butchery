@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "tag": "butchery:raw_chicken"
+    }
+  ],
+  "result": [
+    {
+      "count": 2,
+      "item": "farmersdelight:chicken_cuts"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  }
+}

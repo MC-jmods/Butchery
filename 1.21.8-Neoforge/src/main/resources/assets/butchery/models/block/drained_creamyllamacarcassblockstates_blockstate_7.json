@@ -1,0 +1,10 @@
+{
+  "parent": "butchery:custom/creamy_llama_carcass_cut_1",
+  "textures": {
+    "all": "butchery:block/llama_skinned",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/llama_skinned",
+    "1": "butchery:block/llama_skeleton"
+  },
+  "render_type": "cutout"
+}

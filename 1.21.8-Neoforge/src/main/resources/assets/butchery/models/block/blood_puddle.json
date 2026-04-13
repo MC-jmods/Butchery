@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/blood_puddle",
+  "textures": {
+    "all": "butchery:block/blood_still",
+    "particle": "butchery:block/blood_still",
+    "0": "butchery:block/blood_still"
+  },
+  "render_type": "cutout"
+}

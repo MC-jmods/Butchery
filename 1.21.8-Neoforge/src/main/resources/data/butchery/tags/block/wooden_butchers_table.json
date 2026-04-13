@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "butchery:mangrove_butchers_table",
+    "butchery:birch_butchers_table",
+    "butchery:crimson_butchers_table",
+    "butchery:oak_butchers_table",
+    "butchery:spruce_butchers_table",
+    "butchery:warped_butchers_table",
+    "butchery:acacia_butchers_table",
+    "butchery:dark_oak_butchers_table",
+    "butchery:jungle_butchers_table"
+  ]
+}

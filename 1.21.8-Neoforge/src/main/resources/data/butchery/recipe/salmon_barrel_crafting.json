@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": "butchery:salmon_carcass",
+    "b": "minecraft:barrel"
+  },
+  "result": {
+    "id": "butchery:salmon_barrel",
+    "count": 1
+  }
+}

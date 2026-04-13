@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "bbb"
+  ],
+  "key": {
+    "a": "minecraft:iron_ingot",
+    "b": "minecraft:white_concrete",
+    "c": "minecraft:redstone"
+  },
+  "result": {
+    "id": "butchery:freezer",
+    "count": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "group": "pork",
+  "category": "misc",
+  "experience": 0.6,
+  "cookingtime": 105,
+  "ingredient": "butchery:raw_pork_belly",
+  "result": {
+    "id": "butchery:cooked_pork_belly"
+  }
+}

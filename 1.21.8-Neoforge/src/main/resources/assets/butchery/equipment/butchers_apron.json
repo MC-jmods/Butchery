@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "butchery:butchers_apron"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "butchery:butchers_apron"
+      }
+    ]
+  }
+}

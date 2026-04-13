@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aba",
+    "ccc"
+  ],
+  "key": {
+    "a": "minecraft:cyan_wool",
+    "b": "minecraft:white_wool",
+    "c": "minecraft:iron_ingot"
+  },
+  "result": {
+    "id": "butchery:canopy_cyan",
+    "count": 1
+  }
+}

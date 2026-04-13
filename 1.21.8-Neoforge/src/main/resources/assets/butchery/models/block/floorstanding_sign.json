@@ -1,0 +1,10 @@
+{
+  "parent": "butchery:custom/floor_sign",
+  "textures": {
+    "all": "butchery:block/floorstanding_sign",
+    "particle": "butchery:block/floorstanding_sign",
+    "1": "butchery:block/sign_writing",
+    "2": "butchery:block/floorstanding_sign"
+  },
+  "render_type": "cutout"
+}

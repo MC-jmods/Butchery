@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/zombie_horse_head",
+  "textures": {
+    "all": "butchery:block/horse_zombie",
+    "particle": "butchery:block/horse_zombie",
+    "0": "butchery:block/horse_zombie"
+  },
+  "render_type": "cutout"
+}

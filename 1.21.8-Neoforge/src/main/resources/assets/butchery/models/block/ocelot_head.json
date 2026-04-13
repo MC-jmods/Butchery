@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/ocelot_head",
+  "textures": {
+    "all": "butchery:block/ocelot_2",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/ocelot_2"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "butchery:custom/hanging_drained_white_llama_carcass",
+  "textures": {
+    "all": "butchery:block/white_llama",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/white_llama",
+    "1": "butchery:block/llama_skeleton"
+  },
+  "render_type": "cutout"
+}

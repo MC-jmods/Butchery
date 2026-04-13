@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "butchery:vindicator_butchers_house",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 121,
+    "separation": 120,
+    "salt": 1717082837
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "butchery:custom/rabbit_cut_2_carcass",
+  "textures": {
+    "all": "butchery:block/rabbit_skinned",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/rabbit_skeleton",
+    "1": "butchery:block/rabbit_skinned"
+  },
+  "render_type": "cutout"
+}

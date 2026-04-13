@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/hanging_cod_1",
+  "textures": {
+    "all": "butchery:block/cod",
+    "particle": "minecraft:block/nether_wart_block",
+    "1": "butchery:block/cod"
+  },
+  "render_type": "cutout"
+}

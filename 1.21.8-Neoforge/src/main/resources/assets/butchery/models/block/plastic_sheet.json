@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/plastic_sheet",
+  "textures": {
+    "all": "butchery:block/plastic_sheet",
+    "particle": "butchery:block/plastic_sheet",
+    "sheet": "butchery:block/plastic_sheet"
+  },
+  "render_type": "translucent"
+}

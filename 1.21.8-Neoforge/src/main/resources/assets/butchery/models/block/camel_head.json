@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/camel_head",
+  "textures": {
+    "all": "butchery:block/camel",
+    "particle": "butchery:block/camel",
+    "1": "butchery:block/camel"
+  },
+  "render_type": "cutout"
+}

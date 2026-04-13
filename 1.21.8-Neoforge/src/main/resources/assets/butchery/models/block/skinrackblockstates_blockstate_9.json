@@ -1,0 +1,10 @@
+{
+  "parent": "butchery:custom/skin_rack_fox",
+  "textures": {
+    "all": "butchery:block/fox_skin",
+    "particle": "butchery:block/skin_rack",
+    "skin_rack": "butchery:block/skin_rack",
+    "skin": "butchery:block/fox_skin"
+  },
+  "render_type": "cutout"
+}

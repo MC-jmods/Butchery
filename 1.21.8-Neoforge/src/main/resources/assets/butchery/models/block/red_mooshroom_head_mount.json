@@ -1,0 +1,12 @@
+{
+  "parent": "butchery:custom/red_mooshroom_head_mount",
+  "textures": {
+    "all": "butchery:block/red_mooshroom",
+    "particle": "butchery:block/red_mooshroom",
+    "0": "minecraft:block/spruce_planks",
+    "1": "minecraft:block/dark_oak_planks",
+    "2": "minecraft:block/gold_block",
+    "3": "butchery:block/red_mooshroom"
+  },
+  "render_type": "cutout"
+}

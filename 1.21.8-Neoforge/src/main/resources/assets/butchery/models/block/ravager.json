@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "butchery:block/ravager",
+    "particle": "butchery:block/ravager"
+  },
+  "render_type": "cutout_mipped"
+}

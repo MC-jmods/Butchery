@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/goat_head",
+  "textures": {
+    "all": "butchery:block/goat",
+    "particle": "minecraft:block/nether_wart_block",
+    "default": "butchery:block/goat"
+  },
+  "render_type": "solid"
+}

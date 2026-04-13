@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "butchery:vindicatorarmor"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "butchery:vindicatorarmor"
+      }
+    ]
+  }
+}

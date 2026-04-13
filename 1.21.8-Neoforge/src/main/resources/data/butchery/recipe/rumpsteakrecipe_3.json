@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "group": "beef",
+  "category": "misc",
+  "experience": 0.75,
+  "cookingtime": 255,
+  "ingredient": "butchery:raw_rump_steak",
+  "result": {
+    "id": "butchery:cooked_rump_steak"
+  }
+}

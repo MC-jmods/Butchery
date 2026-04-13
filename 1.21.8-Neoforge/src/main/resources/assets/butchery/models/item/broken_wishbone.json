@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "butchery:item/broken_wish_bone"
+  }
+}

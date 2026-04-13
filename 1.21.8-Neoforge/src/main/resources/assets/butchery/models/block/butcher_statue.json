@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/butcher_statue",
+  "textures": {
+    "all": "butchery:block/butcher_statue",
+    "particle": "butchery:block/butcher_statue",
+    "0": "butchery:block/butcher_statue"
+  },
+  "render_type": "cutout_mipped"
+}

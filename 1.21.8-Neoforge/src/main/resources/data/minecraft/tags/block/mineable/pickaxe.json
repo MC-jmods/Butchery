@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "butchery:deepslate_sulfur_ore",
+    "butchery:sulfur_ore"
+  ]
+}

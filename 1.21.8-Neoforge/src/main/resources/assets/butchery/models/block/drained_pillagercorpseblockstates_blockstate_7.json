@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/pillager_corpse_cut_1",
+  "textures": {
+    "all": "butchery:block/placed_armorless_pillager",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/placed_armorless_pillager"
+  },
+  "render_type": "cutout"
+}

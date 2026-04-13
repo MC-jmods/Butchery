@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:bone",
+    "butchery:bird_foot",
+    "butchery:magic_wishbone",
+    "butchery:wishbone",
+    "butchery:broken_wishbone"
+  ]
+}

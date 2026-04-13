@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/vindicator_corpse_cut_2",
+  "textures": {
+    "all": "butchery:block/placed_armorless_vindicator",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/placed_armorless_vindicator"
+  },
+  "render_type": "cutout"
+}

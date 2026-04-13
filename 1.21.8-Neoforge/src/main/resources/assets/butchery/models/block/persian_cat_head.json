@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/persian_cat_head",
+  "textures": {
+    "all": "butchery:block/persian",
+    "particle": "butchery:block/persian",
+    "0": "butchery:block/persian"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bbc",
+    " b "
+  ],
+  "key": {
+    "a": "minecraft:cauldron",
+    "b": "minecraft:iron_ingot",
+    "c": "minecraft:stick"
+  },
+  "result": {
+    "id": "butchery:meat_grinder",
+    "count": 1
+  }
+}

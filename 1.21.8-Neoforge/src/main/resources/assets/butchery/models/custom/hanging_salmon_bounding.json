@@ -1,0 +1,166 @@
+{
+  "credit": "Made with Blockbench",
+  "elements": [
+    {
+      "name": "body_back",
+      "from": [
+        1.42231,
+        -10.01219,
+        2.2655
+      ],
+      "to": [
+        14.42231,
+        19.98781,
+        13.2655
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "x",
+        "origin": [
+          9.17231,
+          6.8655,
+          6.75
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            5.5,
+            10.5,
+            9.5,
+            13
+          ],
+          "rotation": 270,
+          "texture": "#1"
+        },
+        "east": {
+          "uv": [
+            5.5,
+            10.5,
+            4,
+            6.5
+          ],
+          "rotation": 180,
+          "texture": "#1"
+        },
+        "south": {
+          "uv": [
+            0,
+            10.5,
+            4,
+            13
+          ],
+          "rotation": 90,
+          "texture": "#1"
+        },
+        "west": {
+          "uv": [
+            7,
+            6.5,
+            5.5,
+            10.5
+          ],
+          "texture": "#1"
+        },
+        "up": {
+          "uv": [
+            9.5,
+            10.5,
+            11,
+            13
+          ],
+          "rotation": 90,
+          "texture": "#1"
+        },
+        "down": {
+          "uv": [
+            4,
+            10.5,
+            5.5,
+            13
+          ],
+          "rotation": 90,
+          "texture": "#1"
+        }
+      }
+    }
+  ],
+  "display": {
+    "gui": {
+      "rotation": [
+        0,
+        90,
+        0
+      ],
+      "translation": [
+        0,
+        4,
+        0
+      ],
+      "scale": [
+        1.25,
+        1.25,
+        1.25
+      ]
+    }
+  },
+  "groups": [
+    {
+      "name": "group",
+      "origin": [
+        8,
+        1.55,
+        9.75
+      ],
+      "color": 0,
+      "nbt": "{}",
+      "children": [
+        0
+      ]
+    },
+    {
+      "name": "group",
+      "origin": [
+        8,
+        1.55,
+        9.75
+      ],
+      "color": 0,
+      "nbt": "{}",
+      "children": []
+    },
+    {
+      "name": "group",
+      "origin": [
+        8,
+        1.55,
+        9.75
+      ],
+      "color": 0,
+      "nbt": "{}",
+      "children": []
+    },
+    {
+      "name": "group",
+      "origin": [
+        8,
+        1.55,
+        9.75
+      ],
+      "color": 0,
+      "nbt": "{}",
+      "children": []
+    },
+    {
+      "name": "group",
+      "origin": [
+        8,
+        1.55,
+        9.75
+      ],
+      "color": 0,
+      "nbt": "{}",
+      "children": []
+    }
+  ]
+}

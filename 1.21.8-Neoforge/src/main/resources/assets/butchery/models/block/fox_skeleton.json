@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/fox_skeleton",
+  "textures": {
+    "all": "butchery:block/fox_skeleton",
+    "particle": "butchery:block/fox_skeleton",
+    "1": "butchery:block/fox_skeleton"
+  },
+  "render_type": "cutout"
+}

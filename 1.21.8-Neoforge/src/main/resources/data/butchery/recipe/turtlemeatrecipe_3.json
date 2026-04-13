@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "group": "turtle",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": "butchery:raw_turtle_meat",
+  "result": {
+    "id": "butchery:cooked_turtle_meat"
+  }
+}

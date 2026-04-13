@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/canopy_gray",
+  "textures": {
+    "all": "butchery:block/canopy_gray",
+    "particle": "butchery:block/canopy_gray",
+    "0": "butchery:block/canopy_gray"
+  },
+  "render_type": "cutout"
+}

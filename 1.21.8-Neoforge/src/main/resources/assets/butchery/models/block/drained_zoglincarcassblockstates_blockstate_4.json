@@ -1,0 +1,10 @@
+{
+  "parent": "butchery:custom/zoglin_carcass_cut_2_hanging",
+  "textures": {
+    "all": "butchery:block/skinned_zoglin",
+    "particle": "minecraft:block/nether_wart_block",
+    "hoglin": "butchery:block/skinned_zoglin",
+    "hoglin_skeleton": "butchery:block/zoglin_skeleton"
+  },
+  "render_type": "cutout"
+}

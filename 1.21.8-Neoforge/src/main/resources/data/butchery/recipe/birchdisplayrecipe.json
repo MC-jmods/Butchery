@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca",
+    "ddd"
+  ],
+  "key": {
+    "a": "minecraft:iron_ingot",
+    "b": "minecraft:glass_pane",
+    "c": "#butchery:raw_meat",
+    "d": "minecraft:birch_planks"
+  },
+  "result": {
+    "id": "butchery:birch_butcher_display",
+    "count": 1
+  }
+}

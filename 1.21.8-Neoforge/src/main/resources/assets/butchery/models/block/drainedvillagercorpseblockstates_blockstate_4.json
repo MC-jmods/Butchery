@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/villager_corpse_headless",
+  "textures": {
+    "all": "butchery:block/villager_drained",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/villager_drained"
+  },
+  "render_type": "cutout"
+}

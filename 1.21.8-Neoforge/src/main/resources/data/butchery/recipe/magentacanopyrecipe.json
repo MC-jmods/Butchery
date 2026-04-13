@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aba",
+    "ccc"
+  ],
+  "key": {
+    "a": "minecraft:magenta_wool",
+    "b": "minecraft:white_wool",
+    "c": "minecraft:iron_ingot"
+  },
+  "result": {
+    "id": "butchery:canopy_magenta",
+    "count": 1
+  }
+}

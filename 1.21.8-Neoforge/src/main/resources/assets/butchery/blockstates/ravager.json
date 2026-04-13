@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "butchery:block/ravager"
+    },
+    "facing=east": {
+      "model": "butchery:block/ravager",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "butchery:block/ravager",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "butchery:block/ravager",
+      "y": 270
+    }
+  }
+}

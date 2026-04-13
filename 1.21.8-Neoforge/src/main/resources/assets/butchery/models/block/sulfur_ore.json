@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "butchery:block/sulfur_ore",
+    "up": "butchery:block/sulfur_ore",
+    "north": "butchery:block/sulfur_ore",
+    "east": "butchery:block/sulfur_ore",
+    "south": "butchery:block/sulfur_ore",
+    "west": "butchery:block/sulfur_ore",
+    "particle": "butchery:block/sulfur_ore"
+  },
+  "render_type": "solid"
+}

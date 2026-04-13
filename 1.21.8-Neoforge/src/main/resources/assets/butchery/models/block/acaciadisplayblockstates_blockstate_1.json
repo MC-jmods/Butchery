@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/acacia_display_right_full",
+  "textures": {
+    "all": "butchery:block/acacia_display",
+    "particle": "butchery:block/acacia_display",
+    "0": "butchery:block/acacia_display"
+  },
+  "render_type": "cutout"
+}

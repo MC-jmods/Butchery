@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/siamese_cat_head",
+  "textures": {
+    "all": "butchery:block/siamese",
+    "particle": "butchery:block/siamese",
+    "0": "butchery:block/siamese"
+  },
+  "render_type": "cutout"
+}

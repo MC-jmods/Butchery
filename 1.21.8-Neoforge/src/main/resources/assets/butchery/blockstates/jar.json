@@ -1,0 +1,304 @@
+{
+  "variants": {
+    "facing=north,blockstate=0": {
+      "model": "butchery:block/jar"
+    },
+    "facing=east,blockstate=0": {
+      "model": "butchery:block/jar",
+      "y": 90
+    },
+    "facing=south,blockstate=0": {
+      "model": "butchery:block/jar",
+      "y": 180
+    },
+    "facing=west,blockstate=0": {
+      "model": "butchery:block/jar",
+      "y": 270
+    },
+    "facing=north,blockstate=1": {
+      "model": "butchery:block/jarblockstates_blockstate_0"
+    },
+    "facing=east,blockstate=1": {
+      "model": "butchery:block/jarblockstates_blockstate_0",
+      "y": 90
+    },
+    "facing=south,blockstate=1": {
+      "model": "butchery:block/jarblockstates_blockstate_0",
+      "y": 180
+    },
+    "facing=west,blockstate=1": {
+      "model": "butchery:block/jarblockstates_blockstate_0",
+      "y": 270
+    },
+    "facing=north,blockstate=2": {
+      "model": "butchery:block/jarblockstates_blockstate_1"
+    },
+    "facing=east,blockstate=2": {
+      "model": "butchery:block/jarblockstates_blockstate_1",
+      "y": 90
+    },
+    "facing=south,blockstate=2": {
+      "model": "butchery:block/jarblockstates_blockstate_1",
+      "y": 180
+    },
+    "facing=west,blockstate=2": {
+      "model": "butchery:block/jarblockstates_blockstate_1",
+      "y": 270
+    },
+    "facing=north,blockstate=3": {
+      "model": "butchery:block/jarblockstates_blockstate_2"
+    },
+    "facing=east,blockstate=3": {
+      "model": "butchery:block/jarblockstates_blockstate_2",
+      "y": 90
+    },
+    "facing=south,blockstate=3": {
+      "model": "butchery:block/jarblockstates_blockstate_2",
+      "y": 180
+    },
+    "facing=west,blockstate=3": {
+      "model": "butchery:block/jarblockstates_blockstate_2",
+      "y": 270
+    },
+    "facing=north,blockstate=4": {
+      "model": "butchery:block/jarblockstates_blockstate_3"
+    },
+    "facing=east,blockstate=4": {
+      "model": "butchery:block/jarblockstates_blockstate_3",
+      "y": 90
+    },
+    "facing=south,blockstate=4": {
+      "model": "butchery:block/jarblockstates_blockstate_3",
+      "y": 180
+    },
+    "facing=west,blockstate=4": {
+      "model": "butchery:block/jarblockstates_blockstate_3",
+      "y": 270
+    },
+    "facing=north,blockstate=5": {
+      "model": "butchery:block/jarblockstates_blockstate_4"
+    },
+    "facing=east,blockstate=5": {
+      "model": "butchery:block/jarblockstates_blockstate_4",
+      "y": 90
+    },
+    "facing=south,blockstate=5": {
+      "model": "butchery:block/jarblockstates_blockstate_4",
+      "y": 180
+    },
+    "facing=west,blockstate=5": {
+      "model": "butchery:block/jarblockstates_blockstate_4",
+      "y": 270
+    },
+    "facing=north,blockstate=6": {
+      "model": "butchery:block/jarblockstates_blockstate_5"
+    },
+    "facing=east,blockstate=6": {
+      "model": "butchery:block/jarblockstates_blockstate_5",
+      "y": 90
+    },
+    "facing=south,blockstate=6": {
+      "model": "butchery:block/jarblockstates_blockstate_5",
+      "y": 180
+    },
+    "facing=west,blockstate=6": {
+      "model": "butchery:block/jarblockstates_blockstate_5",
+      "y": 270
+    },
+    "facing=north,blockstate=7": {
+      "model": "butchery:block/jarblockstates_blockstate_6"
+    },
+    "facing=east,blockstate=7": {
+      "model": "butchery:block/jarblockstates_blockstate_6",
+      "y": 90
+    },
+    "facing=south,blockstate=7": {
+      "model": "butchery:block/jarblockstates_blockstate_6",
+      "y": 180
+    },
+    "facing=west,blockstate=7": {
+      "model": "butchery:block/jarblockstates_blockstate_6",
+      "y": 270
+    },
+    "facing=north,blockstate=8": {
+      "model": "butchery:block/jarblockstates_blockstate_7"
+    },
+    "facing=east,blockstate=8": {
+      "model": "butchery:block/jarblockstates_blockstate_7",
+      "y": 90
+    },
+    "facing=south,blockstate=8": {
+      "model": "butchery:block/jarblockstates_blockstate_7",
+      "y": 180
+    },
+    "facing=west,blockstate=8": {
+      "model": "butchery:block/jarblockstates_blockstate_7",
+      "y": 270
+    },
+    "facing=north,blockstate=9": {
+      "model": "butchery:block/jarblockstates_blockstate_8"
+    },
+    "facing=east,blockstate=9": {
+      "model": "butchery:block/jarblockstates_blockstate_8",
+      "y": 90
+    },
+    "facing=south,blockstate=9": {
+      "model": "butchery:block/jarblockstates_blockstate_8",
+      "y": 180
+    },
+    "facing=west,blockstate=9": {
+      "model": "butchery:block/jarblockstates_blockstate_8",
+      "y": 270
+    },
+    "facing=north,blockstate=10": {
+      "model": "butchery:block/jarblockstates_blockstate_9"
+    },
+    "facing=east,blockstate=10": {
+      "model": "butchery:block/jarblockstates_blockstate_9",
+      "y": 90
+    },
+    "facing=south,blockstate=10": {
+      "model": "butchery:block/jarblockstates_blockstate_9",
+      "y": 180
+    },
+    "facing=west,blockstate=10": {
+      "model": "butchery:block/jarblockstates_blockstate_9",
+      "y": 270
+    },
+    "facing=north,blockstate=11": {
+      "model": "butchery:block/jarblockstates_blockstate_10"
+    },
+    "facing=east,blockstate=11": {
+      "model": "butchery:block/jarblockstates_blockstate_10",
+      "y": 90
+    },
+    "facing=south,blockstate=11": {
+      "model": "butchery:block/jarblockstates_blockstate_10",
+      "y": 180
+    },
+    "facing=west,blockstate=11": {
+      "model": "butchery:block/jarblockstates_blockstate_10",
+      "y": 270
+    },
+    "facing=north,blockstate=12": {
+      "model": "butchery:block/jarblockstates_blockstate_11"
+    },
+    "facing=east,blockstate=12": {
+      "model": "butchery:block/jarblockstates_blockstate_11",
+      "y": 90
+    },
+    "facing=south,blockstate=12": {
+      "model": "butchery:block/jarblockstates_blockstate_11",
+      "y": 180
+    },
+    "facing=west,blockstate=12": {
+      "model": "butchery:block/jarblockstates_blockstate_11",
+      "y": 270
+    },
+    "facing=north,blockstate=13": {
+      "model": "butchery:block/jarblockstates_blockstate_12"
+    },
+    "facing=east,blockstate=13": {
+      "model": "butchery:block/jarblockstates_blockstate_12",
+      "y": 90
+    },
+    "facing=south,blockstate=13": {
+      "model": "butchery:block/jarblockstates_blockstate_12",
+      "y": 180
+    },
+    "facing=west,blockstate=13": {
+      "model": "butchery:block/jarblockstates_blockstate_12",
+      "y": 270
+    },
+    "facing=north,blockstate=14": {
+      "model": "butchery:block/jarblockstates_blockstate_13"
+    },
+    "facing=east,blockstate=14": {
+      "model": "butchery:block/jarblockstates_blockstate_13",
+      "y": 90
+    },
+    "facing=south,blockstate=14": {
+      "model": "butchery:block/jarblockstates_blockstate_13",
+      "y": 180
+    },
+    "facing=west,blockstate=14": {
+      "model": "butchery:block/jarblockstates_blockstate_13",
+      "y": 270
+    },
+    "facing=north,blockstate=15": {
+      "model": "butchery:block/jarblockstates_blockstate_14"
+    },
+    "facing=east,blockstate=15": {
+      "model": "butchery:block/jarblockstates_blockstate_14",
+      "y": 90
+    },
+    "facing=south,blockstate=15": {
+      "model": "butchery:block/jarblockstates_blockstate_14",
+      "y": 180
+    },
+    "facing=west,blockstate=15": {
+      "model": "butchery:block/jarblockstates_blockstate_14",
+      "y": 270
+    },
+    "facing=north,blockstate=16": {
+      "model": "butchery:block/jarblockstates_blockstate_15"
+    },
+    "facing=east,blockstate=16": {
+      "model": "butchery:block/jarblockstates_blockstate_15",
+      "y": 90
+    },
+    "facing=south,blockstate=16": {
+      "model": "butchery:block/jarblockstates_blockstate_15",
+      "y": 180
+    },
+    "facing=west,blockstate=16": {
+      "model": "butchery:block/jarblockstates_blockstate_15",
+      "y": 270
+    },
+    "facing=north,blockstate=17": {
+      "model": "butchery:block/jarblockstates_blockstate_16"
+    },
+    "facing=east,blockstate=17": {
+      "model": "butchery:block/jarblockstates_blockstate_16",
+      "y": 90
+    },
+    "facing=south,blockstate=17": {
+      "model": "butchery:block/jarblockstates_blockstate_16",
+      "y": 180
+    },
+    "facing=west,blockstate=17": {
+      "model": "butchery:block/jarblockstates_blockstate_16",
+      "y": 270
+    },
+    "facing=north,blockstate=18": {
+      "model": "butchery:block/jarblockstates_blockstate_17"
+    },
+    "facing=east,blockstate=18": {
+      "model": "butchery:block/jarblockstates_blockstate_17",
+      "y": 90
+    },
+    "facing=south,blockstate=18": {
+      "model": "butchery:block/jarblockstates_blockstate_17",
+      "y": 180
+    },
+    "facing=west,blockstate=18": {
+      "model": "butchery:block/jarblockstates_blockstate_17",
+      "y": 270
+    },
+    "facing=north,blockstate=19": {
+      "model": "butchery:block/jarblockstates_blockstate_18"
+    },
+    "facing=east,blockstate=19": {
+      "model": "butchery:block/jarblockstates_blockstate_18",
+      "y": 90
+    },
+    "facing=south,blockstate=19": {
+      "model": "butchery:block/jarblockstates_blockstate_18",
+      "y": 180
+    },
+    "facing=west,blockstate=19": {
+      "model": "butchery:block/jarblockstates_blockstate_18",
+      "y": 270
+    }
+  }
+}

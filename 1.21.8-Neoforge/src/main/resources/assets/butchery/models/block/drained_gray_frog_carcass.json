@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/drained_gray_frog_carcass",
+  "textures": {
+    "all": "butchery:block/gray_frog",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/default_gray_frog"
+  },
+  "render_type": "cutout_mipped"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/wooden_butchers_table_crimson",
+  "textures": {
+    "all": "butchery:block/wooden_butchers_table_crimson",
+    "particle": "butchery:block/wooden_butchers_table_crimson",
+    "0": "butchery:block/wooden_butchers_table_crimson"
+  },
+  "render_type": "cutout"
+}

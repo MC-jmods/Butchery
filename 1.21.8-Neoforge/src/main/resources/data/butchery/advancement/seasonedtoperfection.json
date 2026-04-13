@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "id": "butchery:salt"
+    },
+    "title": {
+      "translate": "advancements.seasonedtoperfection.title"
+    },
+    "description": {
+      "translate": "advancements.seasonedtoperfection.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "seasonedtoperfection_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 5
+  },
+  "parent": "butchery:step_toward_leather"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/british_shorthair_cat_head",
+  "textures": {
+    "all": "butchery:block/british_shorthair",
+    "particle": "butchery:block/british_shorthair",
+    "0": "butchery:block/british_shorthair"
+  },
+  "render_type": "cutout"
+}

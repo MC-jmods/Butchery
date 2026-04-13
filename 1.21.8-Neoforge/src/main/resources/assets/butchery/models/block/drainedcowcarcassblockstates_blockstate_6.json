@@ -1,0 +1,11 @@
+{
+  "parent": "butchery:custom/cow_carcass_headless_skinned",
+  "textures": {
+    "all": "butchery:block/cow_skinned",
+    "particle": "minecraft:block/nether_wart_block",
+    "cow_texture": "butchery:block/cow_skinned",
+    "Cow Skeleton": "butchery:block/cow_skeleton",
+    "Inner Texture": "butchery:block/inner_blood"
+  },
+  "render_type": "cutout"
+}

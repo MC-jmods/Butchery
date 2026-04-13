@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/creeper_carcass_drained_hanging",
+  "textures": {
+    "all": "butchery:block/creeper_drained",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/creeper_drained"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "butchery:custom/endermite_head_mount",
+  "textures": {
+    "all": "butchery:block/endermite",
+    "particle": "butchery:block/endermite",
+    "mob": "butchery:block/endermite",
+    "1": "butchery:block/head_stand"
+  },
+  "render_type": "cutout"
+}

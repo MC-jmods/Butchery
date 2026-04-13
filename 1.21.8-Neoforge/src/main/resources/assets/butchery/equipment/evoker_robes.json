@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "butchery:evoker_robes"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "butchery:evoker_robes"
+      }
+    ]
+  }
+}

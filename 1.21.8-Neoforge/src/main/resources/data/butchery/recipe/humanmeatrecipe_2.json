@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "group": "human",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": "butchery:rawhumanmeat",
+  "result": {
+    "id": "butchery:cookedhumanmeat"
+  }
+}

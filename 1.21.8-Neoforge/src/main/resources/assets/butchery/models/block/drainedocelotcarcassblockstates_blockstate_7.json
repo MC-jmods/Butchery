@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/ocelot_carcass_cut_1",
+  "textures": {
+    "all": "butchery:block/ocelot_skinned",
+    "particle": "minecraft:block/nether_wart_block",
+    "0": "butchery:block/ocelot_skinned"
+  },
+  "render_type": "cutout"
+}

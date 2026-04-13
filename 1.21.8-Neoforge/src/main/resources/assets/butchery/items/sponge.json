@@ -1,0 +1,151 @@
+{
+  "model": {
+    "type": "butchery:legacy_overrides",
+    "overrides": [
+      {
+        "predicate": [
+          {
+            "property": {
+              "property": "butchery:sponge/wetness"
+            },
+            "value": 1
+          }
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "butchery:item/sponge_0"
+        }
+      },
+      {
+        "predicate": [
+          {
+            "property": {
+              "property": "butchery:sponge/wetness"
+            },
+            "value": 2
+          }
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "butchery:item/sponge_1"
+        }
+      },
+      {
+        "predicate": [
+          {
+            "property": {
+              "property": "butchery:sponge/wetness"
+            },
+            "value": 3
+          }
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "butchery:item/sponge_2"
+        }
+      },
+      {
+        "predicate": [
+          {
+            "property": {
+              "property": "butchery:sponge/wetness"
+            },
+            "value": 4
+          }
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "butchery:item/sponge_3"
+        }
+      },
+      {
+        "predicate": [
+          {
+            "property": {
+              "property": "butchery:sponge/wetness"
+            },
+            "value": 5
+          }
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "butchery:item/sponge_4"
+        }
+      },
+      {
+        "predicate": [
+          {
+            "property": {
+              "property": "butchery:sponge/wetness"
+            },
+            "value": 6
+          }
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "butchery:item/sponge_5"
+        }
+      },
+      {
+        "predicate": [
+          {
+            "property": {
+              "property": "butchery:sponge/wetness"
+            },
+            "value": 7
+          }
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "butchery:item/sponge_6"
+        }
+      },
+      {
+        "predicate": [
+          {
+            "property": {
+              "property": "butchery:sponge/wetness"
+            },
+            "value": 8
+          }
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "butchery:item/sponge_7"
+        }
+      },
+      {
+        "predicate": [
+          {
+            "property": {
+              "property": "butchery:sponge/wetness"
+            },
+            "value": 9
+          }
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "butchery:item/sponge_8"
+        }
+      },
+      {
+        "predicate": [
+          {
+            "property": {
+              "property": "butchery:sponge/wetness"
+            },
+            "value": 10
+          }
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "butchery:item/sponge_9"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "butchery:item/sponge"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    " b "
+  ],
+  "key": {
+    "a": "minecraft:iron_ingot",
+    "b": "minecraft:stick"
+  },
+  "result": {
+    "id": "butchery:iron_hammer",
+    "count": 1
+  }
+}

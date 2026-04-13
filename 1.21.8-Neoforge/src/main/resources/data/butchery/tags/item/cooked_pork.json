@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "butchery:cooked_pork_leg",
+    "butchery:cooked_ham",
+    "butchery:cooked_pork_loin",
+    "butchery:cooked_pork_belly",
+    "butchery:cooked_pork_shoulder"
+  ]
+}

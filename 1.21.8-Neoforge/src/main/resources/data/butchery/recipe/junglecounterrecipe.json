@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "bb"
+  ],
+  "key": {
+    "a": "minecraft:iron_ingot",
+    "b": "minecraft:jungle_planks"
+  },
+  "result": {
+    "id": "butchery:jungle_counter",
+    "count": 1
+  }
+}

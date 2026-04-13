@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/blood_grate_vampirism",
+  "textures": {
+    "all": "butchery:block/tank_vampirism",
+    "particle": "butchery:block/tank",
+    "1": "butchery:block/tank_vampirism"
+  },
+  "render_type": "cutout"
+}

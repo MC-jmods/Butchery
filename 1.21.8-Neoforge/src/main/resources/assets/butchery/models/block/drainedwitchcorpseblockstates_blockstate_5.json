@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/witch_corpse_headless",
+  "textures": {
+    "all": "butchery:block/witch_drained",
+    "particle": "butchery:block/witch_drained",
+    "0": "butchery:block/witch_drained"
+  },
+  "render_type": "cutout"
+}

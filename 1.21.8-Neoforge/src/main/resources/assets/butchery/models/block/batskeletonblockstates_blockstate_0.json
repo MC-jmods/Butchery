@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/hanging_bat_skeleton",
+  "textures": {
+    "all": "butchery:block/bat_skeleton",
+    "particle": "butchery:block/bat_skeleton",
+    "0": "butchery:block/bat_skeleton"
+  },
+  "render_type": "cutout"
+}

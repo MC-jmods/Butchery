@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "butchery:drained_panda_carcass",
+    "butchery:panda_carcass"
+  ]
+}

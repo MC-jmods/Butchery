@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": "butchery:dragon_smithing_template",
+  "base": "minecraft:netherite_boots",
+  "addition": "butchery:dragon_scale_ingot",
+  "result": {
+    "id": "butchery:dragon_scale_armor_boots"
+  }
+}

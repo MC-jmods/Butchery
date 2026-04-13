@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "butchery:blocks/crimson_butcher_display",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "butchery:crimson_butcher_display"
+        }
+      ]
+    }
+  ]
+}

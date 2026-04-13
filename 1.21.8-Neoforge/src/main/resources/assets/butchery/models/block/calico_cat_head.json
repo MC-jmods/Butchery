@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/calico_cat_head",
+  "textures": {
+    "all": "butchery:block/calico",
+    "particle": "butchery:block/calico",
+    "0": "butchery:block/calico"
+  },
+  "render_type": "cutout"
+}

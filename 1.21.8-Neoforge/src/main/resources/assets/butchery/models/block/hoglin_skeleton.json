@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/hoglin_skeleton",
+  "textures": {
+    "all": "butchery:block/hoglin_skeleton",
+    "particle": "butchery:block/hoglin_skeleton",
+    "hoglin": "butchery:block/hoglin_skeleton"
+  },
+  "render_type": "cutout"
+}

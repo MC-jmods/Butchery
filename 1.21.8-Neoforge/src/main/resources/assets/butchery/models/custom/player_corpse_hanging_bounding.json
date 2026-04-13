@@ -1,0 +1,264 @@
+{
+  "format_version": "1.9.0",
+  "credit": "Made with Blockbench",
+  "texture_size": [
+    64,
+    64
+  ],
+  "elements": [
+    {
+      "name": "body",
+      "from": [
+        4,
+        7.09215,
+        6.39928
+      ],
+      "to": [
+        12,
+        19.09215,
+        10.39928
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          -0.90785,
+          9.39928
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            5,
+            5,
+            7,
+            8
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            4,
+            5,
+            5,
+            8
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            8,
+            5,
+            10,
+            8
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            7,
+            5,
+            8,
+            8
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            7,
+            5,
+            5,
+            4
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            9,
+            4,
+            7,
+            5
+          ],
+          "texture": "#0"
+        }
+      }
+    }
+  ],
+  "groups": [
+    {
+      "name": "bone",
+      "origin": [
+        8,
+        12.42548,
+        6.39928
+      ],
+      "color": 0,
+      "children": [
+        {
+          "name": "right_leg",
+          "origin": [
+            10,
+            5.09215,
+            6.39928
+          ],
+          "color": 1,
+          "children": []
+        },
+        {
+          "name": "left_leg",
+          "origin": [
+            6,
+            5.09215,
+            6.39928
+          ],
+          "color": 2,
+          "children": []
+        },
+        {
+          "name": "right_arm",
+          "origin": [
+            13,
+            15.09215,
+            6.39928
+          ],
+          "color": 3,
+          "children": []
+        },
+        {
+          "name": "left_arm",
+          "origin": [
+            3,
+            15.09215,
+            6.39928
+          ],
+          "color": 4,
+          "children": []
+        },
+        {
+          "name": "body",
+          "origin": [
+            8,
+            17.09215,
+            6.39928
+          ],
+          "color": 5,
+          "children": [
+            0
+          ]
+        },
+        {
+          "name": "head",
+          "origin": [
+            8,
+            17.09215,
+            6.39928
+          ],
+          "color": 6,
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "bone",
+      "origin": [
+        0,
+        7,
+        32
+      ],
+      "rotation": [
+        -5,
+        0,
+        0
+      ],
+      "color": 0,
+      "children": [
+        {
+          "name": "right_leg",
+          "origin": [
+            2,
+            8,
+            -1
+          ],
+          "rotation": [
+            0,
+            0,
+            7.5
+          ],
+          "color": 1,
+          "children": []
+        },
+        {
+          "name": "left_leg",
+          "origin": [
+            -2,
+            8,
+            -1
+          ],
+          "rotation": [
+            7.5,
+            0,
+            0
+          ],
+          "color": 2,
+          "children": []
+        },
+        {
+          "name": "right_arm",
+          "origin": [
+            5,
+            18,
+            -1
+          ],
+          "rotation": [
+            5,
+            0,
+            2.5
+          ],
+          "color": 3,
+          "children": []
+        },
+        {
+          "name": "left_arm",
+          "origin": [
+            -5,
+            18,
+            -1
+          ],
+          "rotation": [
+            7.5,
+            0,
+            -2.5
+          ],
+          "color": 4,
+          "children": []
+        },
+        {
+          "name": "body",
+          "origin": [
+            0,
+            20,
+            -1
+          ],
+          "color": 5,
+          "children": []
+        },
+        {
+          "name": "head",
+          "origin": [
+            0,
+            20,
+            -1
+          ],
+          "rotation": [
+            -17.5,
+            0,
+            0
+          ],
+          "color": 6,
+          "children": []
+        }
+      ]
+    }
+  ]
+}

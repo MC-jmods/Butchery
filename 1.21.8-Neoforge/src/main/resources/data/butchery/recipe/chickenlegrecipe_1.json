@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "group": "chicken",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 150,
+  "ingredient": "butchery:raw_chicken_leg",
+  "result": {
+    "id": "butchery:cooked_chicken_leg"
+  }
+}

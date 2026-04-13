@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#butchery:skulls",
+      "required": false
+    },
+    {
+      "id": "#butchery:ice_skull",
+      "required": false
+    },
+    {
+      "id": "#butchery:heads",
+      "required": false
+    },
+    {
+      "id": "#butchery:wither_skull",
+      "required": false
+    },
+    {
+      "id": "#butchery:spider_head",
+      "required": false
+    }
+  ]
+}

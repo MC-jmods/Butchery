@@ -1,0 +1,9 @@
+{
+  "parent": "butchery:custom/sand_12",
+  "textures": {
+    "all": "minecraft:block/sand",
+    "particle": "minecraft:block/sand",
+    "missing": "minecraft:block/sand"
+  },
+  "render_type": "solid"
+}
